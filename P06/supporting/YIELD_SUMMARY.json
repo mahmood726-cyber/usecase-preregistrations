@@ -1,0 +1,1269 @@
+{
+ "P14": {
+  "pilot": "P14",
+  "frame_deduplicated": 3433,
+  "screened_contiguous_prefix": 3433,
+  "eligible": 18,
+  "unresolved": 152,
+  "excluded": 3263,
+  "eligible_ranks": [
+   101,
+   754,
+   821,
+   1224,
+   1317,
+   1500,
+   1574,
+   1583,
+   1665,
+   1697,
+   2188,
+   2191,
+   2510,
+   2515,
+   2866,
+   3169,
+   3373,
+   3382
+  ],
+  "yield": 0.0052432274978153216,
+  "yield_wilson95": [
+   0.00331921831502305,
+   0.008273245084311404
+  ],
+  "projected_eligible_in_frame": 18.0,
+  "projected_eligible_in_frame_wilson95": [
+   11.4,
+   28.4
+  ],
+  "upper_bound_if_all_unresolved_eligible": 0.04951937081270026,
+  "selected_ranks_seeded_order": [
+   101,
+   754,
+   821,
+   1224,
+   1317,
+   1500,
+   1574,
+   1583,
+   1665,
+   1697,
+   2188,
+   2191,
+   2510,
+   2515,
+   2866,
+   3169,
+   3373,
+   3382
+  ],
+  "stopping_rank": null,
+  "unresolved_within_selection_window": [
+   {
+    "rank": 8,
+    "code": "C:POPULATION",
+    "reason": "Eligibility permits ages 3\u201318. Table 1 largely reports mean ages rather than entry-age ranges, so inclusion of participants aged 18 cannot be ruled out."
+   },
+   {
+    "rank": 48,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise meta-analysis described as restricted to RCTs. However, included reference 29 describes a partially randomised preference trial; the text does not establish whether only randomiz"
+   },
+   {
+    "rank": 57,
+    "code": "C:POPULATION",
+    "reason": "No contributing population exists for the designated synthesis. Review-wide eligibility allowed ages three to 18, which alone does not establish compliance with P14."
+   },
+   {
+    "rank": 88,
+    "code": "C:NONINDEPENDENT",
+    "reason": "The mortality contributors are not individually identified, preventing verification of report overlap or shared controls."
+   },
+   {
+    "rank": 111,
+    "code": "C:DESIGN",
+    "reason": "The review includes randomized and observational studies. No lung-function-specific pooled synthesis is identifiable, so its design composition cannot be established."
+   },
+   {
+    "rank": 140,
+    "code": "C:POPULATION",
+    "reason": "Methods require participants below 18, but Results describe participants aged 18 or younger and an adolescent range extending to 18. Trial-entry age ranges are not printed."
+   },
+   {
+    "rank": 144,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise synthesis of trials described as randomized. Discussion acknowledges quasi-randomized studies but does not identify whether these contribute to the designated synthesis."
+   },
+   {
+    "rank": 148,
+    "code": "C:POPULATION",
+    "reason": "Eligibility allowed participants aged 18 years or younger. The text does not establish that everyone in the designated synthesis was aged 0\u201317 at entry; predominantly mean ages are provided."
+   },
+   {
+    "rank": 178,
+    "code": "C:POPULATION",
+    "reason": "Early adolescents are described, but trial-entry age limits are not reported."
+   },
+   {
+    "rank": 224,
+    "code": "C:DESIGN",
+    "reason": "The review uses pairwise meta-analysis of cluster randomized trials, but no synthesis of the designated incidence outcome is reported."
+   },
+   {
+    "rank": 246,
+    "code": "C:DESIGN",
+    "reason": "No synthesis of the designated outcome is presented. The reported glucocorticoid synthesis admits retrospective studies and randomized controlled trials, but cannot be substituted for the mechanically"
+   },
+   {
+    "rank": 306,
+    "code": "C:DESIGN",
+    "reason": "Methods describes pairwise synthesis of RCTs and cluster RCTs, but a unique designated synthesis cannot be identified. Table 2 also includes quasi-randomized and mixed-design entries."
+   },
+   {
+    "rank": 327,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise pooling is described. Eligibility permits quasi-experimental studies; Table 3 marks Kapl\u00e1nov\u00e1 2022 and Wang 2020 as lacking random allocation, contradicting the narrative claim t"
+   },
+   {
+    "rank": 335,
+    "code": "C:POPULATION",
+    "reason": "Child outcomes with parental involvement qualify in principle, but eligibility permits ages 2\u201318 and the designated trials' entry-age ranges are not fully reported, preventing confirmation that all pa"
+   },
+   {
+    "rank": 379,
+    "code": "C:POPULATION",
+    "reason": "The review includes term infants but also trials with prenatal administration. Without a designated synthesis, compliance with the rule requiring children already born at trial entry cannot be establi"
+   },
+   {
+    "rank": 402,
+    "code": "C:DESIGN",
+    "reason": "Pairwise synthesis of parallel-group RCTs. Methods describe Bayesian random-effects models, but the designated Figure 1 caption identifies DerSimonian\u2013Laird, leaving the analytical design inconsistent"
+   },
+   {
+    "rank": 426,
+    "code": "C:DESIGN",
+    "reason": "The review claims RCT-only inclusion, but Table 1 includes DBP studies labelled 'No control' or 'Not control'. The text does not identify all Figure 10 contributors, so their inclusion in the designat"
+   },
+   {
+    "rank": 498,
+    "code": "C:NONINDEPENDENT",
+    "reason": "Multi-arm studies are included. Averaging across control conditions is explicitly described for selective/universal analyses, but handling of shared intervention arms in the overall depression synthes"
+   },
+   {
+    "rank": 506,
+    "code": "C:NONINDEPENDENT",
+    "reason": "Trial-level design and report details cannot be inspected because Table 1 is an image. No shared-control, duplicate-report, cluster or crossover issue is explicitly described."
+   },
+   {
+    "rank": 515,
+    "code": "C:NONINDEPENDENT",
+    "reason": "Table 1 includes multi-arm trials, including Bozkurt and Koo; handling of shared groups in the overall synthesis is not described. The review identifies overlapping cohort reports, but the designated "
+   },
+   {
+    "rank": 544,
+    "code": "C:DESIGN",
+    "reason": "RCT pairwise analyses and nonrandomized analyses are reported separately, but a designated synthesis cannot be selected under Step 1."
+   },
+   {
+    "rank": 587,
+    "code": "C:POPULATION",
+    "reason": "Methods restrict eligibility to children younger than 18, but Results section 3.1 reports an age inclusion range extending to 18. Whether the designated synthesis includes participants aged 18 at entr"
+   },
+   {
+    "rank": 617,
+    "code": "C:POPULATION",
+    "reason": "Eligibility targeted children aged 1 to younger than 18 years but allowed trials with only 80% within that range. The text does not establish that every participant in the provisional synthesis was ag"
+   },
+   {
+    "rank": 630,
+    "code": "C:POPULATION",
+    "reason": "Eligibility allowed participants under 20 years. Table 1 gives some mean ages but does not establish that all participants in the designated synthesis were aged 0\u201317 at trial entry."
+   },
+   {
+    "rank": 642,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise meta-analysis described as including RCTs. However, some included studies allocated by surgeon on call or odd/even inpatient numbers; their contribution to carrying angle cannot "
+   },
+   {
+    "rank": 669,
+    "code": "C:DESIGN",
+    "reason": "The review contains pairwise RCT meta-analyses and pooled incidence analyses combining RCTs and prospective cohorts. Without an eligible outcome designation, the applicable synthesis cannot be establi"
+   },
+   {
+    "rank": 699,
+    "code": "C:POPULATION",
+    "reason": "Methods allow children aged \u226418 years. Table 1 gives ages within 0\u201317 for most pain trials, but Newman has only a lower age bound, so inclusion of 18-year-olds cannot be ruled out."
+   },
+   {
+    "rank": 755,
+    "code": "C:DESIGN",
+    "reason": "Included studies are described as randomized trials, but separate pooling for each milk group, including placebo, leaves unclear whether the designated synthesis compares randomized arms or within-arm"
+   },
+   {
+    "rank": 768,
+    "code": "C:POPULATION",
+    "reason": "Trials involve already-born preterm infants and their mothers, but the first reported interaction synthesis measures mothers\u2019 behavior. The rules do not explicitly resolve eligibility of this dyadic o"
+   },
+   {
+    "rank": 772,
+    "code": "C:POPULATION",
+    "reason": "Children with cerebral palsy; eligibility permits age 18. Table 3 provides mean ages rather than entry-age ranges for the designated trials, so restriction to ages 0\u201317 cannot be confirmed."
+   },
+   {
+    "rank": 827,
+    "code": "C:POPULATION",
+    "reason": "Eligibility permits ages 0\u201318 years. Ages of participants in the designated trials are not printed in the supplied text, so restriction to ages 0\u201317 cannot be confirmed."
+   },
+   {
+    "rank": 838,
+    "code": "C:POPULATION",
+    "reason": "Eligibility permits participants aged 18 years. Table 1 reports mean or median ages rather than entry-age ranges, so restriction to ages 0\u201317 cannot be confirmed for the designated synthesis."
+   },
+   {
+    "rank": 853,
+    "code": "C:DESIGN",
+    "reason": "Described as a conventional pairwise RCT meta-analysis, but self-control trials are also included; their contribution to the designated synthesis is not identified."
+   },
+   {
+    "rank": 912,
+    "code": "C:POPULATION",
+    "reason": "Eligibility allows participants aged 18 years, exceeding P14's upper limit of 17. Table 1 provides mean ages only, so the designated synthesis's age range cannot be confirmed."
+   },
+   {
+    "rank": 943,
+    "code": "C:NONINDEPENDENT",
+    "reason": "Table 1 includes multiple multi-arm trials contributing relevant interventions. The text does not explain whether arms were combined, shared controls were handled, or multiple contrasts entered the ov"
+   },
+   {
+    "rank": 946,
+    "code": "C:NONINDEPENDENT",
+    "reason": "Methods allow merging relevant arms but also entering multi-arm study data multiple times. Whether shared controls or repeated contrasts affect Figure S6 cannot be determined. No included trials were "
+   },
+   {
+    "rank": 972,
+    "code": "C:POPULATION",
+    "reason": "Review eligibility and overall participant ages extend to 18 years. Ages for the designated synthesis are not provided, so restriction to ages 0\u201317 cannot be confirmed."
+   },
+   {
+    "rank": 1064,
+    "code": "D:K_CONFLICT",
+    "reason": "text k=11, plot rows=12"
+   },
+   {
+    "rank": 1066,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise synthesis described as including RCTs. However, contributing study Yin 2022 is titled a retrospective study in reference 28, creating an unresolved design discrepancy."
+   },
+   {
+    "rank": 1086,
+    "code": "C:POPULATION",
+    "reason": "Methods permit ages 0\u201318 years. Trial-specific ages are absent, so restriction to ages 0\u201317 at entry cannot be confirmed."
+   },
+   {
+    "rank": 1090,
+    "code": "C:POPULATION",
+    "reason": "Eligibility permits ages 5\u201318. Table 4 supplies mainly mean ages, which cannot establish that all participants were aged 0\u201317 at entry."
+   },
+   {
+    "rank": 1122,
+    "code": "C:POPULATION",
+    "reason": "Eligibility permits ages 4\u201318. Table 1 reports mean ages, not entry-age ranges; whether the designated synthesis includes participants aged 18 cannot be established."
+   },
+   {
+    "rank": 1124,
+    "code": "C:POPULATION",
+    "reason": "Eligibility allowed children aged 0\u201318 years. Table 1 gives summary ages, not age ranges; restriction to ages 0\u201317 at trial entry cannot be confirmed."
+   },
+   {
+    "rank": 1127,
+    "code": "C:POPULATION",
+    "reason": "Eligibility permits ages 8\u201318, and Table 2 includes trials with adults older than 18. The text does not identify which trials contribute to Figure 4 or establish a synthesis restricted to ages 0\u201317."
+   },
+   {
+    "rank": 1191,
+    "code": "C:DESIGN",
+    "reason": "No synthesis of the designated outcome is presented. The review admits randomized and clinical controlled trials; Table 3 and the narrative disagree about included designs."
+   },
+   {
+    "rank": 1199,
+    "code": "C:POPULATION",
+    "reason": "Review permits ages 7\u201319. Table 1 mostly provides mean ages for depression RCTs, so entry ages exclusively within 0\u201317 cannot be confirmed. The explicitly reported 15\u201319-year trial does not contribute"
+   },
+   {
+    "rank": 1208,
+    "code": "C:POPULATION",
+    "reason": "Participants have adolescent idiopathic scoliosis, but trial-entry age limits are not reported. The introduction defines adolescence as ages 10\u201319, so restriction to ages 0\u201317 cannot be confirmed."
+   },
+   {
+    "rank": 1236,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise pooling is described. Inclusion criteria and Table 2 describe randomized trials, but the quality assessment states only 21 of 25 studies were randomized. The designated synthesis"
+   },
+   {
+    "rank": 1242,
+    "code": "C:DESIGN",
+    "reason": "The review includes RCTs and nonrandomized studies, but no designated CPR-knowledge synthesis is identifiable."
+   },
+   {
+    "rank": 1249,
+    "code": "C:POPULATION",
+    "reason": "Outcomes concern term and preterm infants, but the text does not establish that all infants were already born at randomization. Table 1 describes birth-related post-randomization exclusions in one con"
+   },
+   {
+    "rank": 1251,
+    "code": "C:POPULATION",
+    "reason": "Schoolchildren were studied, but review eligibility allowed ages 4\u201318. Exact entry-age ranges for the two designated trials are not provided, so restriction to ages 0\u201317 cannot be confirmed."
+   },
+   {
+    "rank": 1304,
+    "code": "C:POPULATION",
+    "reason": "Children with spastic cerebral palsy; eligibility allowed negligible proportions outside the age limit. Exact entry ages for the designated synthesis are unavailable."
+   },
+   {
+    "rank": 1309,
+    "code": "C:POPULATION",
+    "reason": "Target population is aged 4\u201317 years, but Table 1 permits a one-year extension at either age boundary. Actual entry-age ranges for the designated trials are not printed."
+   },
+   {
+    "rank": 1316,
+    "code": "C:POPULATION",
+    "reason": "Eligibility allowed ages 2\u201318 years. Table 1 supplies summary ages rather than entry-age ranges, so restriction of the designated synthesis to ages 0\u201317 cannot be confirmed."
+   },
+   {
+    "rank": 1326,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise synthesis of studies described as RCTs. The review identifies one study using admission-order allocation but does not identify it in the text, so its contribution to this synthes"
+   },
+   {
+    "rank": 1340,
+    "code": "C:POPULATION",
+    "reason": "Table 1 permits ages 6\u201318 at baseline. Actual trial age ranges are not printed in the supplied text, so restriction to ages 0\u201317 cannot be confirmed."
+   },
+   {
+    "rank": 1348,
+    "code": "C:DESIGN",
+    "reason": "The review includes RCTs, but describes pooling within-group baseline-to-follow-up changes, followed by a t-test comparing consolidated treatment and control summaries, rather than conventional poolin"
+   },
+   {
+    "rank": 1379,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise synthesis described as RCT-only, but Table 1 labels Walsh 1993 a pretest-posttest repeated-measures design without confirming randomization."
+   },
+   {
+    "rank": 1386,
+    "code": "C:POPULATION",
+    "reason": "Eligibility permits ages 5\u201318 years. Table 1 provides mean ages rather than complete age ranges, so restriction to ages 0\u201317 at entry cannot be confirmed."
+   },
+   {
+    "rank": 1433,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise meta-analysis. Table 1 labels every study RCT or pilot RCT, but Trial Characteristics says all were RCTs except one pilot prospective study; Study Selection permits controlled tr"
+   },
+   {
+    "rank": 1442,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise synthesis, but eligibility permitted both randomized trials and cohort studies. The text does not establish that all Figure 2 contributors were randomized trials."
+   },
+   {
+    "rank": 1447,
+    "code": "C:DESIGN",
+    "reason": "Conventional aggregate-data pairwise meta-analysis described as restricted to RCTs. However, BMI contributors Oliva 2014 and Chen 2009 link to references describing contextual factors and household ch"
+   },
+   {
+    "rank": 1450,
+    "code": "C:DESIGN",
+    "reason": "Methods restrict inclusion to prospective randomized trials and Results describe RCTs, but Limitations state that most included articles were retrospective. The contradiction prevents confirmation of "
+   },
+   {
+    "rank": 1457,
+    "code": "C:POPULATION",
+    "reason": "Review eligibility allowed mean age \u226418 years, and some included trials enrolled participants aged 18 or older. The three depression trials are not identified in the supplied text, preventing confirma"
+   },
+   {
+    "rank": 1466,
+    "code": "C:POPULATION",
+    "reason": "Section 4.2 describes included participants as aged 6\u201318 years. Ages for the six trials contributing specifically to Figure 2a are not supplied, so restriction to ages 0\u201317 at entry cannot be confirme"
+   },
+   {
+    "rank": 1499,
+    "code": "C:POPULATION",
+    "reason": "Eligibility requires child outcomes under age 18, but the reported overall age range extends to 18. Entry ages for the designated synthesis cannot be established from the supplied text."
+   },
+   {
+    "rank": 1532,
+    "code": "C:POPULATION",
+    "reason": "The ERT trials are described as adolescent samples, but their entry-age ranges are not provided. Review-wide age limits include adults and cannot be mapped to these trials."
+   },
+   {
+    "rank": 1533,
+    "code": "C:POPULATION",
+    "reason": "Mixed adolescent/adult studies were excluded, but adolescents are described as between 12 and 18 years. Trial entry age ranges are absent, so the strict 0\u201317 requirement cannot be confirmed."
+   },
+   {
+    "rank": 1552,
+    "code": "C:POPULATION",
+    "reason": "Trials concern children, but review eligibility allows ages \u226418 years. The text does not establish that all participants in the designated synthesis were aged 0\u201317 at entry."
+   },
+   {
+    "rank": 1631,
+    "code": "C:DESIGN",
+    "reason": "The review reports conventional pairwise meta-analyses of randomized trials, but a synthesis cannot be designated under Step 1."
+   },
+   {
+    "rank": 1646,
+    "code": "C:DESIGN",
+    "reason": "The review pools randomized and nonrandomized controlled studies. The text does not identify the designs of the six studies contributing specifically to ASD symptoms."
+   },
+   {
+    "rank": 1711,
+    "code": "C:NONINDEPENDENT",
+    "reason": "Cluster-randomized trials are included, but adjustment for clustering is not described. The designated trial roster and handling of shared controls cannot be verified from the supplied text."
+   },
+   {
+    "rank": 1716,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise meta-analysis. Eligibility permitted randomized and quasi-randomized trials; the designs contributing specifically to Figure 2D cannot be established from the text."
+   },
+   {
+    "rank": 1719,
+    "code": "C:POPULATION",
+    "reason": "Eligibility required sample mean age below 19 years, which does not establish that all participants were aged 0\u201317 at entry. Designated-trial age ranges are not printed in the supplied text."
+   },
+   {
+    "rank": 1765,
+    "code": "C:DESIGN",
+    "reason": "A meta-analysis of RCTs is described, but a conventional pairwise synthesis cannot be verified."
+   },
+   {
+    "rank": 1772,
+    "code": "C:POPULATION",
+    "reason": "Eligibility permits athletes aged 8\u201321. Ages in the designated trials are not printed in the supplied text; Table S2 is supplementary. Restriction to ages 0\u201317 cannot be verified."
+   },
+   {
+    "rank": 1773,
+    "code": "C:POPULATION",
+    "reason": "Eligibility allowed mixed-age samples with a majority under 18 or a mean age under 18 and maximum age up to 30. Actual trial age ranges are relegated to Supplementary Table S3; the supplied text canno"
+   },
+   {
+    "rank": 1790,
+    "code": "C:DESIGN",
+    "reason": "The review presents separate RCT, cohort, and combined syntheses. Without an outcome designation, the applicable synthesis cannot be selected."
+   },
+   {
+    "rank": 1809,
+    "code": "C:POPULATION",
+    "reason": "Review eligibility permits ages 10\u201319. Entry-age ranges for the designated trials are not printed, so restriction to ages 0\u201317 cannot be confirmed."
+   },
+   {
+    "rank": 1813,
+    "code": "C:POPULATION",
+    "reason": "Participants are described as children and teenagers, but an upper eligibility age of 17 is not specified. Table 1 provides mean ages for several trials rather than entry-age ranges, preventing confir"
+   },
+   {
+    "rank": 1858,
+    "code": "C:POPULATION",
+    "reason": "Designated synthesis concerns school students, but ages at entry for all contributing trials are not printed. Review-wide eligibility includes general college students."
+   },
+   {
+    "rank": 1860,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise meta-analysis described as RCT-only, but Table 2 marks Chang et al. (2020) as not randomly allocated, contradicting the eligibility criteria."
+   },
+   {
+    "rank": 1865,
+    "code": "C:POPULATION",
+    "reason": "Participants are described as children, but eligibility permitted age 18. Table 1 reports eligible pediatric age ranges where available, while Luo 2017 lacks age information and Chen 2014 lacks an age"
+   },
+   {
+    "rank": 1871,
+    "code": "C:POPULATION",
+    "reason": "Review eligibility permits ages 5\u201318 years. Ages at entry for trials contributing to the designated synthesis are not supplied, so restriction to ages 0\u201317 cannot be confirmed."
+   },
+   {
+    "rank": 1913,
+    "code": "C:DESIGN",
+    "reason": "The review pools randomized and quasi-experimental controlled studies. Without identifying the designated outcome and its contributing studies, an RCT-only synthesis cannot be confirmed."
+   },
+   {
+    "rank": 1934,
+    "code": "D:K_CONFLICT",
+    "reason": "text k=14, plot rows=12"
+   },
+   {
+    "rank": 1935,
+    "code": "C:POPULATION",
+    "reason": "Eligibility specifies onset ages 3\u201318 years, rather than trial-entry ages. Trial-level ages are absent, so restriction to ages 0\u201317 at entry cannot be verified."
+   },
+   {
+    "rank": 1940,
+    "code": "C:POPULATION",
+    "reason": "Eligibility allowed participants aged 18 years or younger. The text does not establish that all participants in the designated trials were aged 0\u201317 at entry."
+   },
+   {
+    "rank": 1952,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise meta-analysis. Results describe the meta-analysed studies as RCTs, but Methods permit nonrandomised trials and Table 1 marks a nonrandomised trial as included. The four designate"
+   },
+   {
+    "rank": 1970,
+    "code": "C:POPULATION",
+    "reason": "Table 2 includes one trial with participants aged 6\u201318 years. Its contribution to the designated liters synthesis cannot be determined from the caption; the other listed trials have pediatric age rang"
+   },
+   {
+    "rank": 1977,
+    "code": "C:POPULATION",
+    "reason": "Participants are described as children undergoing surgery, but trial age ranges are absent from the supplied text. The precise 0\u201317-year entry criterion cannot be verified; eligibility criteria are in"
+   },
+   {
+    "rank": 1988,
+    "code": "C:POPULATION",
+    "reason": "Methods and Table 3 specify children under 18, but Results describes ages from 6 months to 18 years. Whether any participants entered at age 18 in the designated synthesis cannot be established."
+   },
+   {
+    "rank": 1995,
+    "code": "C:POPULATION",
+    "reason": "Eligibility permitted adolescents younger than 20 years. The text does not establish that all participants contributing at 3 months were aged 0\u201317 at entry."
+   },
+   {
+    "rank": 2024,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise meta-analysis. Methods specify randomized trials, but Discussion states that included studies did not report whether allocation was randomized."
+   },
+   {
+    "rank": 2028,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise pooling is described. The review includes randomized and nonrandomized trials, but the text does not identify the trials contributing to the designated panel, so randomized-only "
+   },
+   {
+    "rank": 2061,
+    "code": "C:POPULATION",
+    "reason": "Review eligibility permits ages 6\u201318, and several trial age ranges in Table 1 include 18-year-olds. The eight trials contributing to the designated synthesis are not identified in the available text, "
+   },
+   {
+    "rank": 2065,
+    "code": "C:POPULATION",
+    "reason": "Eligibility permits ages 0\u201318 years. Table 1 provides mostly summary ages rather than entry-age ranges, so inclusion of 18-year-olds cannot be ruled out for the designated synthesis."
+   },
+   {
+    "rank": 2148,
+    "code": "C:POPULATION",
+    "reason": "Eligibility required a mean age of 7\u201317 years and explicitly permitted participants outside that range. Ages of all participants in the designated synthesis cannot be verified from the supplied text; "
+   },
+   {
+    "rank": 2176,
+    "code": "C:POPULATION",
+    "reason": "Review eligibility permits ages 3\u201318 years. Table 2 identifies a child population for Liu et al. (2020), but does not provide its age range to confirm all participants were under 18 at entry."
+   },
+   {
+    "rank": 2192,
+    "code": "C:POPULATION",
+    "reason": "Restricted to adolescent idiopathic scoliosis, with adult scoliosis explicitly excluded. However, most trial ages are reported only as means, and no upper eligibility age confirms that all participant"
+   },
+   {
+    "rank": 2200,
+    "code": "C:POPULATION",
+    "reason": "Eligibility permits ages 6\u201318 inclusive. Table 2 mostly gives age summaries rather than entry-age limits, so exclusion of participants aged 18 cannot be confirmed."
+   },
+   {
+    "rank": 2262,
+    "code": "C:POPULATION",
+    "reason": "Scarfone includes ages 1\u201318 and is listed for severity score in Table 1 and Figure 4, but not Figure 3. Ciarallo 2000 has conflicting upper ages in Tables 1 and 2. Inconsistent contributor lists preve"
+   },
+   {
+    "rank": 2314,
+    "code": "C:DESIGN",
+    "reason": "The review includes randomized and quasi-experimental studies. Meta-analysis eligibility is based on outcome and variance availability, without an RCT restriction. The designs contributing specificall"
+   },
+   {
+    "rank": 2342,
+    "code": "C:POPULATION",
+    "reason": "Eligibility permits ages 0\u201318, and the review reports participants aged 4\u201318. Ages for the five designated trials are not separately provided, so restriction to ages 0\u201317 cannot be confirmed."
+   },
+   {
+    "rank": 2354,
+    "code": "C:POPULATION",
+    "reason": "Eligibility permits participants aged up to 18 years; the supplied text does not establish that all participants were aged 0\u201317 at trial entry."
+   },
+   {
+    "rank": 2380,
+    "code": "C:POPULATION",
+    "reason": "Participants are described as children and adolescents, but Table 1 supplies mean ages rather than entry-age ranges; restriction to ages 0\u201317 cannot be confirmed."
+   },
+   {
+    "rank": 2390,
+    "code": "D:PER_STUDY_SOURCE_NOT_READ",
+    "reason": "FIG-01 is a study-selection flowchart; FIG-02 is a small risk-of-bias graphic. Neither provides the designated Analysis 1.1 forest plot; no supplementary files are present."
+   },
+   {
+    "rank": 2439,
+    "code": "C:POPULATION",
+    "reason": "Eligibility permits ages 0\u201318 years. Actual ages for the designated trials cannot be verified because Table 1 is an image; inclusion of participants aged 18 cannot be excluded."
+   },
+   {
+    "rank": 2454,
+    "code": "C:POPULATION",
+    "reason": "Participants are described as adolescents with idiopathic scoliosis, but entry-age ranges are absent; the reported age summaries do not establish that every participant was under 18."
+   },
+   {
+    "rank": 2457,
+    "code": "C:POPULATION",
+    "reason": "Eligibility required a mean age between 12 and 17 years, not that every participant was aged 0\u201317 at entry. Table 2 supplies mean ages without individual age ranges."
+   },
+   {
+    "rank": 2460,
+    "code": "C:POPULATION",
+    "reason": "Growing patients are specified, but Table 2 provides mean ages rather than complete entry-age ranges for designated trials; restriction of every participant to age 0\u201317 cannot be confirmed."
+   },
+   {
+    "rank": 2483,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise meta-analysis described as including RCTs. Risk-of-bias text identifies one trial using alternating allocation but does not identify it or establish whether it contributes to the"
+   },
+   {
+    "rank": 2489,
+    "code": "C:POPULATION",
+    "reason": "Eligibility permits ages 6\u201318, and Table 1 includes a Boer group with mean age 18 years. The text does not identify which of the 12 studies contributes no body-mass data, so strictly paediatric member"
+   },
+   {
+    "rank": 2507,
+    "code": "C:DESIGN",
+    "reason": "The review includes randomized and observational studies. Without a designated synthesis, its contributing study designs cannot be established."
+   },
+   {
+    "rank": 2566,
+    "code": "C:POPULATION",
+    "reason": "Eligibility allowed mean or median age up to 19 years, which does not establish that all participants were aged 0\u201317 at entry. Ages for the designated contrast are unavailable."
+   },
+   {
+    "rank": 2587,
+    "code": "C:POPULATION",
+    "reason": "Eligibility used mean age at or below 18 years; the review includes participants aged 6\u201319. Ages for the designated synthesis are not separately reported, so exclusively 0\u201317-year-old participants can"
+   },
+   {
+    "rank": 2594,
+    "code": "C:NONINDEPENDENT",
+    "reason": "Duplicate publications were excluded. Table 1 combines Dutta probiotic arms but lists separate living and killed probiotic arms for Awad; handling of Awad's shared control in Figure 4 cannot be verifi"
+   },
+   {
+    "rank": 2649,
+    "code": "C:POPULATION",
+    "reason": "The review includes child-only, mixed child/adult, and age-unreported studies. The text does not identify which age categories apply to all trials in the designated synthesis; age details are in suppl"
+   },
+   {
+    "rank": 2662,
+    "code": "C:POPULATION",
+    "reason": "The review describes children and adolescents with ASD, but entry ages are not consistently bounded. Table 2 gives an unexplained treatment-group age range of 22\u201341 for Tang and Yuan, 2020, without un"
+   },
+   {
+    "rank": 2666,
+    "code": "C:DESIGN",
+    "reason": "Methods and Results describe all included studies as RCTs, but the abstract permits quasi-experimental studies and reference 30 describes a longitudinal association study contributing to mathematics. "
+   },
+   {
+    "rank": 2673,
+    "code": "C:POPULATION",
+    "reason": "The review includes adults as well as children. The six VO\u2082 peak trials are not individually identified in the text, so restriction to ages 0\u201317 at trial entry cannot be established for the designated"
+   },
+   {
+    "rank": 2677,
+    "code": "C:NONINDEPENDENT",
+    "reason": "No duplicate contrasts or unadjusted cluster/crossover designs explicitly described. The discrepancy between the stated study count and cited reports prevents complete verification."
+   },
+   {
+    "rank": 2700,
+    "code": "C:NONINDEPENDENT",
+    "reason": "Chuensiri 2018 and Moslehi 2019 have multiple exercise arms sharing a control; handling is not described. Independence of the similarly described Prado 2009 and 2010 reports is not established."
+   },
+   {
+    "rank": 2738,
+    "code": "C:POPULATION",
+    "reason": "Methods and Table 1 require participants under 18, but Discussion describes the included population as aged 8\u201318. Table 2 supplies means or missing ages rather than complete entry-age ranges, so exclu"
+   },
+   {
+    "rank": 2778,
+    "code": "C:POPULATION",
+    "reason": "Eligibility permits patients younger than 19 years, including age 18. Ages at trial entry are not provided, so an exclusively 0\u201317-year population cannot be confirmed."
+   },
+   {
+    "rank": 2813,
+    "code": "C:POPULATION",
+    "reason": "Child outcomes are pooled separately from caregiver outcomes, and pregnancy interventions were excluded. However, eligibility permitted ages 0\u201318, and trial-specific entry-age ranges are not supplied "
+   },
+   {
+    "rank": 2831,
+    "code": "C:POPULATION",
+    "reason": "Review eligibility spans 28 days to 18 years. Actual entry-age limits for the three contributing trials are absent, so compliance with the strict 0\u201317-year criterion cannot be confirmed."
+   },
+   {
+    "rank": 2832,
+    "code": "C:POPULATION",
+    "reason": "Eligibility permitted studies with partially eligible populations. Results identify two studies including children and adults, without identifying whether they contribute to Figure 2 or whether pediat"
+   },
+   {
+    "rank": 2855,
+    "code": "C:POPULATION",
+    "reason": "Eligibility required average participant age below 18, not all participants aged 0\u201317 at entry. Individual trial age ranges are absent."
+   },
+   {
+    "rank": 2899,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise synthesis described as including RCTs. Sections 3.1 and 4.5 acknowledge absent or incorrect randomization, including admission-order allocation, without identifying whether these"
+   },
+   {
+    "rank": 2939,
+    "code": "C:NONINDEPENDENT",
+    "reason": "Table 1 reports both ABC and ATEC language outcomes for several trials. Table 2 assessment-tool subgroup counts overlap, and the text does not explain how multiple measures from the same trial were ha"
+   },
+   {
+    "rank": 2962,
+    "code": "C:POPULATION",
+    "reason": "Eligibility permits ages 5\u201318 years. The designated studies concern children and adolescents, but Table 1 does not establish that all participants were under 18 at entry."
+   },
+   {
+    "rank": 2988,
+    "code": "C:POPULATION",
+    "reason": "Eligibility allows ages 10\u201319. Table 2 mainly reports group age summaries, which cannot establish that every participant in the designated synthesis was aged 0\u201317 at entry."
+   },
+   {
+    "rank": 3005,
+    "code": "C:POPULATION",
+    "reason": "Review eligibility permits participants through age 18. Ages at entry for the designated ASD trials are not printed in the supplied text, so restriction to ages 0\u201317 cannot be confirmed."
+   },
+   {
+    "rank": 3070,
+    "code": "C:DESIGN",
+    "reason": "The review includes randomized, cluster-randomized, observational and before\u2013after studies. The designs contributing specifically to the malaria mortality synthesis are not identified in the supplied "
+   },
+   {
+    "rank": 3080,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise synthesis, but eligibility includes randomized and observational studies. Table 1 labels one study cited in Figure A2 as observational; outcome-specific contributing studies cann"
+   },
+   {
+    "rank": 3093,
+    "code": "C:POPULATION",
+    "reason": "The melatonin-versus-placebo trials include participants aged 1\u201318 years. Ages for the designated subset are not provided, so restriction to ages 0\u201317 at entry cannot be confirmed."
+   },
+   {
+    "rank": 3105,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise meta-analysis described as RCT-only, but two included studies allocated by order of visits. Their identities and contribution to the designated synthesis cannot be established fr"
+   },
+   {
+    "rank": 3159,
+    "code": "C:POPULATION",
+    "reason": "Eligibility and narrative specify children with cerebral palsy and aphasia. However, Table 1 gives ages exceeding 17 for Lin et al. (59) under a years heading; a possible unit error cannot be resolved"
+   },
+   {
+    "rank": 3164,
+    "code": "C:POPULATION",
+    "reason": "Eligibility permits children aged \u226418 years; Table 1 does not establish that every participant in the designated synthesis was aged 0\u201317 at entry."
+   },
+   {
+    "rank": 3174,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise synthesis of two controlled trials. Table 1 labels Zhou 2020b an RCT but Du 2022 only a controlled trial; randomization of the latter is not established."
+   },
+   {
+    "rank": 3178,
+    "code": "C:F_SOURCE_HTTP500",
+    "reason": "SOURCE_HTTP500 https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7721819/fullTextXML"
+   },
+   {
+    "rank": 3179,
+    "code": "C:DESIGN",
+    "reason": "The review includes randomized and nonrandomized studies. Two studies were omitted from pooling because of missing SDs, but they are not identified. Figure 4 is described as including all community-ba"
+   },
+   {
+    "rank": 3188,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise synthesis described as including randomized trials. However, Table 3 labels Karapicak et al. a randomized controlled clinical trial while also describing it as cross-sectional."
+   },
+   {
+    "rank": 3236,
+    "code": "C:POPULATION",
+    "reason": "Eligibility requires participants under 18, but Results describes an age range extending to 18. Entry ages for the designated trials cannot be verified from the supplied text."
+   },
+   {
+    "rank": 3276,
+    "code": "C:POPULATION",
+    "reason": "The text describes mothers/caregivers and child feeding outcomes but does not establish whether children were already born at trial entry. Trial population characteristics are deferred to Table S2, wh"
+   },
+   {
+    "rank": 3320,
+    "code": "C:DESIGN",
+    "reason": "The review permits randomized and quasi-randomized trials and describes the quantitative studies as RCTs, but no weight-specific synthesis is presented."
+   },
+   {
+    "rank": 3340,
+    "code": "C:POPULATION",
+    "reason": "Eligibility allowed ages 6\u201319. Included-study age summaries describe children and adolescents but do not establish that every participant was younger than 18 at trial entry."
+   },
+   {
+    "rank": 3351,
+    "code": "C:POPULATION",
+    "reason": "Review eligibility permits ages 10\u201318. Table 1 provides mean ages but not age ranges for the designated trials, so exclusive inclusion of participants aged 0\u201317 cannot be confirmed."
+   },
+   {
+    "rank": 3355,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise synthesis intended to include parallel RCTs, but the review includes two quasi-randomized studies. Their membership in the first designated comparison is not identifiable."
+   },
+   {
+    "rank": 3391,
+    "code": "C:POPULATION",
+    "reason": "The review includes children and adolescents, but Table 1 includes a trial with ages 9\u201319 years. No designated pooled trial set establishes an exclusively 0\u201317 population."
+   },
+   {
+    "rank": 3398,
+    "code": "C:POPULATION",
+    "reason": "The review includes adult and pediatric populations, analyzed by condition. Population eligibility depends on an outcome designation that cannot be made under the rules."
+   }
+  ],
+  "screened_beyond_stopping_rank": 0,
+  "stopping_rule_met_30": false,
+  "frame_exhausted": true,
+  "reason_counts": {
+   "B:POPULATION": 838,
+   "B:K_LT_10": 626,
+   "B:DESIGN": 600,
+   "B:NOT_MA": 365,
+   "C:DESIGN": 286,
+   "C:POPULATION": 269,
+   "C:K_OUT_OF_RANGE": 244,
+   "C:NONINDEPENDENT": 51,
+   "C:K_UNDETERMINABLE": 32,
+   "D:MODEL_UNSUPPORTED": 20,
+   "D:NONE": 16,
+   "A:A_NO_EPMC_FULLTEXT": 14,
+   "C:MODEL_UNSUPPORTED": 14,
+   "C:PARTICIPANTS_MISSING": 12,
+   "C:CHRONOLOGY": 11,
+   "C:MODEL_UNIDENTIFIABLE": 10,
+   "A:A_NOTICE": 10,
+   "D:MODEL_UNIDENTIFIABLE": 6,
+   "C:NO_PER_STUDY_DATA": 3,
+   "D:K_CONFLICT": 2,
+   "C:NONE": 2,
+   "D:PER_STUDY_SOURCE_NOT_READ": 1,
+   "C:F_SOURCE_HTTP500": 1
+  },
+  "ledger_csv": "SCREENING_LEDGER_P14.csv",
+  "ledger_csv_sha256": "6272726591e04a13acbf08a8158396ef68b7412da5f92bb13c42025084d141a3",
+  "computed_utc": "2026-10-28T08:42:33+00:00",
+  "note": "Projection treats the screened ranks as a simple random sample of the frame (they are the first n of a seeded hash permutation); UNRESOLVED counted as not eligible."
+ },
+ "P06": {
+  "pilot": "P06",
+  "frame_deduplicated": 5205,
+  "screened_contiguous_prefix": 3300,
+  "eligible": 36,
+  "unresolved": 67,
+  "excluded": 3197,
+  "eligible_ranks": [
+   18,
+   157,
+   283,
+   505,
+   525,
+   636,
+   667,
+   737,
+   763,
+   886,
+   1062,
+   1185,
+   1331,
+   1374,
+   1409,
+   1456,
+   1469,
+   1479,
+   1522,
+   1559,
+   1717,
+   1780,
+   1861,
+   1876,
+   1912,
+   2354,
+   2376,
+   2521,
+   2699,
+   2769,
+   2805,
+   2939,
+   2953,
+   3121,
+   3216,
+   3265
+  ],
+  "yield": 0.01090909090909091,
+  "yield_wilson95": [
+   0.007890389423957173,
+   0.01506514877785646
+  ],
+  "projected_eligible_in_frame": 56.8,
+  "projected_eligible_in_frame_wilson95": [
+   41.1,
+   78.4
+  ],
+  "upper_bound_if_all_unresolved_eligible": 0.031212121212121212,
+  "selected_ranks_seeded_order": [
+   18,
+   157,
+   283,
+   505,
+   525,
+   636,
+   667,
+   737,
+   763,
+   886,
+   1062,
+   1185,
+   1331,
+   1374,
+   1409,
+   1456,
+   1469,
+   1479,
+   1522,
+   1559,
+   1717,
+   1780,
+   1861,
+   1876,
+   1912,
+   2354,
+   2376,
+   2521,
+   2699,
+   2769
+  ],
+  "stopping_rank": 2769,
+  "unresolved_within_selection_window": [
+   {
+    "rank": 63,
+    "code": "C:NONINDEPENDENT",
+    "reason": "Methods restrict duplicate trial publications to the latest and/or most complete report. The text does not describe multi-arm contrast handling, and the supplementary forest plot is unavailable for ch"
+   },
+   {
+    "rank": 182,
+    "code": "D:K_CONFLICT",
+    "reason": "text k=34, plot rows=32"
+   },
+   {
+    "rank": 306,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise meta-analysis described as restricted to RCTs. Quality assessment notes a nonrandomized cohort in Johnston et al.; whether that cohort contributes to the designated synthesis is "
+   },
+   {
+    "rank": 352,
+    "code": "C:NONINDEPENDENT",
+    "reason": "Table 1 includes multiple contrasts sharing controls in IMpower150 and MYSTIC. Their handling and contribution to the designated synthesis are not described. Methods specify selecting updated or compr"
+   },
+   {
+    "rank": 360,
+    "code": "C:DESIGN",
+    "reason": "The review contains separable conventional pairwise RCT meta-analyses and Bayesian network meta-analysis for this outcome; the designation rule does not establish which synthesis to select."
+   },
+   {
+    "rank": 375,
+    "code": "C:POPULATION",
+    "reason": "Eligibility requires diagnosed cancer, including survivors. However, Table 1 includes stage 0 breast disease, and the text does not establish whether nonmalignant disease contributes to the designated"
+   },
+   {
+    "rank": 396,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise synthesis described as including RCTs only. However, Discussion states that random allocation was not implemented in some included studies, without identifying whether they contr"
+   },
+   {
+    "rank": 411,
+    "code": "C:DESIGN",
+    "reason": "Aggregate pairwise analyses are described as randomized-trial meta-analyses, separately from the HERA individual-patient analysis. However, eligibility also permitted contrasts differing in ERBB2 stat"
+   },
+   {
+    "rank": 433,
+    "code": "C:POPULATION",
+    "reason": "Eligibility required adults undergoing surgery with one-lung ventilation, not a cancer diagnosis. The review includes cancer surgery and cardiac surgery, but the diagnoses of the trials contributing s"
+   },
+   {
+    "rank": 493,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise meta-analysis described as including randomized trials. However, two included studies allocated treatment by hospital admission day; the text does not identify whether these cont"
+   },
+   {
+    "rank": 498,
+    "code": "C:DESIGN",
+    "reason": "The review reports separate RCT and cohort syntheses. Without a designated outcome, the applicable synthesis cannot be determined."
+   },
+   {
+    "rank": 518,
+    "code": "C:POPULATION",
+    "reason": "Participants are described as breast cancer patients or survivors, but Table 1 includes stage 0\u2013III populations among cognitive-outcome studies; exclusively malignant disease cannot be confirmed."
+   },
+   {
+    "rank": 578,
+    "code": "C:DESIGN",
+    "reason": "The designated synthesis is conventional pairwise meta-analysis, separate from the network analyses. Eligibility allowed randomized and quasi-randomized trials; the text does not identify whether quas"
+   },
+   {
+    "rank": 580,
+    "code": "C:POPULATION",
+    "reason": "The review includes breast cancer populations, but Table 1 includes trials admitting DCIS. The text does not identify the RFS contributors sufficiently to establish whether this synthesis excludes in "
+   },
+   {
+    "rank": 586,
+    "code": "C:DESIGN",
+    "reason": "The authors describe a pairwise RCT meta-analysis, but designated contributor reference 10 is explicitly a trial protocol. Reference 14 also differs from its Table 1 description, preventing confirmati"
+   },
+   {
+    "rank": 625,
+    "code": "C:DESIGN",
+    "reason": "The review describes conventional pairwise meta-analysis restricted to randomized trials, but a designated synthesis cannot be selected under Step 1."
+   },
+   {
+    "rank": 634,
+    "code": "C:DESIGN",
+    "reason": "The review includes randomized and case-control studies, but no separate complete-response synthesis is reported, so its contributing designs cannot be established."
+   },
+   {
+    "rank": 637,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise meta-analysis, but eligibility allowed randomized and quasi-experimental studies. The text does not establish the design of every study contributing to this synthesis."
+   },
+   {
+    "rank": 644,
+    "code": "C:DESIGN",
+    "reason": "Described as a pairwise meta-analysis of randomized trials, but eligibility did not require randomization. Section 3.2 mentions two studies with a nonrandom number method and one with an unclear metho"
+   },
+   {
+    "rank": 673,
+    "code": "C:POPULATION",
+    "reason": "Eligibility requires adults diagnosed with breast cancer, but Table 1 includes stage 0\u2013III populations without separating stage 0 disease; exclusively malignant disease cannot be confirmed."
+   },
+   {
+    "rank": 690,
+    "code": "C:POPULATION",
+    "reason": "The review targets head and neck or gastrointestinal cancer surgery, but eligibility permitted studies with up to 25% benign disease. The text does not establish whether all participants in the design"
+   },
+   {
+    "rank": 751,
+    "code": "C:DESIGN",
+    "reason": "The review describes the synthesis as comprising RCTs, but Table 1 labels Gao et al. (2015) allocation as 'Parity random', suggesting quasi-random allocation. Discussion instead includes this study am"
+   },
+   {
+    "rank": 794,
+    "code": "C:POPULATION",
+    "reason": "Participants have biopsy-confirmed gastric stromal tumours, but the text does not establish that all have diagnosed malignant cancer rather than tumours of uncertain malignant potential."
+   },
+   {
+    "rank": 888,
+    "code": "C:NONINDEPENDENT",
+    "reason": "Xian [22] is a three-arm trial. The text does not specify whether its two non-S-1 arms were combined or entered as separate contrasts with a shared S-1 arm."
+   },
+   {
+    "rank": 899,
+    "code": "D:K_CONFLICT",
+    "reason": "text k=20, plot rows=14"
+   },
+   {
+    "rank": 1009,
+    "code": "C:POPULATION",
+    "reason": "Cancer survivors after treatment. Table 1 lists stage 0\u2013II breast cancer eligibility for Pinto et al. (39); whether participants with noninvasive disease actually contributed cannot be determined."
+   },
+   {
+    "rank": 1041,
+    "code": "C:POPULATION",
+    "reason": "Cancer during treatment is required, but Table 1 includes stage 0\u2013III breast cancer; the text does not establish that all designated participants had malignant rather than in-situ disease."
+   },
+   {
+    "rank": 1064,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise synthesis. Quality assessment identifies three nonrandomized studies in the review but does not identify them in the text; randomized status of the designated survival studies ca"
+   },
+   {
+    "rank": 1261,
+    "code": "D:K_CONFLICT",
+    "reason": "text k=10, plot rows=9"
+   },
+   {
+    "rank": 1273,
+    "code": "C:NONINDEPENDENT",
+    "reason": "Borghaei et al. combine two trials in one table entry. Planchard et al. describe multiple study groups, but the caption does not establish which contrasts enter the forest plot or how shared controls "
+   },
+   {
+    "rank": 1296,
+    "code": "C:NONINDEPENDENT",
+    "reason": "Fu (2019), reference 17, includes two acupuncture intervention arms and a shared control. The text does not explain whether intervention arms were combined or how shared-control dependence was handled"
+   },
+   {
+    "rank": 1408,
+    "code": "C:DESIGN",
+    "reason": "Methods require RCTs and describe pairwise pooling. However, included reference 36 is titled a quasi-experimental trial; its contribution to the designated depression synthesis cannot be established f"
+   },
+   {
+    "rank": 1417,
+    "code": "C:POPULATION",
+    "reason": "Eligibility required adults undergoing thoracic surgery, without requiring malignant cancer. The text does not establish cancer diagnoses for every trial contributing to the designated synthesis."
+   },
+   {
+    "rank": 1433,
+    "code": "C:DESIGN",
+    "reason": "The review includes randomized and observational studies, but no CSS synthesis is reported, so its contributing study designs cannot be established."
+   },
+   {
+    "rank": 1443,
+    "code": "D:K_CONFLICT",
+    "reason": "text k=10, plot rows=7"
+   },
+   {
+    "rank": 1451,
+    "code": "C:POPULATION",
+    "reason": "The review describes breast cancer populations, but included Palmer et al. (reference 23) concerns surgery for cancer diagnosis and treatment. The text does not establish whether all contributing part"
+   },
+   {
+    "rank": 1515,
+    "code": "C:DESIGN",
+    "reason": "The review contains both single-arm incidence pooling and conventional pairwise RCT risk-ratio pooling. Eligibility depends on designation."
+   },
+   {
+    "rank": 1531,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise synthesis, but eligibility allowed both randomized and nonrandomized studies; the text does not establish the design of every contributing study."
+   },
+   {
+    "rank": 1574,
+    "code": "C:DESIGN",
+    "reason": "Methods specify parallel-group RCT-only pairwise meta-analysis. However, Table 1 labels included studies with references identifying a propensity-score analysis, meta-analyses, methodological papers a"
+   },
+   {
+    "rank": 1609,
+    "code": "C:POPULATION",
+    "reason": "Eligibility requires diagnosed colorectal cancer, but included reference 29 concerns endometriosis. The text does not identify whether this study contributes to postoperative mortality."
+   },
+   {
+    "rank": 1628,
+    "code": "C:NONINDEPENDENT",
+    "reason": "Duplicate reports were excluded. Table 1 footnote identifies a trial with two intervention strategies; handling of its shared control in the overall synthesis is not described."
+   },
+   {
+    "rank": 1630,
+    "code": "D:PER_STUDY_SOURCE_NOT_READ",
+    "reason": "Figure 3 file fonc-13-1176885-g003.jpg is empty (zero bytes) and cannot be inspected. No supplementary files are present."
+   },
+   {
+    "rank": 1684,
+    "code": "C:DESIGN",
+    "reason": "RCTs and observational studies were analysed separately. The text does not establish a pooled RCT synthesis for the designated angina comparison."
+   },
+   {
+    "rank": 1709,
+    "code": "C:POPULATION",
+    "reason": "Upper GI cancer surgery population, but section 2.1 permits studies containing up to 25% benign disease. The text does not establish that every participant in the designated synthesis had malignant ca"
+   },
+   {
+    "rank": 1773,
+    "code": "C:POPULATION",
+    "reason": "Eligibility specifies adults undergoing craniotomy for brain tumors, without requiring malignant disease. Neither tumor histology nor confirmation that all participants had malignant cancer is provide"
+   },
+   {
+    "rank": 1784,
+    "code": "C:POPULATION",
+    "reason": "Participants are described as breast cancer survivors after active treatment. Table 1 includes stage 0\u2013III eligibility for Harrigan; whether any participants had only noninvasive disease is not report"
+   },
+   {
+    "rank": 2074,
+    "code": "C:POPULATION",
+    "reason": "Eligibility requires women with diagnosed cancer, but Table 1 includes stage 0 breast disease. The text does not establish exclusively malignant disease in the designated synthesis or provide a malign"
+   },
+   {
+    "rank": 2235,
+    "code": "D:K_CONFLICT",
+    "reason": "text k=32, plot rows=27"
+   },
+   {
+    "rank": 2266,
+    "code": "C:DESIGN",
+    "reason": "Conventional pairwise meta-analysis described as including RCTs. However, Liu Y M used medical-record-number allocation; whether this study contributes to the designated synthesis cannot be establishe"
+   },
+   {
+    "rank": 2280,
+    "code": "C:POPULATION",
+    "reason": "Cancer patients and survivors were included, but several contributing trials include breast cancer stages 0\u2013III without separating stage 0 participants or clarifying their malignant status. The strict"
+   },
+   {
+    "rank": 2284,
+    "code": "C:POPULATION",
+    "reason": "Table 1 describes cancer diagnoses for all included trials, but eligibility permitted trials with up to 20% non-cancer participants. The text does not explicitly establish that every participant in th"
+   },
+   {
+    "rank": 2297,
+    "code": "C:POPULATION",
+    "reason": "Eligibility required adults diagnosed with cancer. However, contributing James et al. trial included cancer survivors and carers; Tables 1 and 2 describe combined demographic and attrition reporting. "
+   },
+   {
+    "rank": 2407,
+    "code": "C:POPULATION",
+    "reason": "Included populations are described as cancer patients, but eligibility permitted studies with only \u226580% cancer patients. Reference 16 also describes stage 0\u2013III breast cancer. The text does not establ"
+   },
+   {
+    "rank": 2444,
+    "code": "C:POPULATION",
+    "reason": "Eligibility requires confirmed breast cancer, but Table 1 includes stage 0\u2013IV populations, including a depression-reporting trial. Whether nonmalignant or in situ disease contributes inseparably canno"
+   },
+   {
+    "rank": 2539,
+    "code": "C:DESIGN",
+    "reason": "Methods specify pairwise pooling of randomized trials. However, Table 1 includes the FUTURE phase Ib/II study with molecularly targeted treatment groups; its randomization status is not established in"
+   },
+   {
+    "rank": 2716,
+    "code": "C:NONINDEPENDENT",
+    "reason": "The overlapping PRADA reports are acknowledged and the updated report selected. Multi-arm/factorial trials are present, but contrast construction and shared-control handling cannot be verified from th"
+   },
+   {
+    "rank": 2735,
+    "code": "D:K_CONFLICT",
+    "reason": "text k=47, plot rows=45"
+   },
+   {
+    "rank": 2750,
+    "code": "C:NONINDEPENDENT",
+    "reason": "Trial-level contributions and handling of multi-arm trials or overlapping reports are not described sufficiently to verify independence."
+   }
+  ],
+  "screened_beyond_stopping_rank": 531,
+  "stopping_rule_met_30": true,
+  "frame_exhausted": false,
+  "reason_counts": {
+   "B:DESIGN": 991,
+   "B:K_LT_10": 818,
+   "B:POPULATION": 407,
+   "C:DESIGN": 278,
+   "B:NOT_MA": 227,
+   "C:K_OUT_OF_RANGE": 209,
+   "C:K_UNDETERMINABLE": 87,
+   "D:MODEL_UNSUPPORTED": 60,
+   "C:POPULATION": 56,
+   "C:NONINDEPENDENT": 49,
+   "D:NONE": 33,
+   "C:MODEL_UNIDENTIFIABLE": 26,
+   "C:MODEL_UNSUPPORTED": 17,
+   "D:MODEL_UNIDENTIFIABLE": 15,
+   "A:A_NOTICE": 8,
+   "D:K_CONFLICT": 6,
+   "A:A_NO_EPMC_FULLTEXT": 4,
+   "C:NO_PER_STUDY_DATA": 3,
+   "C:NONE": 3,
+   "D:PER_STUDY_SOURCE_NOT_READ": 1,
+   "D:NO_PER_STUDY_DATA": 1,
+   "C:F_SOURCE_HTTP500": 1
+  },
+  "ledger_csv": "SCREENING_LEDGER_P06.csv",
+  "ledger_csv_sha256": "167fc8a7a8af8e46e85c2c015ee7372f44c5157d21b5739555061a7c35662699",
+  "computed_utc": "2026-10-28T08:42:34+00:00",
+  "note": "Projection treats the screened ranks as a simple random sample of the frame (they are the first n of a seeded hash permutation); UNRESOLVED counted as not eligible."
+ }
+}

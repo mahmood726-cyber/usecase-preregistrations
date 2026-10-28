@@ -1,0 +1,236 @@
+{
+ "type": "object",
+ "additionalProperties": false,
+ "required": [
+  "designated_outcome",
+  "designation_basis",
+  "designated_comparison",
+  "designated_timepoint",
+  "design_ok",
+  "design_note",
+  "population_ok",
+  "population_note",
+  "k_designated",
+  "k_source",
+  "independence_ok",
+  "independence_note",
+  "per_study_data",
+  "per_study_location",
+  "pooled_reported",
+  "model_effect_measure",
+  "model_fixed_random",
+  "model_weighting",
+  "model_tau2",
+  "model_ci",
+  "model_software",
+  "model_quote",
+  "trial_years_min",
+  "trial_years_max",
+  "participants_per_trial_available",
+  "flags",
+  "licence_text_quote",
+  "verdict",
+  "reason_code",
+  "reason",
+  "ambiguities",
+  "model_conditional"
+ ],
+ "properties": {
+  "designated_outcome": {
+   "type": "string"
+  },
+  "designation_basis": {
+   "type": "string"
+  },
+  "designated_comparison": {
+   "type": "string"
+  },
+  "designated_timepoint": {
+   "type": "string"
+  },
+  "design_ok": {
+   "type": "string",
+   "enum": [
+    "yes",
+    "no",
+    "unclear"
+   ]
+  },
+  "design_note": {
+   "type": "string"
+  },
+  "population_ok": {
+   "type": "string",
+   "enum": [
+    "yes",
+    "no",
+    "unclear"
+   ]
+  },
+  "population_note": {
+   "type": "string"
+  },
+  "k_designated": {
+   "type": [
+    "integer",
+    "null"
+   ]
+  },
+  "k_source": {
+   "type": "string"
+  },
+  "independence_ok": {
+   "type": "string",
+   "enum": [
+    "yes",
+    "no",
+    "unclear"
+   ]
+  },
+  "independence_note": {
+   "type": "string"
+  },
+  "per_study_data": {
+   "type": "string",
+   "enum": [
+    "TABLE",
+    "FIGURE",
+    "SUPPLEMENT_ONLY",
+    "NONE"
+   ]
+  },
+  "per_study_location": {
+   "type": "string"
+  },
+  "pooled_reported": {
+   "type": "string",
+   "enum": [
+    "yes",
+    "no"
+   ]
+  },
+  "model_effect_measure": {
+   "type": "string",
+   "enum": [
+    "RR",
+    "OR",
+    "HR",
+    "RD",
+    "MD",
+    "SMD",
+    "other",
+    "unclear"
+   ]
+  },
+  "model_fixed_random": {
+   "type": "string",
+   "enum": [
+    "fixed",
+    "random",
+    "both",
+    "unclear"
+   ]
+  },
+  "model_weighting": {
+   "type": "string",
+   "enum": [
+    "inverse_variance",
+    "mantel_haenszel",
+    "peto",
+    "other",
+    "unstated"
+   ]
+  },
+  "model_tau2": {
+   "type": "string",
+   "enum": [
+    "DL",
+    "REML",
+    "PM",
+    "other",
+    "unstated",
+    "not_applicable"
+   ]
+  },
+  "model_ci": {
+   "type": "string",
+   "enum": [
+    "wald",
+    "hksj",
+    "other",
+    "unstated"
+   ]
+  },
+  "model_software": {
+   "type": "string"
+  },
+  "model_quote": {
+   "type": "string"
+  },
+  "trial_years_min": {
+   "type": [
+    "integer",
+    "null"
+   ]
+  },
+  "trial_years_max": {
+   "type": [
+    "integer",
+    "null"
+   ]
+  },
+  "participants_per_trial_available": {
+   "type": "string",
+   "enum": [
+    "yes",
+    "no",
+    "not_applicable"
+   ]
+  },
+  "flags": {
+   "type": "string"
+  },
+  "licence_text_quote": {
+   "type": "string"
+  },
+  "verdict": {
+   "type": "string",
+   "enum": [
+    "ELIGIBLE",
+    "EXCLUDE",
+    "UNRESOLVED"
+   ]
+  },
+  "reason_code": {
+   "type": "string",
+   "enum": [
+    "NONE",
+    "DESIGN",
+    "POPULATION",
+    "K_OUT_OF_RANGE",
+    "K_UNDETERMINABLE",
+    "NONINDEPENDENT",
+    "NO_PER_STUDY_DATA",
+    "NO_POOLED_RESULT",
+    "MODEL_UNSUPPORTED",
+    "MODEL_UNIDENTIFIABLE",
+    "CHRONOLOGY",
+    "PARTICIPANTS_MISSING",
+    "OTHER"
+   ]
+  },
+  "reason": {
+   "type": "string"
+  },
+  "ambiguities": {
+   "type": "string"
+  },
+  "model_conditional": {
+   "type": "string",
+   "enum": [
+    "yes",
+    "no"
+   ]
+  }
+ }
+}

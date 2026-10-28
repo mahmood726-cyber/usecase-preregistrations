@@ -1,0 +1,86 @@
+{
+ "pilot": "P06",
+ "query": "(PUB_TYPE:\"Meta-Analysis\" OR TITLE:\"meta-analysis\" OR TITLE:\"meta analysis\") AND (TITLE_ABS:randomized OR TITLE_ABS:randomised OR TITLE_ABS:RCT OR TITLE_ABS:RCTs) AND OPEN_ACCESS:Y AND LANG:eng AND FIRST_PDATE:[2017-01-01 TO 2025-12-31] AND (TITLE_ABS:cancer* OR TITLE_ABS:oncolog* OR TITLE_ABS:neoplas* OR TITLE_ABS:tumor* OR TITLE_ABS:tumour* OR TITLE_ABS:carcinoma* OR TITLE_ABS:leukemia* OR TITLE_ABS:leukaemia* OR TITLE_ABS:lymphoma* OR TITLE_ABS:myeloma*) sort_date:y",
+ "endpoint": "https://www.ebi.ac.uk/europepmc/webservices/rest/search",
+ "params": {
+  "format": "json",
+  "resultType": "core",
+  "pageSize": 1000
+ },
+ "started_utc": "2026-10-27T19:19:41+00:00",
+ "finished_utc": "2026-10-27T19:20:25+00:00",
+ "hitCount": 5207,
+ "records_retrieved": 5207,
+ "pages": [
+  {
+   "file": "P06/P06_page001.json",
+   "sha256": "7ae243ce504d67bf3a69a4698cce38c123d1e6fa1170efd19ef5d595fcd89c8a",
+   "pulled_utc": "2026-10-27T19:19:41+00:00",
+   "request_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28PUB_TYPE%3A%22Meta-Analysis%22%20OR%20TITLE%3A%22meta-analysis%22%20OR%20TITLE%3A%22meta%20analysis%22%29%20AND%20%28TITLE_ABS%3Arandomized%20OR%20TITLE_ABS%3Arandomised%20OR%20TITLE_ABS%3ARCT%20OR%20TITLE_ABS%3ARCTs%29%20AND%20OPEN_ACCESS%3AY%20AND%20LANG%3Aeng%20AND%20FIRST_PDATE%3A%5B2017-01-01%20TO%202025-12-31%5D%20AND%20%28TITLE_ABS%3Acancer%2A%20OR%20TITLE_ABS%3Aoncolog%2A%20OR%20TITLE_ABS%3Aneoplas%2A%20OR%20TITLE_ABS%3Atumor%2A%20OR%20TITLE_ABS%3Atumour%2A%20OR%20TITLE_ABS%3Acarcinoma%2A%20OR%20TITLE_ABS%3Aleukemia%2A%20OR%20TITLE_ABS%3Aleukaemia%2A%20OR%20TITLE_ABS%3Alymphoma%2A%20OR%20TITLE_ABS%3Amyeloma%2A%29%20sort_date%3Ay&format=json&resultType=core&pageSize=1000&cursorMark=%2A",
+   "cursorMark_in": "*",
+   "nextCursorMark": "AoJwwK/Kj5QDKDUzMTkwNjcy",
+   "n_records": 1000,
+   "hitCount": 5207
+  },
+  {
+   "file": "P06/P06_page002.json",
+   "sha256": "b169fb42cc674c2d634eb3f4125c5cfc0cd044a2aa4a1b242c7492b07c9ea530",
+   "pulled_utc": "2026-10-27T19:19:49+00:00",
+   "request_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28PUB_TYPE%3A%22Meta-Analysis%22%20OR%20TITLE%3A%22meta-analysis%22%20OR%20TITLE%3A%22meta%20analysis%22%29%20AND%20%28TITLE_ABS%3Arandomized%20OR%20TITLE_ABS%3Arandomised%20OR%20TITLE_ABS%3ARCT%20OR%20TITLE_ABS%3ARCTs%29%20AND%20OPEN_ACCESS%3AY%20AND%20LANG%3Aeng%20AND%20FIRST_PDATE%3A%5B2017-01-01%20TO%202025-12-31%5D%20AND%20%28TITLE_ABS%3Acancer%2A%20OR%20TITLE_ABS%3Aoncolog%2A%20OR%20TITLE_ABS%3Aneoplas%2A%20OR%20TITLE_ABS%3Atumor%2A%20OR%20TITLE_ABS%3Atumour%2A%20OR%20TITLE_ABS%3Acarcinoma%2A%20OR%20TITLE_ABS%3Aleukemia%2A%20OR%20TITLE_ABS%3Aleukaemia%2A%20OR%20TITLE_ABS%3Alymphoma%2A%20OR%20TITLE_ABS%3Amyeloma%2A%29%20sort_date%3Ay&format=json&resultType=core&pageSize=1000&cursorMark=AoJwwK%2FKj5QDKDUzMTkwNjcy",
+   "cursorMark_in": "AoJwwK/Kj5QDKDUzMTkwNjcy",
+   "nextCursorMark": "AoJwgJL58IkDKDQ4OTY2NDQ4",
+   "n_records": 1000,
+   "hitCount": 5207
+  },
+  {
+   "file": "P06/P06_page003.json",
+   "sha256": "4c4bb69c440ebd7c2143bb04fcef0934cb042a2b560468c8d8bdf22f200073f9",
+   "pulled_utc": "2026-10-27T19:19:58+00:00",
+   "request_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28PUB_TYPE%3A%22Meta-Analysis%22%20OR%20TITLE%3A%22meta-analysis%22%20OR%20TITLE%3A%22meta%20analysis%22%29%20AND%20%28TITLE_ABS%3Arandomized%20OR%20TITLE_ABS%3Arandomised%20OR%20TITLE_ABS%3ARCT%20OR%20TITLE_ABS%3ARCTs%29%20AND%20OPEN_ACCESS%3AY%20AND%20LANG%3Aeng%20AND%20FIRST_PDATE%3A%5B2017-01-01%20TO%202025-12-31%5D%20AND%20%28TITLE_ABS%3Acancer%2A%20OR%20TITLE_ABS%3Aoncolog%2A%20OR%20TITLE_ABS%3Aneoplas%2A%20OR%20TITLE_ABS%3Atumor%2A%20OR%20TITLE_ABS%3Atumour%2A%20OR%20TITLE_ABS%3Acarcinoma%2A%20OR%20TITLE_ABS%3Aleukemia%2A%20OR%20TITLE_ABS%3Aleukaemia%2A%20OR%20TITLE_ABS%3Alymphoma%2A%20OR%20TITLE_ABS%3Amyeloma%2A%29%20sort_date%3Ay&format=json&resultType=core&pageSize=1000&cursorMark=AoJwgJL58IkDKDQ4OTY2NDQ4",
+   "cursorMark_in": "AoJwgJL58IkDKDQ4OTY2NDQ4",
+   "nextCursorMark": "AoJwwP6a8f8CKDQ1OTUyMDkx",
+   "n_records": 1000,
+   "hitCount": 5207
+  },
+  {
+   "file": "P06/P06_page004.json",
+   "sha256": "1e4c51f01dbf6625f5385ec738f47bbbf0d931dfd852ed899f8279a2a8c0af94",
+   "pulled_utc": "2026-10-27T19:20:06+00:00",
+   "request_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28PUB_TYPE%3A%22Meta-Analysis%22%20OR%20TITLE%3A%22meta-analysis%22%20OR%20TITLE%3A%22meta%20analysis%22%29%20AND%20%28TITLE_ABS%3Arandomized%20OR%20TITLE_ABS%3Arandomised%20OR%20TITLE_ABS%3ARCT%20OR%20TITLE_ABS%3ARCTs%29%20AND%20OPEN_ACCESS%3AY%20AND%20LANG%3Aeng%20AND%20FIRST_PDATE%3A%5B2017-01-01%20TO%202025-12-31%5D%20AND%20%28TITLE_ABS%3Acancer%2A%20OR%20TITLE_ABS%3Aoncolog%2A%20OR%20TITLE_ABS%3Aneoplas%2A%20OR%20TITLE_ABS%3Atumor%2A%20OR%20TITLE_ABS%3Atumour%2A%20OR%20TITLE_ABS%3Acarcinoma%2A%20OR%20TITLE_ABS%3Aleukemia%2A%20OR%20TITLE_ABS%3Aleukaemia%2A%20OR%20TITLE_ABS%3Alymphoma%2A%20OR%20TITLE_ABS%3Amyeloma%2A%29%20sort_date%3Ay&format=json&resultType=core&pageSize=1000&cursorMark=AoJwwP6a8f8CKDQ1OTUyMDkx",
+   "cursorMark_in": "AoJwwP6a8f8CKDQ1OTUyMDkx",
+   "nextCursorMark": "AoJwgNO9o/QCKDQyMjYyMjUy",
+   "n_records": 1000,
+   "hitCount": 5207
+  },
+  {
+   "file": "P06/P06_page005.json",
+   "sha256": "49dd2e57dee832154433b5388aa7dbd4772c8f3954e17408e6ed10cd8828dfb1",
+   "pulled_utc": "2026-10-27T19:20:15+00:00",
+   "request_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28PUB_TYPE%3A%22Meta-Analysis%22%20OR%20TITLE%3A%22meta-analysis%22%20OR%20TITLE%3A%22meta%20analysis%22%29%20AND%20%28TITLE_ABS%3Arandomized%20OR%20TITLE_ABS%3Arandomised%20OR%20TITLE_ABS%3ARCT%20OR%20TITLE_ABS%3ARCTs%29%20AND%20OPEN_ACCESS%3AY%20AND%20LANG%3Aeng%20AND%20FIRST_PDATE%3A%5B2017-01-01%20TO%202025-12-31%5D%20AND%20%28TITLE_ABS%3Acancer%2A%20OR%20TITLE_ABS%3Aoncolog%2A%20OR%20TITLE_ABS%3Aneoplas%2A%20OR%20TITLE_ABS%3Atumor%2A%20OR%20TITLE_ABS%3Atumour%2A%20OR%20TITLE_ABS%3Acarcinoma%2A%20OR%20TITLE_ABS%3Aleukemia%2A%20OR%20TITLE_ABS%3Aleukaemia%2A%20OR%20TITLE_ABS%3Alymphoma%2A%20OR%20TITLE_ABS%3Amyeloma%2A%29%20sort_date%3Ay&format=json&resultType=core&pageSize=1000&cursorMark=AoJwgNO9o%2FQCKDQyMjYyMjUy",
+   "cursorMark_in": "AoJwgNO9o/QCKDQyMjYyMjUy",
+   "nextCursorMark": "AoJwgPDO6t4CKDM3MzcyMDUx",
+   "n_records": 1000,
+   "hitCount": 5207
+  },
+  {
+   "file": "P06/P06_page006.json",
+   "sha256": "361fc7ef1d18c029bf3fde7b5e601b82275c77acbb97ff9a2e6ebcd3f8d6982f",
+   "pulled_utc": "2026-10-27T19:20:23+00:00",
+   "request_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28PUB_TYPE%3A%22Meta-Analysis%22%20OR%20TITLE%3A%22meta-analysis%22%20OR%20TITLE%3A%22meta%20analysis%22%29%20AND%20%28TITLE_ABS%3Arandomized%20OR%20TITLE_ABS%3Arandomised%20OR%20TITLE_ABS%3ARCT%20OR%20TITLE_ABS%3ARCTs%29%20AND%20OPEN_ACCESS%3AY%20AND%20LANG%3Aeng%20AND%20FIRST_PDATE%3A%5B2017-01-01%20TO%202025-12-31%5D%20AND%20%28TITLE_ABS%3Acancer%2A%20OR%20TITLE_ABS%3Aoncolog%2A%20OR%20TITLE_ABS%3Aneoplas%2A%20OR%20TITLE_ABS%3Atumor%2A%20OR%20TITLE_ABS%3Atumour%2A%20OR%20TITLE_ABS%3Acarcinoma%2A%20OR%20TITLE_ABS%3Aleukemia%2A%20OR%20TITLE_ABS%3Aleukaemia%2A%20OR%20TITLE_ABS%3Alymphoma%2A%20OR%20TITLE_ABS%3Amyeloma%2A%29%20sort_date%3Ay&format=json&resultType=core&pageSize=1000&cursorMark=AoJwgPDO6t4CKDM3MzcyMDUx",
+   "cursorMark_in": "AoJwgPDO6t4CKDM3MzcyMDUx",
+   "nextCursorMark": "AoJwwOzUq9kCKDM1Nzc5ODkx",
+   "n_records": 207,
+   "hitCount": 5207
+  },
+  {
+   "file": "P06/P06_page007.json",
+   "sha256": "5237d881cfbbdce512ec212ad152943b0f7a7e4dccf7c65860c3516d11815409",
+   "pulled_utc": "2026-10-27T19:20:25+00:00",
+   "request_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28PUB_TYPE%3A%22Meta-Analysis%22%20OR%20TITLE%3A%22meta-analysis%22%20OR%20TITLE%3A%22meta%20analysis%22%29%20AND%20%28TITLE_ABS%3Arandomized%20OR%20TITLE_ABS%3Arandomised%20OR%20TITLE_ABS%3ARCT%20OR%20TITLE_ABS%3ARCTs%29%20AND%20OPEN_ACCESS%3AY%20AND%20LANG%3Aeng%20AND%20FIRST_PDATE%3A%5B2017-01-01%20TO%202025-12-31%5D%20AND%20%28TITLE_ABS%3Acancer%2A%20OR%20TITLE_ABS%3Aoncolog%2A%20OR%20TITLE_ABS%3Aneoplas%2A%20OR%20TITLE_ABS%3Atumor%2A%20OR%20TITLE_ABS%3Atumour%2A%20OR%20TITLE_ABS%3Acarcinoma%2A%20OR%20TITLE_ABS%3Aleukemia%2A%20OR%20TITLE_ABS%3Aleukaemia%2A%20OR%20TITLE_ABS%3Alymphoma%2A%20OR%20TITLE_ABS%3Amyeloma%2A%29%20sort_date%3Ay&format=json&resultType=core&pageSize=1000&cursorMark=AoJwwOzUq9kCKDM1Nzc5ODkx",
+   "cursorMark_in": "AoJwwOzUq9kCKDM1Nzc5ODkx",
+   "nextCursorMark": null,
+   "n_records": 0,
+   "hitCount": 5207
+  }
+ ]
+}

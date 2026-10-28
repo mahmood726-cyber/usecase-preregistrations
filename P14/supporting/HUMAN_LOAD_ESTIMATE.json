@@ -1,0 +1,171 @@
+{
+ "computed_utc": "2026-10-28T07:26:59+00:00",
+ "assumptions": {
+  "minutes_per_row": 1.5,
+  "rows_per_packet": 20,
+  "packet_minutes_cap": 30,
+  "checkers_scenarios": [
+   4,
+   6
+  ],
+  "headline_share_scenarios": [
+   0,
+   0.25,
+   0.5,
+   1.0
+  ],
+  "note": "Headline share is unknown until analysis; scenarios bracket it. Headline reviews are taken as the LARGEST-k reviews (conservative upper bound per scenario). Excludes fields still disputed after the fourth AI pass (expected to be few; unknown until extraction)."
+ },
+ "P14": {
+  "n_reviews": 18,
+  "total_rows": 234,
+  "k_list": [
+   22,
+   18,
+   16,
+   15,
+   14,
+   13,
+   13,
+   12,
+   12,
+   12,
+   12,
+   11,
+   11,
+   11,
+   11,
+   11,
+   10,
+   10
+  ],
+  "scenarios": [
+   {
+    "headline_share": 0,
+    "headline_reviews": 0,
+    "human_rows": 19,
+    "human_minutes": 28.5,
+    "packets": 1,
+    "packets_per_coauthor_4": 0.25,
+    "weeks_at_1_per_week_4": 1,
+    "packets_per_coauthor_6": 0.17,
+    "weeks_at_1_per_week_6": 1
+   },
+   {
+    "headline_share": 0.25,
+    "headline_reviews": 4,
+    "human_rows": 85,
+    "human_minutes": 127.5,
+    "packets": 5,
+    "packets_per_coauthor_4": 1.25,
+    "weeks_at_1_per_week_4": 2,
+    "packets_per_coauthor_6": 0.83,
+    "weeks_at_1_per_week_6": 1
+   },
+   {
+    "headline_share": 0.5,
+    "headline_reviews": 9,
+    "human_rows": 144,
+    "human_minutes": 216.0,
+    "packets": 8,
+    "packets_per_coauthor_4": 2.0,
+    "weeks_at_1_per_week_4": 2,
+    "packets_per_coauthor_6": 1.33,
+    "weeks_at_1_per_week_6": 2
+   },
+   {
+    "headline_share": 1.0,
+    "headline_reviews": 18,
+    "human_rows": 234,
+    "human_minutes": 351.0,
+    "packets": 12,
+    "packets_per_coauthor_4": 3.0,
+    "weeks_at_1_per_week_4": 3,
+    "packets_per_coauthor_6": 2.0,
+    "weeks_at_1_per_week_6": 2
+   }
+  ]
+ },
+ "P06": {
+  "n_reviews": 30,
+  "total_rows": 404,
+  "k_list": [
+   24,
+   20,
+   19,
+   17,
+   16,
+   15,
+   15,
+   15,
+   15,
+   15,
+   14,
+   14,
+   13,
+   13,
+   13,
+   12,
+   12,
+   12,
+   12,
+   12,
+   11,
+   11,
+   11,
+   11,
+   11,
+   11,
+   10,
+   10,
+   10,
+   10
+  ],
+  "scenarios": [
+   {
+    "headline_share": 0,
+    "headline_reviews": 0,
+    "human_rows": 31,
+    "human_minutes": 46.5,
+    "packets": 2,
+    "packets_per_coauthor_4": 0.5,
+    "weeks_at_1_per_week_4": 1,
+    "packets_per_coauthor_6": 0.33,
+    "weeks_at_1_per_week_6": 1
+   },
+   {
+    "headline_share": 0.25,
+    "headline_reviews": 8,
+    "human_rows": 163,
+    "human_minutes": 244.5,
+    "packets": 9,
+    "packets_per_coauthor_4": 2.25,
+    "weeks_at_1_per_week_4": 3,
+    "packets_per_coauthor_6": 1.5,
+    "weeks_at_1_per_week_6": 2
+   },
+   {
+    "headline_share": 0.5,
+    "headline_reviews": 15,
+    "human_rows": 253,
+    "human_minutes": 379.5,
+    "packets": 13,
+    "packets_per_coauthor_4": 3.25,
+    "weeks_at_1_per_week_4": 4,
+    "packets_per_coauthor_6": 2.17,
+    "weeks_at_1_per_week_6": 3
+   },
+   {
+    "headline_share": 1.0,
+    "headline_reviews": 30,
+    "human_rows": 404,
+    "human_minutes": 606.0,
+    "packets": 21,
+    "packets_per_coauthor_4": 5.25,
+    "weeks_at_1_per_week_4": 6,
+    "packets_per_coauthor_6": 3.5,
+    "weeks_at_1_per_week_6": 4
+   }
+  ]
+ }
+}

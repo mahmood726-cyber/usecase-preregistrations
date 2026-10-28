@@ -1,0 +1,59 @@
+{
+ "type": "object",
+ "additionalProperties": false,
+ "required": [
+  "source_found",
+  "per_study_printed",
+  "trial_rows",
+  "plot_model_label",
+  "plot_weighting",
+  "plot_fixed_random",
+  "note"
+ ],
+ "properties": {
+  "source_found": {
+   "type": "string",
+   "enum": [
+    "yes",
+    "no"
+   ]
+  },
+  "per_study_printed": {
+   "type": "string",
+   "enum": [
+    "yes",
+    "no",
+    "unclear"
+   ]
+  },
+  "trial_rows": {
+   "type": [
+    "integer",
+    "null"
+   ]
+  },
+  "plot_model_label": {
+   "type": "string"
+  },
+  "plot_weighting": {
+   "type": "string",
+   "enum": [
+    "inverse_variance",
+    "mantel_haenszel",
+    "peto",
+    "unstated"
+   ]
+  },
+  "plot_fixed_random": {
+   "type": "string",
+   "enum": [
+    "fixed",
+    "random",
+    "unstated"
+   ]
+  },
+  "note": {
+   "type": "string"
+  }
+ }
+}

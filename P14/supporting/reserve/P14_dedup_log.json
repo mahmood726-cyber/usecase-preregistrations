@@ -1,0 +1,11 @@
+{
+ "pilot": "P14",
+ "seed": "2026102714",
+ "records_raw": 730,
+ "records_deduplicated": 730,
+ "duplicates_removed": 0,
+ "merge_events": [],
+ "rule": "union-find on normalized DOI, then PMID, then normalized title|first author|pubYear; canonical key doi:>pmid:>title:; rank = ascending sha256('seed|pilot|key'), ties by key",
+ "cross_frame_duplicates_removed": [],
+ "records_after_cross_dedup": 730
+}

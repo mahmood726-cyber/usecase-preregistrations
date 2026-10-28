@@ -1,0 +1,47 @@
+{
+ "type": "object",
+ "additionalProperties": false,
+ "required": [
+  "records"
+ ],
+ "properties": {
+  "records": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+     "rank",
+     "decision",
+     "reason_code",
+     "reason"
+    ],
+    "properties": {
+     "rank": {
+      "type": "integer"
+     },
+     "decision": {
+      "type": "string",
+      "enum": [
+       "FULLTEXT",
+       "EXCLUDE"
+      ]
+     },
+     "reason_code": {
+      "type": "string",
+      "enum": [
+       "NONE",
+       "NOT_MA",
+       "DESIGN",
+       "POPULATION",
+       "K_LT_10"
+      ]
+     },
+     "reason": {
+      "type": "string"
+     }
+    }
+   }
+  }
+ }
+}

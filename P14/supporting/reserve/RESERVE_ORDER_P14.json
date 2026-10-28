@@ -1,0 +1,93 @@
+{
+ "pilot": "P14",
+ "frame": "reserve (2016-10-27..2016-12-31 and 2026-01-01..2026-10-27), seed 2026102714",
+ "use": "AM-P14-R: only if fewer than 10 of the main selection pass all gates; added in this order",
+ "computed_utc": "2026-10-28T09:07:32+00:00",
+ "records_screened": 730,
+ "eligible": 5,
+ "unresolved": 42,
+ "yield": 0.00684931506849315,
+ "yield_wilson95": [
+  0.002929062710507163,
+  0.015932584658037232
+ ],
+ "reserve_order": [
+  {
+   "reserve_rank": 41,
+   "canonical_key": "doi:10.3389/fped.2026.1892131",
+   "sha256_rank_digest": "0dca849a52de78e19ee6e29b5bbee0e5ce47c164523fcd16cfa39f29174c1264",
+   "pmcid": "PMC13486297",
+   "doi": "10.3389/fped.2026.1892131",
+   "title": "High-flow nasal cannula versus continuous positive airway pressure for noninvasive respiratory support in children with bronchiolitis: a meta-analysis of randomized controlled trials.",
+   "firstPublicationDate": "2026-08-05",
+   "licence_index": "cc by",
+   "designated_outcome": "Treatment failure",
+   "k_designated": 10,
+   "model_basis": "RevMan 5.x random effects = DL, Wald (A3)",
+   "eligible_via": "primary screen"
+  },
+  {
+   "reserve_rank": 250,
+   "canonical_key": "doi:10.3390/healthcare14060711",
+   "sha256_rank_digest": "549e5de863349c94431d498733260e331176786f34e8f379aa7323921ffb4a78",
+   "pmcid": "PMC13026062",
+   "doi": "10.3390/healthcare14060711",
+   "title": "Efficacy and Safety of Oral Herbal Medicine Combined with Diosmectite for Pediatric Rotavirus Gastroenteritis: A Systematic Review and Meta-Analysis.",
+   "firstPublicationDate": "2026-03-11",
+   "licence_index": "cc by",
+   "designated_outcome": "Duration of diarrhea",
+   "k_designated": 12,
+   "model_basis": "RevMan 5.x random effects = DL, Wald (A3)",
+   "eligible_via": "primary screen"
+  },
+  {
+   "reserve_rank": 270,
+   "canonical_key": "doi:10.3389/fnut.2026.1876092",
+   "sha256_rank_digest": "5c402ee30c9c6bc22e821c939ff46ea7dcce98f510045c58b15d165fd2270e84",
+   "pmcid": "PMC13468811",
+   "doi": "10.3389/fnut.2026.1876092",
+   "title": "Efficacy and safety of probiotics in the treatment of iron deficiency anemia in Chinese children: a systematic review and meta-analysis.",
+   "firstPublicationDate": "2026-07-30",
+   "licence_index": "cc by",
+   "designated_outcome": "Hemoglobin (Hb)",
+   "k_designated": 12,
+   "model_basis": "RevMan 5.x random effects = DL, Wald (A3)",
+   "eligible_via": "primary screen"
+  },
+  {
+   "reserve_rank": 368,
+   "canonical_key": "doi:10.1097/md.0000000000050050",
+   "sha256_rank_digest": "7cadbbba504ee86f16cf0cf55d9429279c6d139aadf56322668111d1c0ffd3a4",
+   "pmcid": "PMC13433031",
+   "doi": "10.1097/md.0000000000050050",
+   "title": "Efficacy of azithromycin sequential therapy combined with montelukast in the treatment of pediatric mycoplasma pneumonia: A meta-analysis.",
+   "firstPublicationDate": "2026-07-01",
+   "licence_index": "cc by",
+   "designated_outcome": "Overall clinical effective rate",
+   "k_designated": 35,
+   "model_basis": "RevMan 5.x random effects = DL, Wald (A3)",
+   "eligible_via": "primary screen"
+  },
+  {
+   "reserve_rank": 402,
+   "canonical_key": "doi:10.3389/fped.2026.1703102",
+   "sha256_rank_digest": "8c99b87be1d1b16da2df063be71119fcb5d9ff380c18198983669728ec59ec98",
+   "pmcid": "PMC13223103",
+   "doi": "10.3389/fped.2026.1703102",
+   "title": "Efficacy of zinc sulfate in neonatal hyperbilirubinemia: a meta-analysis of randomized controlled trials.",
+   "firstPublicationDate": "2026-05-18",
+   "licence_index": "cc by",
+   "designated_outcome": "Mean change in total serum bilirubin",
+   "k_designated": 11,
+   "model_basis": "IV random REML, CI wald (A3)",
+   "eligible_via": "AM-S7 chronology re-check"
+  }
+ ],
+ "unresolved_codes": {
+  "C:POPULATION": 27,
+  "D:PER_STUDY_SOURCE_NOT_READ": 1,
+  "C:DESIGN": 11,
+  "C:NONINDEPENDENT": 2,
+  "C:F_SOURCE_HTTP500": 1
+ }
+}

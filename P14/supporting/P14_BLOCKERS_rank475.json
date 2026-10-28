@@ -1,0 +1,39 @@
+{
+ "computed_utc": "2026-10-27T21:05:55+00:00",
+ "scope": "P14 ranks 1-475 (contiguous prefix), full-text-screened records",
+ "fulltext_records": 125,
+ "k_designated_10_60": 48,
+ "first_blocker_counts_k10_60": {
+  "C:POPULATION": 19,
+  "C:NONINDEPENDENT": 9,
+  "D:MODEL_UNIDENTIFIABLE": 1,
+  "C:CHRONOLOGY": 1,
+  "D:MODEL_UNSUPPORTED": 2,
+  "C:DESIGN": 13,
+  "C:MODEL_UNIDENTIFIABLE": 2,
+  "C:PARTICIPANTS_MISSING": 1
+ },
+ "blocked_citing_age_18_ranks": [
+  8,
+  77,
+  83,
+  92,
+  114,
+  148,
+  179,
+  193,
+  203,
+  247,
+  267,
+  277,
+  336,
+  366,
+  394,
+  406,
+  416,
+  438,
+  448
+ ],
+ "blocked_citing_age_18_n": 19,
+ "method": "regex \b18\b on Codex population/design notes where population_ok or design_ok != yes; first-failing criterion only, later criteria not evaluated"
+}

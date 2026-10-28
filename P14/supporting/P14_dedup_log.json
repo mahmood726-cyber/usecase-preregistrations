@@ -1,0 +1,34 @@
+{
+ "pilot": "P14",
+ "seed": "2026102714",
+ "records_raw": 3436,
+ "records_deduplicated": 3433,
+ "duplicates_removed": 3,
+ "merge_events": [
+  {
+   "field": "tkey",
+   "value": "systemic opioid regimens for postoperative pain in neonates|kinoshita|2023",
+   "ids": [
+    "37018131",
+    "36645224"
+   ]
+  },
+  {
+   "field": "tkey",
+   "value": "vaccines for preventing rotavirus diarrhoea vaccines in use|soares weiser|2019",
+   "ids": [
+    "31684685",
+    "30912133"
+   ]
+  },
+  {
+   "field": "tkey",
+   "value": "mefloquine for preventing malaria in pregnant women|gonzalez|2018",
+   "ids": [
+    "30480761",
+    "29561063"
+   ]
+  }
+ ],
+ "rule": "union-find on normalized DOI, then PMID, then normalized title|first author|pubYear; canonical key doi:>pmid:>title:; rank = ascending sha256('seed|pilot|key'), ties by key"
+}

@@ -1,0 +1,97 @@
+{
+ "computed_utc": "2026-10-28T07:00:29+00:00",
+ "R": "R 4.6.0; metafor 5.2.1",
+ "R_warning": "Warning message:\npackage 'metafor' was built under R version 4.6.1",
+ "app": "allmeta 14dc545b pubbias-tests (index.html eggerGeneric/wls verbatim + plus-engine.js sha256 07043d55...)",
+ "comparisons": [
+  {
+   "quantity": "egger_t",
+   "R": -0.161280409508757,
+   "app": -0.1612804095087591,
+   "abs_diff": 2.1094237467877974e-15
+  },
+  {
+   "quantity": "egger_p",
+   "R": 0.875084390448022,
+   "app": 0.8750843904480264,
+   "abs_diff": 4.440892098500626e-15
+  },
+  {
+   "quantity": "pet_b0",
+   "R": -0.409511175588112,
+   "app": -0.40951117558811156,
+   "abs_diff": 4.440892098500626e-16
+  },
+  {
+   "quantity": "pet_se",
+   "R": 0.0823187342081028,
+   "app": 0.0823187342081028,
+   "abs_diff": 0.0
+  },
+  {
+   "quantity": "pet_p",
+   "R": 0.000557773516968558,
+   "app": 0.0005577735169685644,
+   "abs_diff": 6.396792817664476e-18
+  },
+  {
+   "quantity": "pet_lo",
+   "R": -0.592928745523517,
+   "app": -0.592928745523517,
+   "abs_diff": 0.0
+  },
+  {
+   "quantity": "pet_hi",
+   "R": -0.226093605652707,
+   "app": -0.22609360565270603,
+   "abs_diff": 9.71445146547012e-16
+  },
+  {
+   "quantity": "pet_slope",
+   "R": -0.104824545011774,
+   "app": -0.10482454501177513,
+   "abs_diff": 1.124100812432971e-15
+  },
+  {
+   "quantity": "pet_slope_p",
+   "R": 0.875084390448022,
+   "app": 0.8750843904480264,
+   "abs_diff": 4.440892098500626e-15
+  },
+  {
+   "quantity": "peese_b0",
+   "R": -0.410668027887548,
+   "app": -0.4106680278875475,
+   "abs_diff": 4.996003610813204e-16
+  },
+  {
+   "quantity": "peese_se",
+   "R": 0.0584632821812005,
+   "app": 0.058463282181200504,
+   "abs_diff": 6.938893903907228e-18
+  },
+  {
+   "quantity": "peese_p",
+   "R": 3.60807507362803e-05,
+   "app": 3.608075073628052e-05,
+   "abs_diff": 2.236166980751353e-19
+  },
+  {
+   "quantity": "peese_lo",
+   "R": -0.540932338330117,
+   "app": -0.5409323383301173,
+   "abs_diff": 3.3306690738754696e-16
+  },
+  {
+   "quantity": "peese_hi",
+   "R": -0.280403717444978,
+   "app": -0.2804037174449777,
+   "abs_diff": 2.7755575615628914e-16
+  }
+ ],
+ "max_abs_diff": 4.440892098500626e-15,
+ "branch_R": "PEESE",
+ "branch_app": "PEESE",
+ "pet_slope_vs_egger_p": 0.0,
+ "gate": "PASS"
+}

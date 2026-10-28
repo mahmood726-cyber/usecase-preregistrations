@@ -1,0 +1,66 @@
+{
+ "pilot": "P14",
+ "query": "(PUB_TYPE:\"Meta-Analysis\" OR TITLE:\"meta-analysis\" OR TITLE:\"meta analysis\") AND (TITLE_ABS:randomized OR TITLE_ABS:randomised OR TITLE_ABS:RCT OR TITLE_ABS:RCTs) AND OPEN_ACCESS:Y AND LANG:eng AND FIRST_PDATE:[2017-01-01 TO 2025-12-31] AND (TITLE_ABS:child* OR TITLE_ABS:pediatric* OR TITLE_ABS:paediatric* OR TITLE_ABS:infant* OR TITLE_ABS:neonat* OR TITLE_ABS:adolescen*) sort_date:y",
+ "endpoint": "https://www.ebi.ac.uk/europepmc/webservices/rest/search",
+ "params": {
+  "format": "json",
+  "resultType": "core",
+  "pageSize": 1000
+ },
+ "started_utc": "2026-10-27T19:19:11+00:00",
+ "finished_utc": "2026-10-27T19:19:41+00:00",
+ "hitCount": 3436,
+ "records_retrieved": 3436,
+ "pages": [
+  {
+   "file": "P14/P14_page001.json",
+   "sha256": "01ca27851cb59c6be1c1686c93b6369d59be5c393939abf05b27a721b2cb39f7",
+   "pulled_utc": "2026-10-27T19:19:11+00:00",
+   "request_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28PUB_TYPE%3A%22Meta-Analysis%22%20OR%20TITLE%3A%22meta-analysis%22%20OR%20TITLE%3A%22meta%20analysis%22%29%20AND%20%28TITLE_ABS%3Arandomized%20OR%20TITLE_ABS%3Arandomised%20OR%20TITLE_ABS%3ARCT%20OR%20TITLE_ABS%3ARCTs%29%20AND%20OPEN_ACCESS%3AY%20AND%20LANG%3Aeng%20AND%20FIRST_PDATE%3A%5B2017-01-01%20TO%202025-12-31%5D%20AND%20%28TITLE_ABS%3Achild%2A%20OR%20TITLE_ABS%3Apediatric%2A%20OR%20TITLE_ABS%3Apaediatric%2A%20OR%20TITLE_ABS%3Ainfant%2A%20OR%20TITLE_ABS%3Aneonat%2A%20OR%20TITLE_ABS%3Aadolescen%2A%29%20sort_date%3Ay&format=json&resultType=core&pageSize=1000&cursorMark=%2A",
+   "cursorMark_in": "*",
+   "nextCursorMark": "AoJwgNWIlZEDKDUxMzI0Njg2",
+   "n_records": 1000,
+   "hitCount": 3436
+  },
+  {
+   "file": "P14/P14_page002.json",
+   "sha256": "e13efb590650e944b8e34c1c0e4f5e7317b0ac4b2517f6657b830a33c12696c5",
+   "pulled_utc": "2026-10-27T19:19:19+00:00",
+   "request_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28PUB_TYPE%3A%22Meta-Analysis%22%20OR%20TITLE%3A%22meta-analysis%22%20OR%20TITLE%3A%22meta%20analysis%22%29%20AND%20%28TITLE_ABS%3Arandomized%20OR%20TITLE_ABS%3Arandomised%20OR%20TITLE_ABS%3ARCT%20OR%20TITLE_ABS%3ARCTs%29%20AND%20OPEN_ACCESS%3AY%20AND%20LANG%3Aeng%20AND%20FIRST_PDATE%3A%5B2017-01-01%20TO%202025-12-31%5D%20AND%20%28TITLE_ABS%3Achild%2A%20OR%20TITLE_ABS%3Apediatric%2A%20OR%20TITLE_ABS%3Apaediatric%2A%20OR%20TITLE_ABS%3Ainfant%2A%20OR%20TITLE_ABS%3Aneonat%2A%20OR%20TITLE_ABS%3Aadolescen%2A%29%20sort_date%3Ay&format=json&resultType=core&pageSize=1000&cursorMark=AoJwgNWIlZEDKDUxMzI0Njg2",
+   "cursorMark_in": "AoJwgNWIlZEDKDUxMzI0Njg2",
+   "nextCursorMark": "AoJwwKqA/YEDKDQ2MzgyMzg0",
+   "n_records": 1000,
+   "hitCount": 3436
+  },
+  {
+   "file": "P14/P14_page003.json",
+   "sha256": "47d3ef38a7bafc53b767e0d6882f6bf15a302ba47bec8f12c925944e82c6d411",
+   "pulled_utc": "2026-10-27T19:19:28+00:00",
+   "request_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28PUB_TYPE%3A%22Meta-Analysis%22%20OR%20TITLE%3A%22meta-analysis%22%20OR%20TITLE%3A%22meta%20analysis%22%29%20AND%20%28TITLE_ABS%3Arandomized%20OR%20TITLE_ABS%3Arandomised%20OR%20TITLE_ABS%3ARCT%20OR%20TITLE_ABS%3ARCTs%29%20AND%20OPEN_ACCESS%3AY%20AND%20LANG%3Aeng%20AND%20FIRST_PDATE%3A%5B2017-01-01%20TO%202025-12-31%5D%20AND%20%28TITLE_ABS%3Achild%2A%20OR%20TITLE_ABS%3Apediatric%2A%20OR%20TITLE_ABS%3Apaediatric%2A%20OR%20TITLE_ABS%3Ainfant%2A%20OR%20TITLE_ABS%3Aneonat%2A%20OR%20TITLE_ABS%3Aadolescen%2A%29%20sort_date%3Ay&format=json&resultType=core&pageSize=1000&cursorMark=AoJwwKqA%2FYEDKDQ2MzgyMzg0",
+   "cursorMark_in": "AoJwwKqA/YEDKDQ2MzgyMzg0",
+   "nextCursorMark": "AoJwwILYtOwCKDQwMjcxNjAw",
+   "n_records": 1000,
+   "hitCount": 3436
+  },
+  {
+   "file": "P14/P14_page004.json",
+   "sha256": "3e272cf193bd8185471238a93b77370a780a99f0c6674d9c92d18ca9b3d54858",
+   "pulled_utc": "2026-10-27T19:19:36+00:00",
+   "request_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28PUB_TYPE%3A%22Meta-Analysis%22%20OR%20TITLE%3A%22meta-analysis%22%20OR%20TITLE%3A%22meta%20analysis%22%29%20AND%20%28TITLE_ABS%3Arandomized%20OR%20TITLE_ABS%3Arandomised%20OR%20TITLE_ABS%3ARCT%20OR%20TITLE_ABS%3ARCTs%29%20AND%20OPEN_ACCESS%3AY%20AND%20LANG%3Aeng%20AND%20FIRST_PDATE%3A%5B2017-01-01%20TO%202025-12-31%5D%20AND%20%28TITLE_ABS%3Achild%2A%20OR%20TITLE_ABS%3Apediatric%2A%20OR%20TITLE_ABS%3Apaediatric%2A%20OR%20TITLE_ABS%3Ainfant%2A%20OR%20TITLE_ABS%3Aneonat%2A%20OR%20TITLE_ABS%3Aadolescen%2A%29%20sort_date%3Ay&format=json&resultType=core&pageSize=1000&cursorMark=AoJwwILYtOwCKDQwMjcxNjAw",
+   "cursorMark_in": "AoJwwILYtOwCKDQwMjcxNjAw",
+   "nextCursorMark": "AoJwwOzUq9kCKDM2MDEzMDUw",
+   "n_records": 436,
+   "hitCount": 3436
+  },
+  {
+   "file": "P14/P14_page005.json",
+   "sha256": "04d9edc4957d47f61f2288a1446dbd60a6053b23b31e9b0bb9efc6abc0ff30b1",
+   "pulled_utc": "2026-10-27T19:19:40+00:00",
+   "request_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28PUB_TYPE%3A%22Meta-Analysis%22%20OR%20TITLE%3A%22meta-analysis%22%20OR%20TITLE%3A%22meta%20analysis%22%29%20AND%20%28TITLE_ABS%3Arandomized%20OR%20TITLE_ABS%3Arandomised%20OR%20TITLE_ABS%3ARCT%20OR%20TITLE_ABS%3ARCTs%29%20AND%20OPEN_ACCESS%3AY%20AND%20LANG%3Aeng%20AND%20FIRST_PDATE%3A%5B2017-01-01%20TO%202025-12-31%5D%20AND%20%28TITLE_ABS%3Achild%2A%20OR%20TITLE_ABS%3Apediatric%2A%20OR%20TITLE_ABS%3Apaediatric%2A%20OR%20TITLE_ABS%3Ainfant%2A%20OR%20TITLE_ABS%3Aneonat%2A%20OR%20TITLE_ABS%3Aadolescen%2A%29%20sort_date%3Ay&format=json&resultType=core&pageSize=1000&cursorMark=AoJwwOzUq9kCKDM2MDEzMDUw",
+   "cursorMark_in": "AoJwwOzUq9kCKDM2MDEzMDUw",
+   "nextCursorMark": null,
+   "n_records": 0,
+   "hitCount": 3436
+  }
+ ]
+}

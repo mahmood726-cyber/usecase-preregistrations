@@ -1,0 +1,26 @@
+{
+ "pilot": "P06",
+ "seed": "2026102706",
+ "records_raw": 5207,
+ "records_deduplicated": 5205,
+ "duplicates_removed": 2,
+ "merge_events": [
+  {
+   "field": "tkey",
+   "value": "interventions for quitting vaping|butler|2025",
+   "ids": [
+    "41288132",
+    "39777614"
+   ]
+  },
+  {
+   "field": "tkey",
+   "value": "risk of hypertension in cancer patients treated with abiraterone a meta analysis|zhu|2019",
+   "ids": [
+    "31168403",
+    "30984412"
+   ]
+  }
+ ],
+ "rule": "union-find on normalized DOI, then PMID, then normalized title|first author|pubYear; canonical key doi:>pmid:>title:; rank = ascending sha256('seed|pilot|key'), ties by key"
+}

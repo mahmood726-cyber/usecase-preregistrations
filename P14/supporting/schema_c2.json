@@ -1,0 +1,65 @@
+{
+ "type": "object",
+ "additionalProperties": false,
+ "required": [
+  "method",
+  "years",
+  "n_review",
+  "k_designated",
+  "span_established",
+  "years_min",
+  "years_max",
+  "basis"
+ ],
+ "properties": {
+  "method": {
+   "type": "string",
+   "enum": [
+    "individual",
+    "bound",
+    "undeterminable"
+   ]
+  },
+  "years": {
+   "type": "array",
+   "items": {
+    "type": "integer"
+   }
+  },
+  "n_review": {
+   "type": [
+    "integer",
+    "null"
+   ]
+  },
+  "k_designated": {
+   "type": [
+    "integer",
+    "null"
+   ]
+  },
+  "span_established": {
+   "type": "string",
+   "enum": [
+    "yes",
+    "no",
+    "undeterminable"
+   ]
+  },
+  "years_min": {
+   "type": [
+    "integer",
+    "null"
+   ]
+  },
+  "years_max": {
+   "type": [
+    "integer",
+    "null"
+   ]
+  },
+  "basis": {
+   "type": "string"
+  }
+ }
+}
