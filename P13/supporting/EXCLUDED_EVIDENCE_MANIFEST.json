@@ -1,0 +1,251 @@
+{
+ "note": "Files cited by the preregistration but not republished. Each is bound by sha256; byte-identical copies are kept in the project archive.",
+ "files": [
+  {
+   "path": "supporting/evidence/app/gosh/exact-enum.js",
+   "sha256": "9d89f7c0a5aa3be070e4c10fb5e52d15710975db82ef19bcecabb9508a63527b",
+   "bytes": 18325,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/gosh/exact-ui.js",
+   "sha256": "8d3e99916b929325312c976ba3d0197469e73c698c69edd06a85f116ea916b2a",
+   "bytes": 16584,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/gosh/index.html",
+   "sha256": "6e4ca4f3002d9c2c11bd34db91dea3ff71662a0a286090008e806833e9ef73a3",
+   "bytes": 43155,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/gosh/plus.js",
+   "sha256": "5ceb7aea4c44b82c7015f3d5025d684e1299114d67c3d80cbacaf5582234f4f8",
+   "bytes": 10215,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/gosh/validate/adapter-plus.js",
+   "sha256": "caa17f1a1bb3ac611bf4465b9dd9ed272187f4c3e9d35e45ea1fca086e344902",
+   "bytes": 27717,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/gosh/validate/adapter.js",
+   "sha256": "1c165b1ce744c6917312c30fec871f38b01a2019dac9e7696bb74349919ef20e",
+   "bytes": 31105,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/gosh/validate/manifest-plus.js",
+   "sha256": "cb5c6d2098b2072c0e460abe9754023579a187d9877aaa6c36c50e2ae4c2c642",
+   "bytes": 1362,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/gosh/validate/exact/compare.js",
+   "sha256": "c9a48ced49f907a5a9e9495a7cf871f3845f51aa3cac1d2910db00c1947d6e6f",
+   "bytes": 4547,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/hub/app-style.css",
+   "sha256": "475254903d40eebe241574975f1ddff13808c8ad478c17137fda449a3952361f",
+   "bytes": 16443,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/hub/shared/a11y-landmarks.js",
+   "sha256": "a9b35c71c500b0fe4e5a080f23c9dbb11c5462663a0d44e4557f782149e5f8ea",
+   "bytes": 1954,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/hub/shared/analysis-lifecycle.js",
+   "sha256": "bdae7a0d966e9093b4234e697a8474e3e1757cde804f5893a880a0f9b2b4d9f7",
+   "bytes": 1686,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/hub/shared/axis-controls.js",
+   "sha256": "1620bdc94620df10a41abe91c388de6a91f03367dd3719cb77ce2776ab553806",
+   "bytes": 3425,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/hub/shared/csv-upload.js",
+   "sha256": "6ce4702db911d2c193da4b775a10f8b748d4901ddcc98f0830bab7bd48db5384",
+   "bytes": 10490,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/hub/shared/glossary.json",
+   "sha256": "16e134407092859538b7c1215b8f40ae5c6ce8c4bae49c4cf953cf7260a228ce",
+   "bytes": 12569,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/hub/shared/plot-export.js",
+   "sha256": "7533db659c89b328f20252fc2deaa1272d8473d00052d7b91a9732c24ee382cc",
+   "bytes": 17798,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/hub/shared/reset-undo.js",
+   "sha256": "0ef224c3e8a53dca6364cdbdfa8a0f24dc5e0e8805180651781106e0a2af1ee8",
+   "bytes": 3375,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/hub/shared/results-export.js",
+   "sha256": "16ffa76bc74275565214c2e142d7f0d0847a5a8eded2614efb04aa172acd71f4",
+   "bytes": 7910,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/hub/shared/tooltips.js",
+   "sha256": "cd9fd2d82a5d5402915737de9aaef7caa0f506ca0550e0f18f078c67b3078393",
+   "bytes": 8162,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/hub/shared/url-state.js",
+   "sha256": "a704241f6c1faffaf33544d3c2059cc3d7d196c0dab39d91a3e006e315de1aa1",
+   "bytes": 1584,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/hub/shared/vendor/jspdf.min.js",
+   "sha256": "98ccf17aa10c20bb1301762618fcc9b6ab3a4e7f26b6071d64d0b41154df3875",
+   "bytes": 364463,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/shared/alm-validate.js",
+   "sha256": "b451c1377164842466aa0d7ad4cb6dd7a1340456a61e891a01646b4375c4ed87",
+   "bytes": 17721,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/shared/app-flow.js",
+   "sha256": "2b8e366dbdbf5aebffc70f0b25b1ac7a49d65cc4ecfd7c0807113b3b5556162e",
+   "bytes": 16214,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/shared/autosave.js",
+   "sha256": "18bcc6c10f6177482b2f8453bede3f92887d7e6729413862cc903891405d23e8",
+   "bytes": 9440,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/shared/build-info.js",
+   "sha256": "44c8a7d1e2cdad4d4b1c4806cffdd4f9817dc39161cd0de5374761a71bd19177",
+   "bytes": 1306,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/shared/canonical-datasets.js",
+   "sha256": "32f5b35faff14429602f95a72d79ddc8b6864098e94c652a81cd537579770aca",
+   "bytes": 14757,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/shared/citation.js",
+   "sha256": "0160370671813e2995ff37f68d9b7e7b650f613012fb4208f31e52637cdd3961",
+   "bytes": 21281,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/shared/forced-colors.css",
+   "sha256": "a967581cb9dfe03bcd6158264353dd8c3fff386d2919143587aa507a24e0c39c",
+   "bytes": 2440,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/shared/hero-examples.js",
+   "sha256": "7b091e4f08184b069b9c649a2cf04f19f440c37bd2de86d49d453f16791307f3",
+   "bytes": 5430,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/shared/ma-studies-v1.js",
+   "sha256": "0710fcb7284e1c837810e4d388d5538836d55483d6b014c6e7f864c44bf26bf6",
+   "bytes": 26838,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/shared/truthcert-export.js",
+   "sha256": "d1cc2ff8584d2915bb0414e78e03ab22eccb68e4867a34193fe30ecfe6fdfefc",
+   "bytes": 9811,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/shared/truthcert-ui.js",
+   "sha256": "4326f44530fd523e183a24c5b8bf993b9594d10250ab24a3debc13f4bf251468",
+   "bytes": 9438,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/fallback/fulltext.xml",
+   "sha256": "876ed0efe1ab71eb4d879da5a32fd10b32640fa9862a52b3bfe30fdb74f28ece",
+   "bytes": 94478,
+   "reason": "third-party source file (bound by hash; not republished)"
+  },
+  {
+   "path": "supporting/evidence/fallback/supplementary.zip",
+   "sha256": "a4ea981419de234bf7d4c017b37fc7b32765e219223b7748965a76e30b626c07",
+   "bytes": 348979,
+   "reason": "third-party source file (bound by hash; not republished)"
+  },
+  {
+   "path": "supporting/evidence/fallback/supp/rkad084f2.jpg",
+   "sha256": "ff72a80e28fb97e017f41f2b1ec998a1a030406937742c3c688463a7ae72bcd3",
+   "bytes": 143230,
+   "reason": "third-party source file (bound by hash; not republished)"
+  },
+  {
+   "path": "supporting/evidence/fallback/supp/rkad084_supplementary_data.docx",
+   "sha256": "ad7a19ab09bd228c2080473c95e28c12ee035ce243ffa5564ad43fa2ad8aacc0",
+   "bytes": 145294,
+   "reason": "third-party source file (bound by hash; not republished)"
+  },
+  {
+   "path": "supporting/evidence/primary/fulltext.xml",
+   "sha256": "016a6203ac921b581d03756b52b6781a9ba529a37fe9c6465c9373bf83de47e9",
+   "bytes": 102041,
+   "reason": "third-party source file (bound by hash; not republished)"
+  },
+  {
+   "path": "supporting/evidence/primary/rkag034.pdf",
+   "sha256": "711c0a484809bddb1c18e6085043184620063fbaed18957cc91b55f11a9e2649",
+   "bytes": 1109253,
+   "reason": "third-party source file (bound by hash; not republished)"
+  },
+  {
+   "path": "supporting/evidence/primary/supplementary.zip",
+   "sha256": "065c2cd1a601169a5431d94e341acbafed14739e310f5c54ac6a2e6294f9b87e",
+   "bytes": 1256961,
+   "reason": "third-party source file (bound by hash; not republished)"
+  },
+  {
+   "path": "supporting/evidence/primary/Supplementary_Materials_ACCEPTED.pdf",
+   "sha256": "e7dffabc44fa56fbbc723b74b08f3059516b39528d6c9d4d5c83bf0b60b2d556",
+   "bytes": 928289,
+   "reason": "third-party source file (bound by hash; not republished)"
+  },
+  {
+   "path": "supporting/evidence/primary/supp/rkag034f1.jpg",
+   "sha256": "3724a4fe9bdf96cbc5ba2616ff8aaa601b83ac1117df65736156c691504d17da",
+   "bytes": 69683,
+   "reason": "third-party source file (bound by hash; not republished)"
+  },
+  {
+   "path": "supporting/evidence/primary/supp/rkag034_supplementary_data.zip",
+   "sha256": "9811f3edd61679300351423099119deeb88b165419c9813f50a12d6d66f2306d",
+   "bytes": 1078009,
+   "reason": "third-party source file (bound by hash; not republished)"
+  }
+ ]
+}

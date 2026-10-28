@@ -1,0 +1,796 @@
+{
+  "date": "2026-10-28",
+  "stage": "pre-release; documentary audit only",
+  "declared_snapshot": "14dc545bcba87a02158b2f445c28450e7eaf6b89",
+  "embedded_build_sha": "42a94da2110a02200d0b5bff4c56f636b9cbffa9",
+  "direct_asset_count": 28,
+  "direct_missing": [],
+  "assets": [
+    {
+      "path": "gosh/index.html",
+      "scope": "registered entry",
+      "exists": true,
+      "bytes": 43155,
+      "sha256": "6e4ca4f3002d9c2c11bd34db91dea3ff71662a0a286090008e806833e9ef73a3"
+    },
+    {
+      "path": "shared/forced-colors.css",
+      "scope": "direct stylesheet",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 7,
+      "bytes": 2440,
+      "sha256": "a967581cb9dfe03bcd6158264353dd8c3fff386d2919143587aa507a24e0c39c",
+      "literal_url": "../shared/forced-colors.css"
+    },
+    {
+      "path": "hub/app-style.css",
+      "scope": "direct stylesheet",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 56,
+      "bytes": 16443,
+      "sha256": "475254903d40eebe241574975f1ddff13808c8ad478c17137fda449a3952361f",
+      "literal_url": "../hub/app-style.css"
+    },
+    {
+      "path": "hub/shared/csv-upload.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 59,
+      "bytes": 10490,
+      "sha256": "6ce4702db911d2c193da4b775a10f8b748d4901ddcc98f0830bab7bd48db5384",
+      "literal_url": "../hub/shared/csv-upload.js"
+    },
+    {
+      "path": "hub/shared/plot-export.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 60,
+      "bytes": 17798,
+      "sha256": "7533db659c89b328f20252fc2deaa1272d8473d00052d7b91a9732c24ee382cc",
+      "literal_url": "../hub/shared/plot-export.js"
+    },
+    {
+      "path": "hub/shared/axis-controls.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 61,
+      "bytes": 3425,
+      "sha256": "1620bdc94620df10a41abe91c388de6a91f03367dd3719cb77ce2776ab553806",
+      "literal_url": "../hub/shared/axis-controls.js"
+    },
+    {
+      "path": "hub/shared/results-export.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 62,
+      "bytes": 7910,
+      "sha256": "16ffa76bc74275565214c2e142d7f0d0847a5a8eded2614efb04aa172acd71f4",
+      "literal_url": "../hub/shared/results-export.js"
+    },
+    {
+      "path": "hub/shared/url-state.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 63,
+      "bytes": 1584,
+      "sha256": "a704241f6c1faffaf33544d3c2059cc3d7d196c0dab39d91a3e006e315de1aa1",
+      "literal_url": "../hub/shared/url-state.js"
+    },
+    {
+      "path": "hub/shared/reset-undo.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 64,
+      "bytes": 3375,
+      "sha256": "0ef224c3e8a53dca6364cdbdfa8a0f24dc5e0e8805180651781106e0a2af1ee8",
+      "literal_url": "../hub/shared/reset-undo.js"
+    },
+    {
+      "path": "hub/shared/tooltips.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 65,
+      "bytes": 8162,
+      "sha256": "cd9fd2d82a5d5402915737de9aaef7caa0f506ca0550e0f18f078c67b3078393",
+      "literal_url": "../hub/shared/tooltips.js"
+    },
+    {
+      "path": "shared/build-info.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 66,
+      "bytes": 1306,
+      "sha256": "44c8a7d1e2cdad4d4b1c4806cffdd4f9817dc39161cd0de5374761a71bd19177",
+      "literal_url": "../shared/build-info.js"
+    },
+    {
+      "path": "shared/ma-studies-v1.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 67,
+      "bytes": 26838,
+      "sha256": "0710fcb7284e1c837810e4d388d5538836d55483d6b014c6e7f864c44bf26bf6",
+      "literal_url": "../shared/ma-studies-v1.js"
+    },
+    {
+      "path": "shared/truthcert-export.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 68,
+      "bytes": 9811,
+      "sha256": "d1cc2ff8584d2915bb0414e78e03ab22eccb68e4867a34193fe30ecfe6fdfefc",
+      "literal_url": "../shared/truthcert-export.js"
+    },
+    {
+      "path": "shared/truthcert-ui.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 69,
+      "bytes": 9438,
+      "sha256": "4326f44530fd523e183a24c5b8bf993b9594d10250ab24a3debc13f4bf251468",
+      "literal_url": "../shared/truthcert-ui.js"
+    },
+    {
+      "path": "shared/app-flow.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 70,
+      "bytes": 16214,
+      "sha256": "2b8e366dbdbf5aebffc70f0b25b1ac7a49d65cc4ecfd7c0807113b3b5556162e",
+      "literal_url": "../shared/app-flow.js"
+    },
+    {
+      "path": "shared/canonical-datasets.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 71,
+      "bytes": 14757,
+      "sha256": "32f5b35faff14429602f95a72d79ddc8b6864098e94c652a81cd537579770aca",
+      "literal_url": "../shared/canonical-datasets.js"
+    },
+    {
+      "path": "shared/hero-examples.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 72,
+      "bytes": 5430,
+      "sha256": "7b091e4f08184b069b9c649a2cf04f19f440c37bd2de86d49d453f16791307f3",
+      "literal_url": "../shared/hero-examples.js"
+    },
+    {
+      "path": "shared/citation.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 73,
+      "bytes": 21281,
+      "sha256": "0160370671813e2995ff37f68d9b7e7b650f613012fb4208f31e52637cdd3961",
+      "literal_url": "../shared/citation.js"
+    },
+    {
+      "path": "shared/autosave.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 74,
+      "bytes": 9440,
+      "sha256": "18bcc6c10f6177482b2f8453bede3f92887d7e6729413862cc903891405d23e8",
+      "literal_url": "../shared/autosave.js"
+    },
+    {
+      "path": "hub/shared/analysis-lifecycle.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 179,
+      "bytes": 1686,
+      "sha256": "bdae7a0d966e9093b4234e697a8474e3e1757cde804f5893a880a0f9b2b4d9f7",
+      "literal_url": "../hub/shared/analysis-lifecycle.js"
+    },
+    {
+      "path": "hub/shared/a11y-landmarks.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 723,
+      "bytes": 1954,
+      "sha256": "a9b35c71c500b0fe4e5a080f23c9dbb11c5462663a0d44e4557f782149e5f8ea",
+      "literal_url": "../hub/shared/a11y-landmarks.js"
+    },
+    {
+      "path": "shared/alm-validate.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 805,
+      "bytes": 17721,
+      "sha256": "b451c1377164842466aa0d7ad4cb6dd7a1340456a61e891a01646b4375c4ed87",
+      "literal_url": "../shared/alm-validate.js"
+    },
+    {
+      "path": "gosh/validate/adapter.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 806,
+      "bytes": 31105,
+      "sha256": "1c165b1ce744c6917312c30fec871f38b01a2019dac9e7696bb74349919ef20e",
+      "literal_url": "validate/adapter.js"
+    },
+    {
+      "path": "gosh/plus.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 807,
+      "bytes": 10215,
+      "sha256": "5ceb7aea4c44b82c7015f3d5025d684e1299114d67c3d80cbacaf5582234f4f8",
+      "literal_url": "plus.js"
+    },
+    {
+      "path": "gosh/validate/manifest-plus.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 808,
+      "bytes": 1362,
+      "sha256": "cb5c6d2098b2072c0e460abe9754023579a187d9877aaa6c36c50e2ae4c2c642",
+      "literal_url": "validate/manifest-plus.js"
+    },
+    {
+      "path": "gosh/validate/adapter-plus.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 809,
+      "bytes": 27717,
+      "sha256": "caa17f1a1bb3ac611bf4465b9dd9ed272187f4c3e9d35e45ea1fca086e344902",
+      "literal_url": "validate/adapter-plus.js"
+    },
+    {
+      "path": "gosh/exact-enum.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 810,
+      "bytes": 18325,
+      "sha256": "9d89f7c0a5aa3be070e4c10fb5e52d15710975db82ef19bcecabb9508a63527b",
+      "literal_url": "exact-enum.js"
+    },
+    {
+      "path": "gosh/validate/exact/compare.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 811,
+      "bytes": 4547,
+      "sha256": "c9a48ced49f907a5a9e9495a7cf871f3845f51aa3cac1d2910db00c1947d6e6f",
+      "literal_url": "validate/exact/compare.js"
+    },
+    {
+      "path": "gosh/exact-ui.js",
+      "scope": "direct script",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 812,
+      "bytes": 16584,
+      "sha256": "8d3e99916b929325312c976ba3d0197469e73c698c69edd06a85f116ea916b2a",
+      "literal_url": "exact-ui.js"
+    },
+    {
+      "path": "hub/shared/glossary.json",
+      "scope": "registered English tooltips",
+      "exists": true,
+      "referrer": "gosh/index.html",
+      "line": 718,
+      "bytes": 12569,
+      "sha256": "16e134407092859538b7c1215b8f40ae5c6ce8c4bae49c4cf953cf7260a228ce"
+    },
+    {
+      "path": "hub/shared/vendor/jspdf.min.js",
+      "scope": "optional PDF export",
+      "exists": true,
+      "referrer": "hub/shared/plot-export.js",
+      "line": 7,
+      "bytes": 364463,
+      "sha256": "98ccf17aa10c20bb1301762618fcc9b6ab3a4e7f26b6071d64d0b41154df3875"
+    }
+  ],
+  "evidence_files": [
+    {
+      "path": "evidence/instructions/JOB.md",
+      "sha256": "5c906ad129d9df05bef133612ae5f43256b12095ed9aa9b2c85f946d88f40e53",
+      "bytes": 1345,
+      "provenance": "Supplied job file: JOB.md",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/instructions/JOB_RULES.md",
+      "sha256": "85c7c32f23782eacc2ea77e0f66a10e4836050f2729804e85954f2969e00655c",
+      "bytes": 1554,
+      "provenance": "Supplied job file: JOB_RULES.md",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/instructions/V5.md",
+      "sha256": "3df0b061fc660d1b02a02639bb759cf8f7507caf50b84ce6721fe74a4e9f9e40",
+      "bytes": 1347,
+      "provenance": "Supplied job file: V5.md",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/instructions/FREEZE_CRITERIA.md",
+      "sha256": "5fd9d4707c7074f578367c944bc7d3c1d80681882bf315d333588431c8f152fb",
+      "bytes": 2672,
+      "provenance": "Supplied job file: FREEZE_CRITERIA.md",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/instructions/MAHMOOD_DECISIONS.md",
+      "sha256": "6d400ca1963b4df8d3d6b0c1e10c9a28485e051f6f0f0beca07185451fc945a5",
+      "bytes": 3628,
+      "provenance": "Supplied job file: MAHMOOD_DECISIONS.md",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/instructions/COAUTHOR_LOAD.md",
+      "sha256": "5f75de98175f4f5461bb7aaf303bc7e20159d9cab9c4ba5dceebe98c4abdf829",
+      "bytes": 2921,
+      "provenance": "Supplied job file: COAUTHOR_LOAD.md",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/instructions/PIN.txt",
+      "sha256": "6f98fab84470405a9cfe986f163364782849dc25c28e96a8644e05d22c49af87",
+      "bytes": 5734,
+      "provenance": "Supplied job file: PIN.txt",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/instructions/R_ENV.txt",
+      "sha256": "28d91df43696c4378ec0b96d1463088f46a3d1d5e1358ed1edbda0e459e54b3d",
+      "bytes": 273,
+      "provenance": "Supplied job file: R_ENV.txt",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/history/v4_PREREG_P13_usecase.md",
+      "sha256": "e9afa78cb2c5798bcffa0b3efd1cb7de3a11bc741eb936be2a3cf2050bcef072",
+      "bytes": 17162,
+      "provenance": "Supplied v4 package: PREREG_P13_usecase.md",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/history/v4_V4_NOTES_P13.md",
+      "sha256": "736ad624c687bca8abacbf7826069439d967c9cac983fe5e4199ae761082bbe4",
+      "bytes": 10721,
+      "provenance": "Supplied v4 package: V4_NOTES_P13.md",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/history/v4_ANALYSIS_CONTRACT_P13.md",
+      "sha256": "96ef9c4cecef15844e4e44a53bd9800d7d6f2149625090f05d4e11eb28d0c627",
+      "bytes": 9109,
+      "provenance": "Supplied v4 supporting file: ANALYSIS_CONTRACT_P13.md",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/history/v4_VERIFICATION_P13.md",
+      "sha256": "a4f03647707f78bb969c7eb9291f78babe7891224804d2170756287329663620",
+      "bytes": 4261,
+      "provenance": "Supplied v4 supporting file: VERIFICATION_P13.md",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/history/v3_SOURCE_CHECK_P13.md",
+      "sha256": "74b996fe4aba0d3c62f7d3b33e2ec5ad1de3bb6be19b29ca4010a096160e9b02",
+      "bytes": 12111,
+      "provenance": "Historical source screen; model conclusions superseded",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/novelty/NOVELTY_pc2_2026-10-28.json",
+      "sha256": "54c69ad0ec27c6f16aec5e880266650c04bf62c2ca107276a474db97f94324d7",
+      "bytes": 14793,
+      "provenance": "Supplied full novelty log: NOVELTY_pc2_2026-10-28.json",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/novelty/NOVELTY_openalex_2026-10-28.json",
+      "sha256": "05c3de75c25a627907fda403c1a671d4a363bcabec57b4ef58d375784e8140e2",
+      "bytes": 11823,
+      "provenance": "Supplied full novelty log: NOVELTY_openalex_2026-10-28.json",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/FETCH_LOG.json",
+      "sha256": "b6b7fe64de2f2020a8164f01e1a376dd366416ab8bea9818c7e60d759b355c9a",
+      "bytes": 18718,
+      "provenance": "Supplied full retrieval log",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/primary/fulltext.xml",
+      "sha256": "016a6203ac921b581d03756b52b6781a9ba529a37fe9c6465c9373bf83de47e9",
+      "bytes": 102041,
+      "provenance": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13070644/fullTextXML",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/primary/rkag034.pdf",
+      "sha256": "711c0a484809bddb1c18e6085043184620063fbaed18957cc91b55f11a9e2649",
+      "bytes": 1109253,
+      "provenance": "https://eprints.whiterose.ac.uk/id/eprint/238347/19/rkag034.pdf",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/primary/supplementary.zip",
+      "sha256": "065c2cd1a601169a5431d94e341acbafed14739e310f5c54ac6a2e6294f9b87e",
+      "bytes": 1256961,
+      "provenance": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13070644/supplementaryFiles",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/primary/Supplementary_Materials_ACCEPTED.pdf",
+      "sha256": "e7dffabc44fa56fbbc723b74b08f3059516b39528d6c9d4d5c83bf0b60b2d556",
+      "bytes": 928289,
+      "provenance": "https://eprints.whiterose.ac.uk/id/eprint/238347/6/Supplementary%20Materials%20ACCEPTED.pdf",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/primary/supp/rkag034f1.jpg",
+      "sha256": "3724a4fe9bdf96cbc5ba2616ff8aaa601b83ac1117df65736156c691504d17da",
+      "bytes": 69683,
+      "provenance": "Supplied primary supplementary asset: supp/rkag034f1.jpg",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/primary/supp/rkag034_supplementary_data.zip",
+      "sha256": "9811f3edd61679300351423099119deeb88b165419c9813f50a12d6d66f2306d",
+      "bytes": 1078009,
+      "provenance": "Supplied primary supplementary asset: supp/rkag034_supplementary_data.zip",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/fallback/fulltext.xml",
+      "sha256": "876ed0efe1ab71eb4d879da5a32fd10b32640fa9862a52b3bfe30fdb74f28ece",
+      "bytes": 94478,
+      "provenance": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10597538/fullTextXML",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/fallback/supplementary.zip",
+      "sha256": "a4ea981419de234bf7d4c017b37fc7b32765e219223b7748965a76e30b626c07",
+      "bytes": 348979,
+      "provenance": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10597538/supplementaryFiles",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/fallback/supp/rkad084f2.jpg",
+      "sha256": "ff72a80e28fb97e017f41f2b1ec998a1a030406937742c3c688463a7ae72bcd3",
+      "bytes": 143230,
+      "provenance": "Supplied fallback supplementary asset: supp/rkad084f2.jpg",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/fallback/supp/rkad084_supplementary_data.docx",
+      "sha256": "ad7a19ab09bd228c2080473c95e28c12ee035ce243ffa5564ad43fa2ad8aacc0",
+      "bytes": 145294,
+      "provenance": "Supplied fallback supplementary asset: supp/rkad084_supplementary_data.docx",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/gosh/index.html",
+      "sha256": "6e4ca4f3002d9c2c11bd34db91dea3ff71662a0a286090008e806833e9ef73a3",
+      "bytes": 43155,
+      "provenance": "Declared allmeta snapshot; app-relative: gosh/index.html",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/shared/forced-colors.css",
+      "sha256": "a967581cb9dfe03bcd6158264353dd8c3fff386d2919143587aa507a24e0c39c",
+      "bytes": 2440,
+      "provenance": "Declared allmeta snapshot; app-relative: shared/forced-colors.css",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/hub/app-style.css",
+      "sha256": "475254903d40eebe241574975f1ddff13808c8ad478c17137fda449a3952361f",
+      "bytes": 16443,
+      "provenance": "Declared allmeta snapshot; app-relative: hub/app-style.css",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/hub/shared/csv-upload.js",
+      "sha256": "6ce4702db911d2c193da4b775a10f8b748d4901ddcc98f0830bab7bd48db5384",
+      "bytes": 10490,
+      "provenance": "Declared allmeta snapshot; app-relative: hub/shared/csv-upload.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/hub/shared/plot-export.js",
+      "sha256": "7533db659c89b328f20252fc2deaa1272d8473d00052d7b91a9732c24ee382cc",
+      "bytes": 17798,
+      "provenance": "Declared allmeta snapshot; app-relative: hub/shared/plot-export.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/hub/shared/axis-controls.js",
+      "sha256": "1620bdc94620df10a41abe91c388de6a91f03367dd3719cb77ce2776ab553806",
+      "bytes": 3425,
+      "provenance": "Declared allmeta snapshot; app-relative: hub/shared/axis-controls.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/hub/shared/results-export.js",
+      "sha256": "16ffa76bc74275565214c2e142d7f0d0847a5a8eded2614efb04aa172acd71f4",
+      "bytes": 7910,
+      "provenance": "Declared allmeta snapshot; app-relative: hub/shared/results-export.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/hub/shared/url-state.js",
+      "sha256": "a704241f6c1faffaf33544d3c2059cc3d7d196c0dab39d91a3e006e315de1aa1",
+      "bytes": 1584,
+      "provenance": "Declared allmeta snapshot; app-relative: hub/shared/url-state.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/hub/shared/reset-undo.js",
+      "sha256": "0ef224c3e8a53dca6364cdbdfa8a0f24dc5e0e8805180651781106e0a2af1ee8",
+      "bytes": 3375,
+      "provenance": "Declared allmeta snapshot; app-relative: hub/shared/reset-undo.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/hub/shared/tooltips.js",
+      "sha256": "cd9fd2d82a5d5402915737de9aaef7caa0f506ca0550e0f18f078c67b3078393",
+      "bytes": 8162,
+      "provenance": "Declared allmeta snapshot; app-relative: hub/shared/tooltips.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/shared/build-info.js",
+      "sha256": "44c8a7d1e2cdad4d4b1c4806cffdd4f9817dc39161cd0de5374761a71bd19177",
+      "bytes": 1306,
+      "provenance": "Declared allmeta snapshot; app-relative: shared/build-info.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/shared/ma-studies-v1.js",
+      "sha256": "0710fcb7284e1c837810e4d388d5538836d55483d6b014c6e7f864c44bf26bf6",
+      "bytes": 26838,
+      "provenance": "Declared allmeta snapshot; app-relative: shared/ma-studies-v1.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/shared/truthcert-export.js",
+      "sha256": "d1cc2ff8584d2915bb0414e78e03ab22eccb68e4867a34193fe30ecfe6fdfefc",
+      "bytes": 9811,
+      "provenance": "Declared allmeta snapshot; app-relative: shared/truthcert-export.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/shared/truthcert-ui.js",
+      "sha256": "4326f44530fd523e183a24c5b8bf993b9594d10250ab24a3debc13f4bf251468",
+      "bytes": 9438,
+      "provenance": "Declared allmeta snapshot; app-relative: shared/truthcert-ui.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/shared/app-flow.js",
+      "sha256": "2b8e366dbdbf5aebffc70f0b25b1ac7a49d65cc4ecfd7c0807113b3b5556162e",
+      "bytes": 16214,
+      "provenance": "Declared allmeta snapshot; app-relative: shared/app-flow.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/shared/canonical-datasets.js",
+      "sha256": "32f5b35faff14429602f95a72d79ddc8b6864098e94c652a81cd537579770aca",
+      "bytes": 14757,
+      "provenance": "Declared allmeta snapshot; app-relative: shared/canonical-datasets.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/shared/hero-examples.js",
+      "sha256": "7b091e4f08184b069b9c649a2cf04f19f440c37bd2de86d49d453f16791307f3",
+      "bytes": 5430,
+      "provenance": "Declared allmeta snapshot; app-relative: shared/hero-examples.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/shared/citation.js",
+      "sha256": "0160370671813e2995ff37f68d9b7e7b650f613012fb4208f31e52637cdd3961",
+      "bytes": 21281,
+      "provenance": "Declared allmeta snapshot; app-relative: shared/citation.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/shared/autosave.js",
+      "sha256": "18bcc6c10f6177482b2f8453bede3f92887d7e6729413862cc903891405d23e8",
+      "bytes": 9440,
+      "provenance": "Declared allmeta snapshot; app-relative: shared/autosave.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/hub/shared/analysis-lifecycle.js",
+      "sha256": "bdae7a0d966e9093b4234e697a8474e3e1757cde804f5893a880a0f9b2b4d9f7",
+      "bytes": 1686,
+      "provenance": "Declared allmeta snapshot; app-relative: hub/shared/analysis-lifecycle.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/hub/shared/a11y-landmarks.js",
+      "sha256": "a9b35c71c500b0fe4e5a080f23c9dbb11c5462663a0d44e4557f782149e5f8ea",
+      "bytes": 1954,
+      "provenance": "Declared allmeta snapshot; app-relative: hub/shared/a11y-landmarks.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/shared/alm-validate.js",
+      "sha256": "b451c1377164842466aa0d7ad4cb6dd7a1340456a61e891a01646b4375c4ed87",
+      "bytes": 17721,
+      "provenance": "Declared allmeta snapshot; app-relative: shared/alm-validate.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/gosh/validate/adapter.js",
+      "sha256": "1c165b1ce744c6917312c30fec871f38b01a2019dac9e7696bb74349919ef20e",
+      "bytes": 31105,
+      "provenance": "Declared allmeta snapshot; app-relative: gosh/validate/adapter.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/gosh/plus.js",
+      "sha256": "5ceb7aea4c44b82c7015f3d5025d684e1299114d67c3d80cbacaf5582234f4f8",
+      "bytes": 10215,
+      "provenance": "Declared allmeta snapshot; app-relative: gosh/plus.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/gosh/validate/manifest-plus.js",
+      "sha256": "cb5c6d2098b2072c0e460abe9754023579a187d9877aaa6c36c50e2ae4c2c642",
+      "bytes": 1362,
+      "provenance": "Declared allmeta snapshot; app-relative: gosh/validate/manifest-plus.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/gosh/validate/adapter-plus.js",
+      "sha256": "caa17f1a1bb3ac611bf4465b9dd9ed272187f4c3e9d35e45ea1fca086e344902",
+      "bytes": 27717,
+      "provenance": "Declared allmeta snapshot; app-relative: gosh/validate/adapter-plus.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/gosh/exact-enum.js",
+      "sha256": "9d89f7c0a5aa3be070e4c10fb5e52d15710975db82ef19bcecabb9508a63527b",
+      "bytes": 18325,
+      "provenance": "Declared allmeta snapshot; app-relative: gosh/exact-enum.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/gosh/validate/exact/compare.js",
+      "sha256": "c9a48ced49f907a5a9e9495a7cf871f3845f51aa3cac1d2910db00c1947d6e6f",
+      "bytes": 4547,
+      "provenance": "Declared allmeta snapshot; app-relative: gosh/validate/exact/compare.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/gosh/exact-ui.js",
+      "sha256": "8d3e99916b929325312c976ba3d0197469e73c698c69edd06a85f116ea916b2a",
+      "bytes": 16584,
+      "provenance": "Declared allmeta snapshot; app-relative: gosh/exact-ui.js",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/hub/shared/glossary.json",
+      "sha256": "16e134407092859538b7c1215b8f40ae5c6ce8c4bae49c4cf953cf7260a228ce",
+      "bytes": 12569,
+      "provenance": "Declared allmeta snapshot; app-relative: hub/shared/glossary.json",
+      "exact_byte_copy": true
+    },
+    {
+      "path": "evidence/app/hub/shared/vendor/jspdf.min.js",
+      "sha256": "98ccf17aa10c20bb1301762618fcc9b6ab3a4e7f26b6071d64d0b41154df3875",
+      "bytes": 364463,
+      "provenance": "Declared allmeta snapshot; app-relative: hub/shared/vendor/jspdf.min.js",
+      "exact_byte_copy": true
+    }
+  ],
+  "novelty_P13_metadata": {
+    "NOVELTY_pc2_2026-10-28.json": {
+      "source_sha256": "54c69ad0ec27c6f16aec5e880266650c04bf62c2ca107276a474db97f94324d7",
+      "P13_records": [
+        {
+          "paper": "P13",
+          "role": "primary",
+          "doi": "10.1093/rap/rkag034",
+          "date": "2026-10-28",
+          "src": "MED",
+          "id": "41978692",
+          "pmid": "41978692",
+          "title": "The prevalence of dysautonomia in chronic musculoskeletal pain: a systematic review and meta-analysis.",
+          "cited_by": 0,
+          "citations_retrieved": 0,
+          "citations_hitcount": 0,
+          "flagged_citing_titles": [],
+          "pubmed_query": "(GOSH OR combinatorial OR heterogeneity OR reanalysis OR re-analysis) AND (\"The prevalence of dysautonomia in chronic musculoskeletal pa\")",
+          "pubmed_count": 1,
+          "pubmed_ids": [
+            "33046102"
+          ]
+        },
+        {
+          "paper": "P13",
+          "role": "fallback",
+          "doi": "10.1093/rap/rkad084",
+          "date": "2026-10-28",
+          "src": "MED",
+          "id": "37881507",
+          "pmid": "37881507",
+          "title": "Prevalence and factors associated with fatigue in patients with axial spondyloarthritis: a systematic review and meta-analysis.",
+          "cited_by": 14,
+          "citations_retrieved": 15,
+          "citations_hitcount": 15,
+          "flagged_citing_titles": [],
+          "pubmed_query": "(GOSH OR combinatorial OR heterogeneity OR reanalysis OR re-analysis) AND (\"Prevalence and factors associated with fatigue in patients w\")",
+          "pubmed_count": 2,
+          "pubmed_ids": [
+            "41571420",
+            "33266287"
+          ]
+        }
+      ]
+    },
+    "NOVELTY_openalex_2026-10-28.json": {
+      "source_sha256": "05c3de75c25a627907fda403c1a671d4a363bcabec57b4ef58d375784e8140e2",
+      "P13_records": [
+        {
+          "paper": "P13",
+          "role": "primary",
+          "doi": "10.1093/rap/rkag034",
+          "openalex": "https://openalex.org/W7138950171",
+          "cited_by_count": 1,
+          "retrieved": 1,
+          "complete": true,
+          "error": null,
+          "flagged": []
+        },
+        {
+          "paper": "P13",
+          "role": "fallback",
+          "doi": "10.1093/rap/rkad084",
+          "openalex": "https://openalex.org/W4387524331",
+          "cited_by_count": 18,
+          "retrieved": 18,
+          "complete": true,
+          "error": null,
+          "flagged": []
+        }
+      ]
+    }
+  },
+  "limits": [
+    "No study-level extraction or analysis",
+    "No R/browser runtime validation",
+    "Historical exact copies can contain obsolete paths/conclusions; active v5 documents control",
+    "No independent novelty record-level rereview; request URLs/full screening lists unavailable",
+    "Optional replay corpora/webR are outside this route and were not run"
+  ]
+}

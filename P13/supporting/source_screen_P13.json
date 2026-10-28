@@ -1,0 +1,156 @@
+{
+  "stage": "pre-release screening; no study rows transcribed",
+  "method": "Keyword search, Methods/caption scope and supplementary structure; not a statistical analysis",
+  "files": [
+    {
+      "path": "evidence/primary/fulltext.xml",
+      "keyword_counts": {
+        "freeman": 3,
+        "tukey": 2,
+        "transform": 2,
+        "arcsin": 0,
+        "logit": 0,
+        "logarithm": 0,
+        "probit": 0,
+        "metafor": 0,
+        "metaprop": 0,
+        "RStudio": 0,
+        "Stata": 0,
+        "RevMan": 0,
+        "SPSS": 0,
+        "software": 0,
+        "package": 0
+      }
+    },
+    {
+      "path": "evidence/fallback/fulltext.xml",
+      "keyword_counts": {
+        "freeman": 0,
+        "tukey": 0,
+        "transform": 0,
+        "arcsin": 0,
+        "logit": 0,
+        "logarithm": 0,
+        "probit": 0,
+        "metafor": 0,
+        "metaprop": 0,
+        "RStudio": 1,
+        "Stata": 0,
+        "RevMan": 0,
+        "SPSS": 0,
+        "software": 1,
+        "package": 0
+      }
+    },
+    {
+      "path": "evidence/fallback/supp/rkad084_supplementary_data.docx",
+      "keyword_counts": {
+        "freeman": 0,
+        "tukey": 0,
+        "transform": 0,
+        "arcsin": 0,
+        "logit": 0,
+        "logarithm": 0,
+        "probit": 0,
+        "metafor": 0,
+        "metaprop": 0,
+        "RStudio": 0,
+        "Stata": 0,
+        "RevMan": 0,
+        "SPSS": 0,
+        "software": 0,
+        "package": 0
+      },
+      "drawing_elements": 0,
+      "embedded_media_count": 0
+    },
+    {
+      "path": "evidence/primary/supp/rkag034_supplementary_data.zip::RHEUMAP-2025-196.R2._ Supplementary Materials.docx",
+      "keyword_counts": {
+        "freeman": 0,
+        "tukey": 0,
+        "transform": 0,
+        "arcsin": 0,
+        "logit": 0,
+        "logarithm": 0,
+        "probit": 0,
+        "metafor": 0,
+        "metaprop": 0,
+        "RStudio": 0,
+        "Stata": 0,
+        "RevMan": 0,
+        "SPSS": 0,
+        "software": 0,
+        "package": 0
+      },
+      "drawing_elements": 72,
+      "embedded_media_count": 18
+    },
+    {
+      "path": "evidence/primary/supp/rkag034_supplementary_data.zip::prevalence of dysautonomia  PRISMA CHECKLIST .docx",
+      "keyword_counts": {
+        "freeman": 0,
+        "tukey": 0,
+        "transform": 0,
+        "arcsin": 0,
+        "logit": 0,
+        "logarithm": 0,
+        "probit": 0,
+        "metafor": 0,
+        "metaprop": 0,
+        "RStudio": 0,
+        "Stata": 0,
+        "RevMan": 0,
+        "SPSS": 0,
+        "software": 1,
+        "package": 1
+      },
+      "drawing_elements": 0,
+      "embedded_media_count": 1
+    },
+    {
+      "path": "evidence/primary/rkag034.pdf",
+      "keyword_counts": {
+        "freeman": 3,
+        "tukey": 2,
+        "transform": 2,
+        "arcsin": 0,
+        "logit": 0,
+        "logarithm": 0,
+        "probit": 0,
+        "metafor": 0,
+        "metaprop": 0,
+        "RStudio": 0,
+        "Stata": 0,
+        "RevMan": 0,
+        "SPSS": 0,
+        "software": 0,
+        "package": 0
+      },
+      "pages": 10
+    },
+    {
+      "path": "evidence/primary/Supplementary_Materials_ACCEPTED.pdf",
+      "keyword_counts": {
+        "freeman": 0,
+        "tukey": 0,
+        "transform": 0,
+        "arcsin": 0,
+        "logit": 0,
+        "logarithm": 0,
+        "probit": 0,
+        "metafor": 0,
+        "metaprop": 0,
+        "RStudio": 0,
+        "Stata": 0,
+        "RevMan": 0,
+        "SPSS": 0,
+        "software": 0,
+        "package": 0
+      },
+      "pages": 28
+    }
+  ],
+  "Tang_transformation_not_stated": true,
+  "no_study_fields_emitted": true
+}
