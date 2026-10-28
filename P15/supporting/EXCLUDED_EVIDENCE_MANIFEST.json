@@ -1,0 +1,137 @@
+{
+ "note": "Files cited by the preregistration but not republished. Each is bound by sha256; byte-identical copies are kept in the project archive.",
+ "files": [
+  {
+   "path": "supporting/evidence/app/hub/app-style.css",
+   "sha256": "475254903d40eebe241574975f1ddff13808c8ad478c17137fda449a3952361f",
+   "bytes": 16443,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/hub/shared/a11y-landmarks.js",
+   "sha256": "a9b35c71c500b0fe4e5a080f23c9dbb11c5462663a0d44e4557f782149e5f8ea",
+   "bytes": 1954,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/rve-meta/index.html",
+   "sha256": "88d1494a0128ef5bd18e33e6b35ac0d13ae516044efd99354034ec1e953632eb",
+   "bytes": 38624,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/rve-meta/README.md",
+   "sha256": "6e8b4f38994b8a061206661481adb44ded93179c18f907085a3331af0bf95fd7",
+   "bytes": 2035,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/shared/app-flow.js",
+   "sha256": "2b8e366dbdbf5aebffc70f0b25b1ac7a49d65cc4ecfd7c0807113b3b5556162e",
+   "bytes": 16214,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/shared/autosave.js",
+   "sha256": "18bcc6c10f6177482b2f8453bede3f92887d7e6729413862cc903891405d23e8",
+   "bytes": 9440,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/shared/build-info.js",
+   "sha256": "44c8a7d1e2cdad4d4b1c4806cffdd4f9817dc39161cd0de5374761a71bd19177",
+   "bytes": 1306,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/shared/forced-colors.css",
+   "sha256": "a967581cb9dfe03bcd6158264353dd8c3fff386d2919143587aa507a24e0c39c",
+   "bytes": 2440,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/shared/rve-eigen.js",
+   "sha256": "a2a687c5127f6b5989d3b37e39fe4ae92849195dc6e1cbfe7befdd17352e239a",
+   "bytes": 2607038,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/shared/rve-extras.js",
+   "sha256": "a66b55741c7c538aa69d45ef003ee452f52835db7d8d7ef7f1f639169f06041b",
+   "bytes": 28191,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/shared/rve.js",
+   "sha256": "75f9b201c6fd7f245a91e1712499044d519ab3dcb49bb7d49cef311d1ea6af0e",
+   "bytes": 31223,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/app/shared/stats-qt.js",
+   "sha256": "fb4110ba8e4b2e784193fde258ac37086713dc8d75a3295f84272d6fbdba8efb",
+   "bytes": 9154,
+   "reason": "pinned app file (bound by app pin + hash)"
+  },
+  {
+   "path": "supporting/evidence/fallback/fulltext.xml",
+   "sha256": "f562473fbd900dc25fb62af396e38daabe689b28f197d9aac6a1a3d43200d158",
+   "bytes": 141663,
+   "reason": "third-party source file (bound by hash; not republished)"
+  },
+  {
+   "path": "supporting/evidence/fallback/pone.0216566.s001.docx",
+   "sha256": "77de8c2b47ba6aaf1eadb01769e98957423f766e68c49a5ac8b9d4acf725681f",
+   "bytes": 22035,
+   "reason": "third-party source file (bound by hash; not republished)"
+  },
+  {
+   "path": "supporting/evidence/fallback/pone.0216566.s002.docx",
+   "sha256": "ae060378e0bea8d23d1b3aa3a836e96d70b28a1012df8aa2294f004f33bc84fc",
+   "bytes": 35571,
+   "reason": "third-party source file (bound by hash; not republished)"
+  },
+  {
+   "path": "supporting/evidence/fallback/pone.0216566.s003.docx",
+   "sha256": "bb13af125ebff322d6d76216e2a3efdaaa2fc609417052df66542a375fb86112",
+   "bytes": 16263,
+   "reason": "third-party source file (bound by hash; not republished)"
+  },
+  {
+   "path": "supporting/evidence/fallback/pone.0216566.s004.docx",
+   "sha256": "446943c616263527b6eda7232e1b92435d396c5f07d058e1e6844a30d8147db9",
+   "bytes": 22526,
+   "reason": "third-party source file (bound by hash; not republished)"
+  },
+  {
+   "path": "supporting/evidence/primary/fulltext.xml",
+   "sha256": "7ce167c0c69eeb1b27d7f429fed40b96fdd6cff2d53a37da28593fc3db6aa341",
+   "bytes": 162536,
+   "reason": "third-party source file (bound by hash; not republished)"
+  },
+  {
+   "path": "supporting/evidence/primary/pone.0166941.e005.jpg",
+   "sha256": "ab6746b845b0dfe18016d8a170d1ee8120ab1a517a223c5830b01789ec6a1d16",
+   "bytes": 26020,
+   "reason": "third-party source file (bound by hash; not republished)"
+  },
+  {
+   "path": "supporting/evidence/primary/pone.0166941.s001.docx",
+   "sha256": "a5df59020e7a67a8ace031f51d97752fb7e6c159a9093798220bc73c46415d4e",
+   "bytes": 507521,
+   "reason": "third-party source file (bound by hash; not republished)"
+  },
+  {
+   "path": "supporting/evidence/primary/pone.0166941.s003.docx",
+   "sha256": "b7840bb8e10dc4f8a0c5520a636744fb2b7a434cb867bfdbde892bcb9b2afddb",
+   "bytes": 77639,
+   "reason": "third-party source file (bound by hash; not republished)"
+  },
+  {
+   "path": "supporting/evidence/primary/pone.0166941.s007.docx",
+   "sha256": "8e28b33ee764f9ae889d26da918ce6cdb2e0e9eb8b56fd4e9435f8a762aa8f87",
+   "bytes": 35565,
+   "reason": "third-party source file (bound by hash; not republished)"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+allmeta commit 14dc545bcba87a02158b2f445c28450e7eaf6b89 (origin/main, 2026-10-26)
+app folder: rve-meta/
+file sha256:
+  rve-meta/README.md  6e8b4f38994b8a061206661481adb44ded93179c18f907085a3331af0bf95fd7
+  rve-meta/index.html  88d1494a0128ef5bd18e33e6b35ac0d13ae516044efd99354034ec1e953632eb
+  rve-meta/tests/p15-browser.node.cjs  6d3c580e3d9d84db83c0169fc9db6bf3e5245ddc0eeefc4c3645725284088832
+  rve-meta/tests/p15-eigen-kernel.node.cjs  f11ad38c88de9b847064fb2834bfe0ee76b1f301811ead422b6c78b3b13fbadb
+  rve-meta/tests/p15-eigen.node.cjs  eb2f524ddeac64dc70e3909bd1d3d4ccb16631a7903d89f9a2dbde95ea9fa09c
+  rve-meta/tests/r-reductions.node.cjs  0df5fe9be4221abad4405a58be4781b3941a3f81000dbd1d6d9fca888c9d8be4
+  rve-meta/tests/fixtures/p15/as-character.R  8b06229ba14dd4a7966a33130e102c6b7e78efd7a37df6997655082bf29387e8
+  rve-meta/tests/fixtures/p15/as-character.json  e2c7dcf385fa738c9b7606a13b83e6e4c80671a8e5e3e3144fb19cad973bedd4
+  rve-meta/tests/fixtures/p15/mean.json  cf64848dd0a7f4badae4a10a316089e61f170afa0b5b158dd81f76ddb6638486
+  rve-meta/tests/fixtures/p15/numeric-ids.R  a1f361788353ff5b4235232a87d1ab28f71d5d3e3d955d21e2fe71c9531bab7f
+  rve-meta/tests/fixtures/p15/numeric-ids.json  cff1f839b098fb938091330bdc4908a4836e267ec5430cb2bc92581a67b4bc84
+  rve-meta/tests/fixtures/p15/order.json  adbedf81634ac352cda3186663e921819dd3c31035c072c83ab8a07630adfc30
+  rve-meta/tests/fixtures/p15/read-csv-logical.R  1ddd788587c8109196ca865b68d0884cbfedddbba6681c05fdebf45f96ce6962
+  rve-meta/tests/fixtures/p15/read-csv-logical.json  fb1bd187e177838b8e2ef15f82a539d7c93c40c5e4767c726e238c83a460f030
+  rve-meta/tests/fixtures/p15/reduction-controls.json  bcd54b35f20caa242e5003a42ec0a4b1b09b59ea59acddd691c1016cdecf3593
+  rve-meta/tests/fixtures/p15/sumw.json  36edf4f86af83afc6c93a43afdd5112da01cd4fba896bd718902b8c1fd368b7e
+  rve-meta/tests/fixtures/p15-eigen/adjustments.json  231d6499fffdae577e6065c7e9cd819f921b73bf8e237f7999bb4cd435c02fbf
+  rve-meta/tests/fixtures/p15-eigen/complex-leverage.json  5628b7436ca840500627b6400241143ebed63f3643081fc12f352c7cd721e048
+  rve-meta/tests/fixtures/p15-eigen/complex.json  76f38365c4480ab455c0e132cc170a036ee72e4f3bd125d8a2c0188176d7f99a
+  rve-meta/tests/fixtures/p15-eigen/eigen.json  48cb5437334fd13a8bcf5feb31e0f6e51d12454278b45632ed747f80eb67d3a2
+  rve-meta/tests/fixtures/p15-eigen/minimal-complex.json  0fb87a23ce092ea28d9c3a8edf9f717fb383898c190f22222e98e7b1d8558d4c
+  rve-meta/tests/fixtures/p15-eigen/symmetry-boundaries.json  0483d320e1bdfa7f3a97684758140605c842e73ef80ab8ce8644efccb05da2d7
+manuscript source: submission_2026-10-23\P15\P15_manuscript.docx sha256 f1c2f0ac4a2dd65d139629081f75bb435d3e5565e63688636235f1ce03ec9ce9

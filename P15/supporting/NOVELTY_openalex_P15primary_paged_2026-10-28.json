@@ -1,0 +1,2410 @@
+{
+ "doi": "10.1371/journal.pone.0166941",
+ "openalex": "https://openalex.org/W2556258011",
+ "cited_by_count": 343,
+ "retrieved_unique": 343,
+ "method": "page-based, per-page 100",
+ "records": [
+  {
+   "id": "https://openalex.org/W3035532372",
+   "doi": "https://doi.org/10.1111/ele.13535",
+   "title": "Designing optimal human‐modified landscapes for forest biodiversity conservation",
+   "publication_year": 2020,
+   "type": "review"
+  },
+  {
+   "id": "https://openalex.org/W3011346506",
+   "doi": "https://doi.org/10.1016/j.biocon.2020.108500",
+   "title": "The challenges and opportunities of coexisting with wild ungulates in the human-dominated landscapes of Europe's Anthropocene",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2999192464",
+   "doi": "https://doi.org/10.1007/s10344-019-1357-4",
+   "title": "The value of monitoring wildlife roadkill",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2787827255",
+   "doi": "https://doi.org/10.1186/s13750-018-0117-3",
+   "title": "Can linear transportation infrastructure verges constitute a habitat and/or a corridor for insects in temperate landscapes? A systematic review",
+   "publication_year": 2018,
+   "type": "review"
+  },
+  {
+   "id": "https://openalex.org/W2742710148",
+   "doi": "https://doi.org/10.1093/conphys/cox043",
+   "title": "How experimental biology and ecology can support evidence-based decision-making in conservation: avoiding pitfalls and enabling application",
+   "publication_year": 2017,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2595203266",
+   "doi": "https://doi.org/10.1071/wr16108",
+   "title": "Spatial patterns of road mortality of medium–large mammals in Mato Grosso do Sul, Brazil",
+   "publication_year": 2017,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2937343577",
+   "doi": "https://doi.org/10.1371/journal.pone.0215152",
+   "title": "Pay or prevent? Human safety, costs to society and legal perspectives on animal-vehicle collisions in São Paulo state, Brazil",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2945446220",
+   "doi": "https://doi.org/10.3390/d11050081",
+   "title": "A Review of the Impacts of Roads on Wildlife in Semi-Arid Regions",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3112230964",
+   "doi": "https://doi.org/10.1016/j.biocon.2020.108902",
+   "title": "Preventing wildlife roadkill can offset mitigation investments in short-medium term",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4391314887",
+   "doi": "https://doi.org/10.1111/1365-2664.14582",
+   "title": "Do wildlife crossing structures mitigate the barrier effect of roads on animal movement? A global assessment",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2744887216",
+   "doi": "https://doi.org/10.1016/j.biocon.2017.07.023",
+   "title": "Regional connectivity for recolonizing American black bears (Ursus americanus) in southcentral USA",
+   "publication_year": 2017,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2907376020",
+   "doi": "https://doi.org/10.1007/s10344-018-1248-0",
+   "title": "Railway ecology vs. road ecology: similarities and differences",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3121800576",
+   "doi": "https://doi.org/10.1016/j.heliyon.2021.e06015",
+   "title": "An estimate of wild mammal roadkill in São Paulo state, Brazil",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2963789994",
+   "doi": "https://doi.org/10.1002/jwmg.21692",
+   "title": "Roadkill distribution at the wildland‐urban interface",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3034707201",
+   "doi": "https://doi.org/10.1007/s10980-020-01047-z",
+   "title": "Ecological impact and cost-effectiveness of wildlife crossings in a highly fragmented landscape: a multi-method approach",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3047269280",
+   "doi": "https://doi.org/10.1186/s40462-020-00219-5",
+   "title": "No room to roam: King Cobras reduce movement in agriculture",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2749126162",
+   "doi": "https://doi.org/10.1007/s10344-017-1130-5",
+   "title": "Do roe deer react to wildlife warning reflectors? A test combining a controlled experiment with field observations",
+   "publication_year": 2017,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2794328165",
+   "doi": "https://doi.org/10.1016/j.jnc.2018.02.011",
+   "title": "Road expansion: A challenge to conservation of mammals, with particular emphasis on the endangered Asiatic cheetah in Iran",
+   "publication_year": 2018,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3025525751",
+   "doi": "https://doi.org/10.1007/s11356-020-09098-0",
+   "title": "Road impact in a protected area with rich biodiversity: the case of the Sebitoli road in Kibale National Park, Uganda",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3139377353",
+   "doi": "https://doi.org/10.3390/ani11030799",
+   "title": "Spatio-Temporal Patterns and Consequences of Road Kills: A Review",
+   "publication_year": 2021,
+   "type": "review"
+  },
+  {
+   "id": "https://openalex.org/W4306157656",
+   "doi": "https://doi.org/10.3389/frsc.2022.954089",
+   "title": "Urban wildlife corridors: Building bridges for wildlife and people",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2934767974",
+   "doi": "https://doi.org/10.1016/j.trd.2019.03.008",
+   "title": "Calculating the costs of animal-vehicle accidents involving ungulate in Sweden",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4220975410",
+   "doi": "https://doi.org/10.3390/s22072478",
+   "title": "Intelligent Systems Using Sensors and/or Machine Learning to Mitigate Wildlife–Vehicle Collisions: A Review, Challenges, and New Perspectives",
+   "publication_year": 2022,
+   "type": "review"
+  },
+  {
+   "id": "https://openalex.org/W4312067527",
+   "doi": "https://doi.org/10.7717/peerj.14371",
+   "title": "Wildlife overpass structure size, distribution, effectiveness, and adherence to expert design recommendations",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4385664438",
+   "doi": "https://doi.org/10.1111/cobi.14159",
+   "title": "Wildlife mortality risk posed by high and low traffic roads",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4410481941",
+   "doi": "https://doi.org/10.3390/su17104644",
+   "title": "A Review of Wildlife–Vehicle Collisions: A Multidisciplinary Path to Sustainable Transportation and Wildlife Protection",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4310993172",
+   "doi": "https://doi.org/10.3389/fevo.2022.891595",
+   "title": "Behavioral responses to anthropogenic noise at highways vary across temporal scales",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4388850775",
+   "doi": "https://doi.org/10.1002/jwmg.22526",
+   "title": "Methods to mitigate human–wildlife conflicts involving common mesopredators: a meta‐analysis",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4410974620",
+   "doi": "https://doi.org/10.1016/j.eiar.2025.108021",
+   "title": "Population abundance should be an Essential Biodiversity Variable in infrastructure impact assessment",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2802898203",
+   "doi": "https://doi.org/10.1002/jwmg.21467",
+   "title": "Identification of local factors causing clustering of animal‐vehicle collisions",
+   "publication_year": 2018,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2913503489",
+   "doi": "https://doi.org/10.1016/j.biocon.2019.01.008",
+   "title": "Spatial risk assessment of eastern monarch butterfly road mortality during autumn migration within the southern corridor",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3013597748",
+   "doi": "https://doi.org/10.1111/cobi.13502",
+   "title": "An adaptive plan for prioritizing road sections for fencing to reduce animal mortality",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3001385516",
+   "doi": "https://doi.org/10.7717/peerj.8154",
+   "title": "Predicting hedgehog mortality risks on British roads using habitat suitability modelling",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2913727251",
+   "doi": "https://doi.org/10.1111/acv.12481",
+   "title": "Protecting the protected: reducing wildlife roadkill in protected areas",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2913698626",
+   "doi": "https://doi.org/10.1002/ecs2.2597",
+   "title": "Wildlife mortality on roads and railways following highway mitigation",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2912135339",
+   "doi": "https://doi.org/10.1016/j.jenvman.2018.10.093",
+   "title": "How do landscape context and fences influence roadkill locations of small and medium-sized mammals?",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3043914633",
+   "doi": "https://doi.org/10.1098/rsbl.2020.0140",
+   "title": "Inference in road ecology research: what we know versus what we think we know",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2801956574",
+   "doi": "https://doi.org/10.32800/abc.2018.41.0217",
+   "title": "Prediction of Iberian lynx road–mortality in southern Spain: a new approach using the MaxEnt algorithm",
+   "publication_year": 2018,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2974599198",
+   "doi": "https://doi.org/10.1371/journal.pone.0221947",
+   "title": "Trans-national conservation and infrastructure development in the Heart of Borneo",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3000197464",
+   "doi": "https://doi.org/10.1111/acv.12560",
+   "title": "High roadkill rates in the Dong Phayayen‐Khao Yai World Heritage Site: conservation implications of a rising threat to wildlife",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2979878448",
+   "doi": "https://doi.org/10.1016/j.jenvman.2019.109651",
+   "title": "Re-assessing the effectiveness of wire-marking to mitigate bird collisions with power lines: A meta-analysis and guidelines for field studies",
+   "publication_year": 2019,
+   "type": "review"
+  },
+  {
+   "id": "https://openalex.org/W2996903207",
+   "doi": "https://doi.org/10.3389/fevo.2019.00479",
+   "title": "Status of Road Ecology Research in Africa: Do We Understand the Impacts of Roads, and How to Successfully Mitigate Them?",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2795717975",
+   "doi": "https://doi.org/10.1590/1676-0611-bn-2017-0395",
+   "title": "Human-modified landscape acts as refuge for mammals in Atlantic Forest",
+   "publication_year": 2018,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3100297869",
+   "doi": "https://doi.org/10.1016/j.pecon.2020.10.006",
+   "title": "Use of unfenced highway underpasses by lowland tapirs and other medium and large mammals in central-western Brazil",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4308158473",
+   "doi": "https://doi.org/10.1016/j.cub.2022.10.007",
+   "title": "Permanent daylight saving time would reduce deer-vehicle collisions",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3150902385",
+   "doi": "https://doi.org/10.3390/ani11041032",
+   "title": "Panthera tigris jacksoni Population Crash and Impending Extinction due to Environmental Perturbation and Human-Wildlife Conflict",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4221003947",
+   "doi": "https://doi.org/10.3897/natureconservation.47.72970",
+   "title": "‘Animals under wheels’: Wildlife roadkill data collection by citizen scientists as a part of their nature recording activities",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2893615539",
+   "doi": "https://doi.org/10.7717/peerj.6650",
+   "title": "Using road patrol data to identify factors associated with carnivore roadkill counts",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2896145215",
+   "doi": "https://doi.org/10.1002/jwmg.21580",
+   "title": "Informing snake roadkill mitigation strategies in Taiwan using citizen science",
+   "publication_year": 2018,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3036707069",
+   "doi": "https://doi.org/10.1007/s10980-020-01057-x",
+   "title": "Evaluating methods for identifying large mammal road crossing locations: black bears as a case study",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3207077308",
+   "doi": "https://doi.org/10.1016/j.scitotenv.2021.151106",
+   "title": "Links in a sink: Interplay between habitat structure, ecological constraints and interactions with humans can influence connectivity conservation for tigers in forest corridors",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2762036102",
+   "doi": "https://doi.org/10.1016/j.jenvman.2017.09.081",
+   "title": "An evaluation of odor repellent effectiveness in prevention of wildlife-vehicle collisions",
+   "publication_year": 2017,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3037834247",
+   "doi": "https://doi.org/10.1111/ddi.13064",
+   "title": "Prioritizing road‐kill mitigation areas: A spatially explicit national‐scale model for an elusive carnivore",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3001122162",
+   "doi": "https://doi.org/10.1016/j.jenvman.2020.110168",
+   "title": "Mortality of the Atlantic ghost crab Ocypode quadrata (Fabricius, 1787) due to vehicle traffic on sandy beaches: A road ecology approach",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2569735419",
+   "doi": "https://doi.org/10.1007/s10980-017-0485-z",
+   "title": "The effect of roads on edge permeability and movement patterns for small mammals: a case study with Montane Akodont",
+   "publication_year": 2017,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2902289056",
+   "doi": "https://doi.org/10.1071/am18012",
+   "title": "Roadkill mitigation: trialing virtual fence devices on the west coast of Tasmania",
+   "publication_year": 2018,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2952422412",
+   "doi": "https://doi.org/10.1111/mam.12158",
+   "title": "Road kills of non‐human primates: a global view using a different type of data",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2966107474",
+   "doi": "https://doi.org/10.4257/oeco.2019.2303.15",
+   "title": "SPATIO-TEMPORAL PATTERNS OF MAMMAL ROAD MORTALITY IN MIDDLE MAGDALENA VALLEY, COLOMBIA",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3006220733",
+   "doi": "https://doi.org/10.1007/s00267-020-01263-y",
+   "title": "Are Roadkill Hotspots in the Cerrado Equal Among Groups of Vertebrates?",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3025682110",
+   "doi": "https://doi.org/10.1016/j.jenvman.2020.110423",
+   "title": "What attributes are relevant for drainage culverts to serve as efficient road crossing structures for mammals?",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2900192291",
+   "doi": "https://doi.org/10.1371/journal.pone.0206614",
+   "title": "Conservation implications for jaguars and other neotropical mammals using highway underpasses",
+   "publication_year": 2018,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3041515037",
+   "doi": "https://doi.org/10.1111/acv.12621",
+   "title": "Response of female black bears to a high‐density road network and identification of long‐term road mitigation sites",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3122912218",
+   "doi": "https://doi.org/10.1007/s00267-020-01411-4",
+   "title": "Potential Movement Corridors and High Road-Kill Likelihood do not Spatially Coincide for Felids in Brazil: Implications for Road Mitigation",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3152963019",
+   "doi": "https://doi.org/10.1016/j.gecco.2021.e01584",
+   "title": "The road less traveled: Addressing reproducibility and conservation priorities of wildlife-vehicle collision studies in tropical and subtropical regions",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3153775459",
+   "doi": "https://doi.org/10.1016/j.gecco.2021.e01582",
+   "title": "Cats, cars, and crossings: The consequences of road networks for the conservation of an endangered felid",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2969458680",
+   "doi": "https://doi.org/10.1111/1365-2664.13495",
+   "title": "Linking habitat composition, local population densities and traffic characteristics to spatial patterns of ungulate‐train collisions",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2914317188",
+   "doi": "https://doi.org/10.1643/ch-18-137",
+   "title": "A Unique Barrier Wall and Underpass to Reduce Road Mortality of Three Freshwater Turtle Species",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4212964292",
+   "doi": "https://doi.org/10.1111/1365-2664.14122",
+   "title": "From nature reserve to mosaic management: Improving matrix survival, not permeability, benefits regional populations under habitat loss and fragmentation",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3149522141",
+   "doi": "https://doi.org/10.1111/btp.12938",
+   "title": "Geography of roadkills within the Tropical Andes Biodiversity Hotspot: Poorly known vertebrates are part of the toll",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4210427802",
+   "doi": "https://doi.org/10.1016/j.landurbplan.2022.104371",
+   "title": "Coupling spatial modeling with expert opinion approaches to restore multispecies connectivity of major transportation infrastructure",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4312056088",
+   "doi": "https://doi.org/10.1016/j.eiar.2022.107010",
+   "title": "The road towards wildlife friendlier infrastructure: Mitigation planning through landscape-level priority settings and species connectivity frameworks",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4388989638",
+   "doi": "https://doi.org/10.1016/j.landurbplan.2023.104953",
+   "title": "Functional landscape connectivity for a select few: Linkages do not consistently predict wildlife movement or occupancy",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2981539975",
+   "doi": "https://doi.org/10.1186/s40317-019-0183-5",
+   "title": "Automatic detection of small PIT-tagged animals using wildlife crossings",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4285098273",
+   "doi": "https://doi.org/10.1016/j.pecon.2022.05.001",
+   "title": "Assessing the impact of roadkill on the persistence of wildlife populations: A case study on the giant anteater",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3081251712",
+   "doi": "https://doi.org/10.1016/j.jenvman.2020.111254",
+   "title": "The effect of wildlife carcass underreporting on KDE+ hotspots identification and importance",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3153949724",
+   "doi": "https://doi.org/10.1016/j.biocon.2021.109085",
+   "title": "Pairing long-term population monitoring and wildlife crossing structure interaction data to evaluate road mitigation effectiveness",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4313640627",
+   "doi": "https://doi.org/10.1007/s10980-022-01587-6",
+   "title": "Integrating remote sensing data on habitat suitability and functional connectivity to inform multitaxa roadkill mitigation plans",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3126529433",
+   "doi": "https://doi.org/10.1111/csp2.364",
+   "title": "Green bridges in a re‐colonizing landscape: Wolves ( Canis lupus ) in Brandenburg, Germany",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4205521169",
+   "doi": "https://doi.org/10.1111/csp2.618",
+   "title": "Reduced speed limit is ineffective for mitigating the effects of roads on ungulates",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4382930659",
+   "doi": "https://doi.org/10.53847/iucn.ch.2023.patrs.5.en",
+   "title": "Addressing ecological connectivity in the development of roads, railways and canals",
+   "publication_year": 2023,
+   "type": "book"
+  },
+  {
+   "id": "https://openalex.org/W4293276339",
+   "doi": "https://doi.org/10.1016/j.jenvman.2022.115903",
+   "title": "Forecasting seasonal peaks in roadkill patterns for improving road management",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4360852817",
+   "doi": "https://doi.org/10.3390/d15040478",
+   "title": "Spatiotemporal Patterns and Road Mortality Hotspots of Herpetofauna on a Mediterranean Island",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4221037811",
+   "doi": "https://doi.org/10.1007/s42991-022-00247-1",
+   "title": "Spatial patterns of carnivore roadkill in a high-traffic-volume highway in the endangered Brazilian Atlantic Forest",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4226066795",
+   "doi": "https://doi.org/10.1002/ece3.8691",
+   "title": "How do King Cobras move across a major highway? Unintentional wildlife crossing structures may facilitate movement",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4321150211",
+   "doi": "https://doi.org/10.1016/j.biocon.2023.109950",
+   "title": "Three decades of wildlife-vehicle collisions in a protected area: Main roads and long-distance commuting trips to migratory prey increase spotted hyena roadkills in the Serengeti",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4365505864",
+   "doi": "https://doi.org/10.1016/j.jenvman.2023.117917",
+   "title": "Better safe than sorry – Understanding the attitude and habits of drivers can help mitigating animal-vehicle collisions",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4377116035",
+   "doi": "https://doi.org/10.3390/ani13101692",
+   "title": "Road Infrastructure and Primate Conservation: Introducing the Global Primate Roadkill Database",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4382583909",
+   "doi": "https://doi.org/10.1016/j.trd.2023.103829",
+   "title": "Comparing the effectiveness of two roadkill survey methods on roads",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4306775937",
+   "doi": "https://doi.org/10.3389/fcosc.2022.935420",
+   "title": "A before-after-control-impact study of wildlife fencing along a highway in the Canadian Rocky Mountains",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4313824654",
+   "doi": "https://doi.org/10.7717/peerj.14553",
+   "title": "Assessing factors influencing students’ perceptions towards animal species conservation",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4392162370",
+   "doi": "https://doi.org/10.3390/ani14050708",
+   "title": "Spatiotemporal Patterns of Reptile and Amphibian Road Fatalities in a Natura 2000 Area: A 12-Year Monitoring of the Lake Karla Mediterranean Wetland",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4401863001",
+   "doi": "https://doi.org/10.1016/j.biocon.2024.110756",
+   "title": "Limited cougar recolonization of eastern North America predicted by an individual-based model",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4285412246",
+   "doi": "https://doi.org/10.1071/wr21149",
+   "title": "Road orientation affects the impact of roads on wildlife",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4283723602",
+   "doi": "https://doi.org/10.1016/j.trd.2022.103380",
+   "title": "Crossing structure use in a tiger landscape, and implications for multi-species mitigation",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4361208645",
+   "doi": "https://doi.org/10.3390/land12040758",
+   "title": "Identification of Urban and Wildlife Terrestrial Corridor Intersections for Planning of Wildlife-Vehicle Collision Mitigation Measures",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4399164843",
+   "doi": "https://doi.org/10.1016/j.jenvman.2024.121263",
+   "title": "Identifying wildlife road crossing mitigation sites using a multi-data approach - A case study from southwestern Costa Rica",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4394850712",
+   "doi": "https://doi.org/10.1002/2688-8319.12323",
+   "title": "What is the evidence that counter‐wildlife crime interventions are effective for conserving African, Asian and Latin American wildlife directly threatened by exploitation? A systematic map",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4390113783",
+   "doi": "https://doi.org/10.1111/aec.13465",
+   "title": "Koalas in space and time: Lessons from 20 years of vehicle‐strike trends and hot spots in South East Queensland",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4396615960",
+   "doi": "https://doi.org/10.1163/15685381-bja10178",
+   "title": "Reptiles in danger: Implications of road mortality in wetlands of South America",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4382777504",
+   "doi": "https://doi.org/10.1590/1676-0611-bn-2022-1454",
+   "title": "March or Die: road-killed herpetofauna along BR-040 highway, an ancient road on the Atlantic Forest from Southeastern Brazil",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4391335674",
+   "doi": "https://doi.org/10.3390/land13020152",
+   "title": "Managing Landscape Urbanization and Assessing Biodiversity of Wildlife Habitats: A Study of Bobcats in San Jose, California",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4404524678",
+   "doi": "https://doi.org/10.1002/fee.2816",
+   "title": "Evaluating and elevating the role of wildlife road crossings in climate adaptation",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4408759706",
+   "doi": "https://doi.org/10.1016/j.jenvman.2025.124986",
+   "title": "Wildlife-vehicle collision liability in Europe: A review of existing approaches and their implications",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4402675965",
+   "doi": "https://doi.org/10.1016/j.jnc.2024.126738",
+   "title": "Combining roadkill hotspots and landscape features to guide mitigation measures on highways",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4416782357",
+   "doi": "https://doi.org/10.1016/j.jenvman.2025.128107",
+   "title": "Wildlife crossing signs have limited effectiveness in reducing vehicle speeds",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2791801590",
+   "doi": "https://doi.org/10.1111/ibi.12593",
+   "title": "Spatial, road geometric and biotic factors associated with Barn Owl mortality along an interstate highway",
+   "publication_year": 2018,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3138940255",
+   "doi": "https://doi.org/10.3390/land10040338",
+   "title": "Impact of Road Fencing on Ungulate–Vehicle Collisions and Hotspot Patterns",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3019310145",
+   "doi": "https://doi.org/10.3897/natureconservation.39.33967",
+   "title": "Use of underpasses by animals on a fenced expressway in a suburban area in western Poland",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2903939378",
+   "doi": "https://doi.org/10.1080/10871209.2019.1551586",
+   "title": "Animal-activated highway crosswalk: long-term impact on elk-vehicle collisions, vehicle speeds, and motorist braking response",
+   "publication_year": 2018,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2943238743",
+   "doi": "https://doi.org/10.15517/rbt.v67i1.33011",
+   "title": "Do roadkill aggregations of wild and domestic mammals overlap?",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3196299870",
+   "doi": "https://doi.org/10.1111/cobi.13836",
+   "title": "Identifying and mitigating the impacts on primates of transportation and service corridors",
+   "publication_year": 2021,
+   "type": "review"
+  },
+  {
+   "id": "https://openalex.org/W2796260941",
+   "doi": "https://doi.org/10.1016/j.pecon.2018.02.001",
+   "title": "Restoring Brazil's road margins could help the country offset its CO2 emissions and comply with the Bonn and Paris Agreements",
+   "publication_year": 2018,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4292264661",
+   "doi": "https://doi.org/10.3390/d14080665",
+   "title": "Do Wildlife Crossings Mitigate the Roadkill Mortality of Tropical Mammals? A Case Study from Costa Rica",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2985751904",
+   "doi": "https://doi.org/10.1016/j.trd.2019.10.015",
+   "title": "Designing wildlife crossing structures for ungulates in a desert landscape: A case study in China",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2799871864",
+   "doi": "https://doi.org/10.1007/s00267-018-1058-x",
+   "title": "Incorporating Road Crossing Data into Vehicle Collision Risk Models for Moose (Alces americanus) in Massachusetts, USA",
+   "publication_year": 2018,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3137346103",
+   "doi": "https://doi.org/10.1017/s0030605320000605",
+   "title": "The implications of vehicle collisions for the Endangered endemic Zanzibar red colobus Piliocolobus kirkii",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2895140629",
+   "doi": "https://doi.org/10.1139/cjz-2018-0088",
+   "title": "Identifying attributes associated with brown bear (Ursus arctos) road-crossing and roadkill sites",
+   "publication_year": 2018,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2912381177",
+   "doi": "https://doi.org/10.4257/oeco.2019.2301.09",
+   "title": "SHORT AND NARROW ROADS CAUSE SUBSTANTIAL IMPACTS ON WILDLIFE",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2975582633",
+   "doi": "https://doi.org/10.3390/ani9100752",
+   "title": "A Trial of a Solar-Powered, Cooperative Sensor/Actuator, Opto-Acoustical, Virtual Road-Fence to Mitigate Roadkill in Tasmania, Australia",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4293070232",
+   "doi": "https://doi.org/10.1371/journal.pstr.0000016",
+   "title": "Reconceptualizing conservation",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4311183345",
+   "doi": "https://doi.org/10.1007/s10980-022-01569-8",
+   "title": "Landscape connectivity for an endangered carnivore: habitat conservation and road mitigation for ocelots in the US",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3007920120",
+   "doi": "https://doi.org/10.3390/su12041557",
+   "title": "The Use of Fiber-Reinforced Polymers in Wildlife Crossing Infrastructure",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3108903693",
+   "doi": "https://doi.org/10.1080/01650521.2020.1844942",
+   "title": "Snakes roadkill on highways in the Cerrado biome: an intentional conduct?",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3186388573",
+   "doi": null,
+   "title": "The Ecology of Rural Roads: Effects, Management, and Research",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3127350286",
+   "doi": "https://doi.org/10.1002/2688-8319.12041",
+   "title": "Ten principles for generating accessible and useable COVID‐19 environmental science and a fit‐for‐purpose evidence base",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4220981487",
+   "doi": "https://doi.org/10.3897/natureconservation.47.73052",
+   "title": "A test of wildlife warning reflectors as a way to reduce risk of wildlife-train collisions",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4283071448",
+   "doi": "https://doi.org/10.1016/j.gecco.2022.e02199",
+   "title": "The role of environmental, structural and anthropogenic variables on underpass use by African savanna elephants (Loxodonta africana) in the Tsavo Conservation Area",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3215923759",
+   "doi": "https://doi.org/10.11609/jott.6901.13.13.19921-19929",
+   "title": "Roadkills of Lowland Tapir Tapirus terrestris (Mammalia: Perissodactyla: Tapiridae) in one of its last refuges in the Atlantic Forest",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4281646522",
+   "doi": "https://doi.org/10.1111/csp2.12738",
+   "title": "Genetic erosion detected in a specialist mammal living in a fast‐developing environment",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4320718822",
+   "doi": "https://doi.org/10.1080/19378629.2023.2169612",
+   "title": "Framing Intelligent Transport Systems in the Arctic: Reindeer, Fish and the Engineered Road",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4288050792",
+   "doi": "https://doi.org/10.1111/csp2.12778",
+   "title": "Road mitigation structures reduce the number of reported wildlife‐vehicle collisions in the Bow Valley, Alberta, Canada",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4376609581",
+   "doi": "https://doi.org/10.1590/1678-4766e2023007",
+   "title": "Danger under wheels: mammal roadkills in the threaten lowland Atlantic Forest in southeast Brazil",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4384823037",
+   "doi": "https://doi.org/10.3390/su151411181",
+   "title": "An Analytical Framework of the Factors Affecting Wildlife–Vehicle Collisions and Barriers to Movement",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4386121788",
+   "doi": "https://doi.org/10.11606/9786587391472",
+   "title": "Guia de boas práticas para avaliação de efetividade de medidas de mitigação dos impactos sobre a fauna em rodovias",
+   "publication_year": 2023,
+   "type": "book"
+  },
+  {
+   "id": "https://openalex.org/W4390168882",
+   "doi": "https://doi.org/10.1016/j.injury.2023.111301",
+   "title": "Wildlife-vehicle collisions: The disproportionate risk of injury faced by motorcyclists",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4200153617",
+   "doi": "https://doi.org/10.1016/j.trd.2021.103151",
+   "title": "Evaluating impacts of road expansion on porcupines in a biodiversity hotspot",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4210824716",
+   "doi": "https://doi.org/10.46357/bcnaturais.v16i3.812",
+   "title": "Diagnóstico do atropelamento de mamíferos silvestres em estradas na bacia do alto Paraguai",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4310808566",
+   "doi": "https://doi.org/10.1163/14219980-20211210",
+   "title": "A reviewof the application of canopy bridges in the conservation of primates and other arboreal animals across Brazil",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4324088512",
+   "doi": "https://doi.org/10.1111/aec.13295",
+   "title": "Prioritizing road mitigation using ecologically based land‐use planning",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4362639298",
+   "doi": "https://doi.org/10.1016/j.gecco.2023.e02460",
+   "title": "Where to go? Habitat preferences and connectivity at a crossroad of European brown bear metapopulations",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4389462694",
+   "doi": "https://doi.org/10.1002/fee.2697",
+   "title": "Emerging opportunities for wildlife conservation with sustainable autonomous transportation",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4281287862",
+   "doi": "https://doi.org/10.3390/ani12101323",
+   "title": "Wombat Roadkill Was Not Reduced by a Virtual Fence. Comment on Stannard et al. Can Virtual Fences Reduce Wombat Road Mortalities? Ecol. Eng. 2021, 172, 106414",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4382794154",
+   "doi": "https://doi.org/10.1016/j.gecco.2023.e02570",
+   "title": "Where do wildlife cross the road? Experimental evaluation reveals fauna preferences for multiple types of crossing structures",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4393991881",
+   "doi": "https://doi.org/10.1002/wlb3.01152",
+   "title": "What next? Some practical suggestions for future studies on fence ecology",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4400074641",
+   "doi": "https://doi.org/10.1016/j.trd.2024.104303",
+   "title": "Inclusion of road ecology criteria within environmental Impact assessment",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4400776433",
+   "doi": "https://doi.org/10.1016/j.ecolmodel.2024.110784",
+   "title": "Predicting the effectiveness of wildlife fencing along roads using an individual-based model: How do fence-following distances influence the fence-end effect?",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4385659536",
+   "doi": "https://doi.org/10.1111/cobi.14152",
+   "title": "Impacts of existing and planned roads on terrestrial mammal habitat in New Guinea",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4414341527",
+   "doi": "https://doi.org/10.1002/ece3.72112",
+   "title": "Vulnerability of a Small Population of an Arboreal Mammal to Landscape Change Associated With a New Motorway and Drought",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2917616399",
+   "doi": "https://doi.org/10.1071/pc18082",
+   "title": "Spatial and temporal patterns of reptile roadkill in the north-west Australian tropics",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2794900781",
+   "doi": "https://doi.org/10.3389/fevo.2018.00041",
+   "title": "Models of Coupled Settlement and Habitat Networks for Biodiversity Conservation: Conceptual Framework, Implementation and Potential Applications",
+   "publication_year": 2018,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2905447199",
+   "doi": "https://doi.org/10.1139/cjz-2018-0165",
+   "title": "Factors affecting the permeability of road mitigation measures to the movement of small mammals",
+   "publication_year": 2018,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3047374208",
+   "doi": "https://doi.org/10.3390/ani10081345",
+   "title": "Habitat Suitability Based Models for Ungulate Roadkill Prognosis",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4220865256",
+   "doi": "https://doi.org/10.3897/natureconservation.47.72321",
+   "title": "Implementing wildlife fences along highways at the appropriate spatial scale: A case study of reducing road mortality of Florida Key deer",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2953443486",
+   "doi": "https://doi.org/10.1071/am19009",
+   "title": "Roadkill mitigation is paved with good intentions: a critique of Fox et al. (2019)",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2994372591",
+   "doi": "https://doi.org/10.3354/esr01017",
+   "title": "When protected areas are not enough: low-traffic roads projected to cause a decline in a northern viper population",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3099719485",
+   "doi": "https://doi.org/10.2981/wlb.00744",
+   "title": "No clear effect of odour repellents on roe deer behaviour in the vicinity of roads",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3216745834",
+   "doi": "https://doi.org/10.1007/s11355-021-00487-2",
+   "title": "Decreased traffic volume during COVID-19 did not reduce roadkill on fenced highway network in Japan",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2964328049",
+   "doi": "https://doi.org/10.1007/978-3-030-16501-7_8",
+   "title": "Human-Mediated Carrion: Effects on Ecological Processes",
+   "publication_year": 2019,
+   "type": "book-chapter"
+  },
+  {
+   "id": "https://openalex.org/W3127323481",
+   "doi": "https://doi.org/10.1016/j.gecco.2021.e01471",
+   "title": "Barriers for big snakes: Incorporating animal behaviour and morphology into road mortality mitigation design",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3154290918",
+   "doi": "https://doi.org/10.1071/wr20090",
+   "title": "Developing a correction factor to apply to animal–vehicle collision data for improved road mitigation measures",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4224235046",
+   "doi": "https://doi.org/10.3390/su14084849",
+   "title": "Impact of COVID-19 Lockdown on Wildlife-Vehicle Collisions in NW of Spain",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4220997110",
+   "doi": "https://doi.org/10.3897/natureconservation.47.73060",
+   "title": "Co-use of existing crossing structures along roads by wildlife and humans: Wishful thinking?",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4282942297",
+   "doi": "https://doi.org/10.1163/14219980-20211112",
+   "title": "Impact of linear infrastructure on South Africa’s primate fauna: the need for mitigation",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4380730070",
+   "doi": "https://doi.org/10.1016/j.jenvman.2023.118346",
+   "title": "Potential hotspots of amphibian roadkill risk in Spain",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3177670557",
+   "doi": "https://doi.org/10.1111/csp2.491",
+   "title": "Retrofit ecopassages effectively reduce freshwater turtle road mortality in the Lake Simcoe Watershed",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4221038189",
+   "doi": "https://doi.org/10.1016/j.landurbplan.2022.104398",
+   "title": "Roadkill risk for capybaras in an urban environment",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4310075645",
+   "doi": "https://doi.org/10.1007/s13364-022-00661-3",
+   "title": "Spatio-temporal patterns of vertebrate roadkills in a suburban area in northern Japan",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4312539098",
+   "doi": "https://doi.org/10.1071/am22011",
+   "title": "Not waiting for the death knell: a pilot study to examine supplementation and survivorship in a declining population of Tasmanian eastern quoll (Dasyurus viverrinus)",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4324065213",
+   "doi": "https://doi.org/10.3390/d15030412",
+   "title": "Are Roadkills Density-Dependent? Case Study of the Barn Owl (Tyto alba)",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3157415997",
+   "doi": "https://doi.org/10.4257/oeco.2021.2504.01",
+   "title": "WILDLIFE ROADKILL IN THE SURROUNDINGS OF EMAS NATIONAL PARK, CERRADO BIOME, BRAZIL",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3217236546",
+   "doi": "https://doi.org/10.1007/s00267-021-01570-y",
+   "title": "Long Arm of Motorway—The Impact of Fenced Road on the Mortality of European Badgers",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4205972535",
+   "doi": "https://doi.org/10.37002/biobrasil.v12i1.1802",
+   "title": "Vertebrados atropelados na BR-163, entorno da floresta nacional do Tapajós, Pará",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4360980508",
+   "doi": "https://doi.org/10.1007/s10531-023-02584-0",
+   "title": "Traffic noise and breeding site characteristics influencing assemblage composition of anuran species associated to roads",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4287854512",
+   "doi": "https://doi.org/10.1071/wr21183",
+   "title": "Mammal use of undercrossings is influenced by openness and proximity to riparian corridors",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4385343175",
+   "doi": "https://doi.org/10.1007/s10980-023-01727-6",
+   "title": "Impacts of anthropogenic land transformation on species-specific habitat amount, fragmentation, and connectivity in the Adirondack-to-Laurentians (A2L) transboundary wildlife linkage between 2000 and 2015: Implications for conservation and ecological restoration",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4386797012",
+   "doi": "https://doi.org/10.1016/j.ocecoaman.2023.106851",
+   "title": "Post-earthquake highway reconstruction: Impacts and mitigation opportunities for New Zealand pinniped population",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4399993266",
+   "doi": "https://doi.org/10.1016/j.jenvman.2024.121561",
+   "title": "Olfactory repellents decrease the number of ungulate-vehicle collisions on roads: Results of a two-year carcass study",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2973192506",
+   "doi": "https://doi.org/10.1177/1940082919875446",
+   "title": "Assessment of Rabies and Canine Distemper Viruses in Road-Killed Wildlife Mammals From the Semiarid Region of Northeastern Brazil",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4206109397",
+   "doi": "https://doi.org/10.1002/jwmg.22184",
+   "title": "The efficacy of highway wildlife collision mitigation in preventing elk mortality in central Ontario",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4321107834",
+   "doi": "https://doi.org/10.3389/fevo.2023.1074072",
+   "title": "Efficacy of permanent wildlife fences as barriers to amphibian movement",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4389365606",
+   "doi": "https://doi.org/10.3390/d15121199",
+   "title": "An Analysis of the Effectiveness of Mitigation Measures at Roadkill Hotspots in South Korea",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4389489486",
+   "doi": "https://doi.org/10.1111/2041-210x.14260",
+   "title": "Maximising the informativeness of new records in spatial sampling design",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4392779442",
+   "doi": "https://doi.org/10.15451/ec2024-02-13.10-1-21",
+   "title": "Analysis of scientific production and knowledge about wildlife roadkill in Brazilian protected areas",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2999213131",
+   "doi": "https://doi.org/10.2208/journalofjsce.8.1_1",
+   "title": "DECREASING ROAD KILL OF Pentalagus furnessi WITH A WILDLIFE DETECTION SYSTEM THAT WARNS DRIVERS TO REDUCE VEHICLE SPEED",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4384202701",
+   "doi": "https://doi.org/10.1002/wll2.12019",
+   "title": "Use of road infrastructure for movement by common terrestrial vertebrates",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4226133786",
+   "doi": "https://doi.org/10.5817/cz.muni.m210-8470-2022",
+   "title": "Zvířata na silnicích",
+   "publication_year": 2022,
+   "type": "book"
+  },
+  {
+   "id": "https://openalex.org/W4281295815",
+   "doi": "https://doi.org/10.30550/j.azl/2022.66.1/2022-04-27",
+   "title": "Gato andino (Leopardus jacobita, CORNALIA 1865) en carretera: nueva amenaza para su conservación",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4392372253",
+   "doi": "https://doi.org/10.2192/ursus-d-23-00011",
+   "title": "American black bear cub rehabilitation and release: Jurisdictional practices across North America",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4402783174",
+   "doi": "https://doi.org/10.1111/aec.13599",
+   "title": "Unveiling the hidden impact: Wildlife roadkill assessment in the Paraguayan Chaco",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4405810075",
+   "doi": "https://doi.org/10.1002/ecs2.70114",
+   "title": "A suite of wildlife crossing structures facilitates mammal movement across tropical forest fragments in a city",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4410515274",
+   "doi": "https://doi.org/10.1007/s00267-025-02188-0",
+   "title": "More connected, more collisions? Documenting nonlinear relationships between habitat connectivity and wildlife-vehicle collision hotspots",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4415300146",
+   "doi": "https://doi.org/10.1016/j.trd.2025.105016",
+   "title": "Spatial distribution of wildlife road mortality: How important is rigorous data collection?",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4415424539",
+   "doi": "https://doi.org/10.1111/1365-2664.70190",
+   "title": "Mammals with large home ranges, low reproductive rates and small body sizes are most vulnerable to roads: A meta‐analysis",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4415997240",
+   "doi": "https://doi.org/10.1016/j.biocon.2025.111601",
+   "title": "Identifying hotspots and drivers of wildlife-vehicle collision risk using citizen science data: a case study focused on the European badger Meles meles",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7129077355",
+   "doi": "https://doi.org/10.1007/s10531-025-03200-z",
+   "title": "Motorways, drought and wildfire: do they shape trajectories of arboreal mammal populations in eastern Australia?",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2915801881",
+   "doi": "https://doi.org/10.1371/journal.pone.0210180",
+   "title": "Long-term history of vehicle collisions on the endangered Nēnē (Branta sandvicensis)",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3155537377",
+   "doi": "https://doi.org/10.1007/978-3-030-65661-4_5",
+   "title": "Deep Learning Technologies to Mitigate Deer-Vehicle Collisions",
+   "publication_year": 2021,
+   "type": "book-chapter"
+  },
+  {
+   "id": "https://openalex.org/W4220913028",
+   "doi": "https://doi.org/10.1111/acv.12776",
+   "title": "Mitigating anthropogenic barriers to facilitate distributional shifts helps reduce vulnerability of a large herbivore to climate change",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4289228207",
+   "doi": "https://doi.org/10.1163/14219980-20211202",
+   "title": "Monitoring the use of a canopy bridge and underpasses by arboreal mammals on a Brazilian coastal road",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3082867175",
+   "doi": "https://doi.org/10.4257/oeco.2021.2501.04",
+   "title": "DON'T SPEED UP, SPEED KILLS: MAMMAL ROADKILLS ON HIGHWAY SECTIONS OF PR-445 IN THE SOUTH OF BRAZIL",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4391824077",
+   "doi": "https://doi.org/10.1007/s13280-023-01970-w",
+   "title": "Light at the end of the tunnel: Innovative opportunities for saving tropical biodiversity",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4387312049",
+   "doi": "https://doi.org/10.1007/s10344-023-01735-6",
+   "title": "STKDE+ approach reveals wildlife-vehicle collision hotspots at broken fence locations",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4400800090",
+   "doi": "https://doi.org/10.69721/tps.j.2019.11.1.08",
+   "title": "Road mortality of freshwater turtles in Palawan, Philippines",
+   "publication_year": 2019,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2911599567",
+   "doi": "https://doi.org/10.7202/1054120ar",
+   "title": "Clôtures et passages fauniques pour les petits et moyens mammifères le long de la route 175 au Québec : quelle est leur efficacité ?",
+   "publication_year": 2018,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4285300820",
+   "doi": "https://doi.org/10.1071/am21033",
+   "title": "Does wildlife crossing infrastructure work? A case study of three canopy-bridge designs and exclusion fencing from Moreton Bay Regional Council, Queensland",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4366216782",
+   "doi": "https://doi.org/10.3389/fevo.2023.1008462",
+   "title": "Evaluating fence-end treatments for migratory amphibians",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4391139491",
+   "doi": "https://doi.org/10.1111/acv.12933",
+   "title": "Unravelling unique responses of mammal abundance to road proximity in agricultural landscapes",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4296188530",
+   "doi": "https://doi.org/10.9734/cjast/2022/v41i333946",
+   "title": "Analysis of Roadkill Rates from a Trial of a Virtual Fence for Reducing Wombat Road Mortalities. Are Severely Under-Powered Studies Worth the Effort?",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4375842319",
+   "doi": "https://doi.org/10.17520/biods.2022427",
+   "title": "The impact of anthropogenic noise, artificial light at night and road kills on amphibians",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4386851680",
+   "doi": "https://doi.org/10.1016/j.jnc.2023.126491",
+   "title": "Is there a spatial match between roadkill and mitigation measures identified by functional connectivity modeling?",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4388205714",
+   "doi": "https://doi.org/10.1016/j.eiar.2023.107340",
+   "title": "Overestimation of mitigation leads to underestimation of residual impacts",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4389918580",
+   "doi": "https://doi.org/10.3390/w15244307",
+   "title": "Wildlife Roadkill Driven by Hydrological Regime in a Subtropical Wetland",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4403800068",
+   "doi": "https://doi.org/10.15684/formath.23.004",
+   "title": "Factors Affecting Wildlife Roadkill in Two Sub-Tropical National Parks in Nepal",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4405429957",
+   "doi": "https://doi.org/10.1016/j.gecco.2024.e03368",
+   "title": "Effects of public roads on wildlife-vehicle collisions in two protected areas, Hluhluwe-iMfolozi Park and iSimangaliso Wetland Park, in KwaZulu-Natal, South Africa",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4405724043",
+   "doi": "https://doi.org/10.1002/ece3.70703",
+   "title": "Highway Crossing Rates of Wild Felids Before, During, and After Wildlife Crossing Structure Installation",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4410859675",
+   "doi": "https://doi.org/10.3390/conservation5020026",
+   "title": "Wildlife–Vehicle Collisions in South-Central Uganda: Implications for Biodiversity Conservation",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4406796360",
+   "doi": "https://doi.org/10.1007/s10980-025-02052-w",
+   "title": "Variability in the impact of linear transportation infrastructures on gene flow in French wild ungulate populations",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4407255801",
+   "doi": "https://doi.org/10.1590/1519-6984.284807",
+   "title": "Wildlife roadkill hotspots on roads crossing Conservation Units in the State of Sergipe, Brazil",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4409182147",
+   "doi": "https://doi.org/10.1007/s00442-025-05697-1",
+   "title": "Carcass use by mesoscavengers varied across modified landscapes in the absence of top carnivores",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4410075457",
+   "doi": "https://doi.org/10.1007/978-3-031-88683-6_7",
+   "title": "Global Road Expansion Threat to Biodiversity May Be Underestimated",
+   "publication_year": 2025,
+   "type": "conference-paper"
+  },
+  {
+   "id": "https://openalex.org/W4412578898",
+   "doi": "https://doi.org/10.1111/aje.70077",
+   "title": "Spatial Determinants of Animal Roadkill Occurrence and Hotspots, With Implications for Wildlife Conservation Along Nairobi‐Mombasa Highway",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4412627733",
+   "doi": "https://doi.org/10.1016/j.jnc.2025.127034",
+   "title": "Roadkill on medium-sized mammals in a tropical region in southern Mexico",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4413307128",
+   "doi": "https://doi.org/10.1111/csp2.70124",
+   "title": "Uncovering barriers and paths for ensuring road mitigation to reduce wildlife collisions: Establishing grounds for action",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4416214146",
+   "doi": "https://doi.org/10.37002/biodiversidadebrasileira.v15i4.2823",
+   "title": "Mamíferos atropelados em rodovias do Brasil central: contribuições para a ecologia de estradas e coleções científicas",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4416271672",
+   "doi": "https://doi.org/10.1638/2025-0016",
+   "title": "VETERINARY PERSPECTIVES ON WIRE SNARING AND HUMAN–WILDLIFE CONFLICT IN THE GREATER KRUGER PARK, SOUTH AFRICA",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4416378220",
+   "doi": "https://doi.org/10.1016/j.biocon.2025.111605",
+   "title": "Turtles and turnarounds: Small animal exclusion fencing effectively reduces turtle road mortality",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7116978580",
+   "doi": "https://doi.org/10.1007/s13157-025-02015-6",
+   "title": "Seasonal Patterns of Vertebrate Roadkill in the Transitional Zone Between Cerrado Savannas and Northern Pantanal, Brazil",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7130658922",
+   "doi": "https://doi.org/10.3390/wild3010010",
+   "title": "Landscape Impact on the Roadkill of Mammals in Brazil",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7155076552",
+   "doi": "https://doi.org/10.3389/fvets.2026.1805419",
+   "title": "Retrospective multicenter analysis of causes of death in wild mammals in Southern Germany (2019–2023)",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7161937734",
+   "doi": "https://doi.org/10.3389/fevo.2026.1940830",
+   "title": "Road effects on animal populations: a systematic review and meta-analysis",
+   "publication_year": 2026,
+   "type": "review"
+  },
+  {
+   "id": "https://openalex.org/W7221656592",
+   "doi": "https://doi.org/10.12688/f1000research.192732.1",
+   "title": "Road Development in the Tropical Forests of Southeast Asia and the Pacific: A Systematic Review of Forest Loss, Ecological and Health Effects, and Mitigation",
+   "publication_year": 2026,
+   "type": "review"
+  },
+  {
+   "id": "https://openalex.org/W3157998401",
+   "doi": "https://doi.org/10.3390/land10050477",
+   "title": "Roadkill-Data-Based Identification and Ranking of Mammal Habitats",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3033216445",
+   "doi": "https://doi.org/10.1139/cjz-2020-0004",
+   "title": "Look both ways: factors affecting roadkill probability in Blue-black Grassquits (Volatinia jacarina)",
+   "publication_year": 2020,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4362694700",
+   "doi": "https://doi.org/10.1109/isads56919.2023.10091943",
+   "title": "DDM: Study Of Deer Detection And Movement Using Deep Learning Techniques",
+   "publication_year": 2023,
+   "type": "conference-paper"
+  },
+  {
+   "id": "https://openalex.org/W2770763168",
+   "doi": "https://doi.org/10.1111/conl.12427",
+   "title": "Integrating conservation biology into the development of automated vehicle technology to reduce animal–vehicle collisions",
+   "publication_year": 2017,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4365141054",
+   "doi": "https://doi.org/10.37002/biobrasil.v13i1.2059",
+   "title": "Análise da fauna silvestre atropelada e da efetividade das estruturas de proteção da fauna na BR-487 ao lado da reserva biológica das Perobas, no Sul do Brasil",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4229441509",
+   "doi": "https://doi.org/10.12933/therya_notes-22-76",
+   "title": "Ecological connectivity and wildlife passages on roads: a reflection for México",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4392727101",
+   "doi": "https://doi.org/10.14393/sn-v34-2022-63884",
+   "title": "Dinâmica das Rodovias: O Papel do Tráfego nos Índices de Atropelamentos de Fauna",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4212854777",
+   "doi": "https://doi.org/10.1007/978-3-030-96196-1_34",
+   "title": "Road Infrastructure and Biodiversity Conservation",
+   "publication_year": 2022,
+   "type": "conference-paper"
+  },
+  {
+   "id": "https://openalex.org/W4307703152",
+   "doi": "https://doi.org/10.3390/math10213988",
+   "title": "Error Correction Based Deep Neural Networks for Modeling and Predicting South African Wildlife–Vehicle Collision Data",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4401493747",
+   "doi": "https://doi.org/10.1016/j.jenvman.2024.122049",
+   "title": "Effectiveness of permanent drift fences in reducing roadkill risk of amphibians",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4403388775",
+   "doi": "https://doi.org/10.1080/01650521.2024.2396732",
+   "title": "Black and white but not a crosswalk: land use and roadkill impact the survival of the striped hog-nosed skunk ( Conepatus semistriatus ) in a Neotropical hotspot",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4405078786",
+   "doi": "https://doi.org/10.1007/s44353-024-00017-9",
+   "title": "Influence of landscape and seasonality on roadkill of wild vertebrates in the surroundings of a protected area of the high-altitude Atlantic Forest",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4405446302",
+   "doi": "https://doi.org/10.3897/natureconservation.57.116972",
+   "title": "The potential of electrified barriers to keep black bears out of fenced road corridors at low volume access roads",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4411163965",
+   "doi": "https://doi.org/10.1007/978-3-031-17756-9_55",
+   "title": "Moose Alces alces (Linnaeus, 1758)",
+   "publication_year": 2025,
+   "type": "book-chapter"
+  },
+  {
+   "id": "https://openalex.org/W4413294378",
+   "doi": "https://doi.org/10.1002/ecs2.70383",
+   "title": "Spatial and temporal patterns of mammalian roadkill across subtropical protected areas in Nepal",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W2996659529",
+   "doi": "https://doi.org/10.5070/v42811026",
+   "title": "A Proposed Analysis of Deer Use of Jumpout Ramps and Wildlife Use of Culverts along a Highway with Wildlife Exclusion Fencing",
+   "publication_year": 2018,
+   "type": "conference-paper"
+  },
+  {
+   "id": "https://openalex.org/W4312618180",
+   "doi": "https://doi.org/10.15788/ndot2021.12",
+   "title": "Animal Vehicle Collision Reduction and Habitat Connectivity Pooled Fund Study – Literature Review",
+   "publication_year": 2021,
+   "type": "report"
+  },
+  {
+   "id": "https://openalex.org/W4253279900",
+   "doi": "https://doi.org/10.31219/osf.io/2heqx",
+   "title": "The challenges and opportunities of coexisting with wild ungulates in the human-dominated landscapes of Europe’s Anthropocene",
+   "publication_year": 2019,
+   "type": "preprint"
+  },
+  {
+   "id": "https://openalex.org/W2900804646",
+   "doi": "https://doi.org/10.15368/theses.2018.116",
+   "title": "Crossing Corridors: Wildlife Use of Jumpouts and Undercrossings Along a Highway With Wildlife Exclusion Fencing",
+   "publication_year": 2018,
+   "type": "dissertation"
+  },
+  {
+   "id": "https://openalex.org/W7148713306",
+   "doi": "https://doi.org/10.70675/ecd8bb37z3f5az46b4z9640z2daee4fa4b73",
+   "title": "La compensation écologique : du principe de non perte nette de biodiversité à son opérationnalisation - analyse de l'action collective",
+   "publication_year": 2018,
+   "type": "dissertation"
+  },
+  {
+   "id": "https://openalex.org/W4389815182",
+   "doi": "https://doi.org/10.15788/1702675805",
+   "title": "Electrified Barriers Installed on Top of Wildlife Guards to Help Keep Large Wild Mammals Out of a Fenced Road Corridor",
+   "publication_year": 2023,
+   "type": "report"
+  },
+  {
+   "id": "https://openalex.org/W4404481648",
+   "doi": "https://doi.org/10.1080/14888386.2024.2422857",
+   "title": "Reptile road mortality in Nebraska, USA: insights from citizen science data",
+   "publication_year": 2024,
+   "type": "other"
+  },
+  {
+   "id": "https://openalex.org/W2900005325",
+   "doi": "https://doi.org/10.11606/d.3.2018.tde-21092018-134154",
+   "title": "Análise dos atropelamentos de mamíferos em uma rodovia no estado de São Paulo utilizando Self-Organizing Maps.",
+   "publication_year": 2018,
+   "type": "dissertation"
+  },
+  {
+   "id": "https://openalex.org/W2920905760",
+   "doi": "https://doi.org/10.53846/goediss-7177",
+   "title": "Evaluation of the Efficacy of Wildlife Warning Reflectors to Mitigate Wildlife-Vehicle Collisions on Roads",
+   "publication_year": 2018,
+   "type": "dissertation"
+  },
+  {
+   "id": "https://openalex.org/W4205362657",
+   "doi": "https://doi.org/10.18174/545400",
+   "title": "Ontsnipperingsbeeld Provincie Noord-Holland : Een knelpuntenanalyse en advies voor ontsnippering van het provinciale wegennet voor fauna",
+   "publication_year": 2021,
+   "type": "report"
+  },
+  {
+   "id": "https://openalex.org/W4213328877",
+   "doi": "https://doi.org/10.31219/osf.io/hk6jc",
+   "title": "The challenges and opportunities of coexisting with wild ungulates in the human-dominated landscapes of Europe's Anthropocene",
+   "publication_year": 2019,
+   "type": "preprint"
+  },
+  {
+   "id": "https://openalex.org/W4307182195",
+   "doi": "https://doi.org/10.15788/ndot2022.09",
+   "title": "Improving Connectivity: Innovative Fiber-Reinforced Polymer Structures for Wildlife, Bicyclists, and/or Pedestrians",
+   "publication_year": 2022,
+   "type": "report"
+  },
+  {
+   "id": "https://openalex.org/W4313012092",
+   "doi": "https://doi.org/10.15788/ndot2022.02",
+   "title": "A before-after-control-impact study of wildlife fencing along a highway in the Canadian Rocky Mountains",
+   "publication_year": 2022,
+   "type": "report"
+  },
+  {
+   "id": "https://openalex.org/W4318826315",
+   "doi": "https://doi.org/10.15788/ndot2022.09.30",
+   "title": "The effectiveness of electrified barriers to keep large mammals out of fenced road corridors",
+   "publication_year": 2022,
+   "type": "report"
+  },
+  {
+   "id": "https://openalex.org/W4318833443",
+   "doi": "https://doi.org/10.15788/ndot2022.06",
+   "title": "Long-term responses of an ecological community to highway mitigation measures",
+   "publication_year": 2022,
+   "type": "report"
+  },
+  {
+   "id": "https://openalex.org/W2940009828",
+   "doi": "https://doi.org/10.7202/1054119ar",
+   "title": "Élargissement de l’autoroute 69 : la route sous le premier écopont de l’Ontario",
+   "publication_year": 2018,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W3083376961",
+   "doi": "https://doi.org/10.14393/ufu.te.2019.1225",
+   "title": "Atropelamento de vertebrados: identificando onde, quando e quem morre em colisões de veículos com animais silvestres no Cerrado brasileiro",
+   "publication_year": 2019,
+   "type": "dissertation"
+  },
+  {
+   "id": "https://openalex.org/W3139997768",
+   "doi": null,
+   "title": "How do ambient and structural variables influence the entry into and full passage of drainage culverts by mammals and their ability to act as wildlife passages",
+   "publication_year": 2019,
+   "type": "dissertation"
+  },
+  {
+   "id": "https://openalex.org/W4206994478",
+   "doi": "https://doi.org/10.17345/rcda3137",
+   "title": "Identificación y análisis de instruments de planeación y gestión territorial y paisajística para promover la conectividad del paisaje urbano y la conservación de la biodiversidad en Brasil",
+   "publication_year": 2021,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4210608972",
+   "doi": "https://doi.org/10.18174/471671",
+   "title": "De effectiviteit van maatregelen voor het reduceren van aanrijdingen met reeen : Een verkenning en advies voor een veldproef",
+   "publication_year": 2019,
+   "type": "report"
+  },
+  {
+   "id": "https://openalex.org/W4211166483",
+   "doi": "https://doi.org/10.1002/9781119865957.refs",
+   "title": "References",
+   "publication_year": 2021,
+   "type": "paratext"
+  },
+  {
+   "id": "https://openalex.org/W4221106239",
+   "doi": "https://doi.org/10.3897/natureconservation.47.81795",
+   "title": "Ecological Solutions for Linear Infrastructure Networks: The key to green infrastructure development",
+   "publication_year": 2022,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4230964966",
+   "doi": "https://doi.org/10.7287/peerj.8154v0.1/reviews/1",
+   "title": "Peer Review #1 of \"Predicting hedgehog mortality risks on British roads using habitat suitability modelling (v0.1)\"",
+   "publication_year": 2020,
+   "type": "peer-review"
+  },
+  {
+   "id": "https://openalex.org/W4239541976",
+   "doi": "https://doi.org/10.7287/peerj.8154v0.2/reviews/1",
+   "title": "Peer Review #1 of \"Predicting hedgehog mortality risks on British roads using habitat suitability modelling (v0.2)\"",
+   "publication_year": 2020,
+   "type": "peer-review"
+  },
+  {
+   "id": "https://openalex.org/W4256236566",
+   "doi": "https://doi.org/10.7287/peerj.8154v0.1/reviews/2",
+   "title": "Peer Review #2 of \"Predicting hedgehog mortality risks on British roads using habitat suitability modelling (v0.1)\"",
+   "publication_year": 2020,
+   "type": "peer-review"
+  },
+  {
+   "id": "https://openalex.org/W4285122982",
+   "doi": "https://doi.org/10.18174/568489",
+   "title": "Kansrijke maatregelen om aanrijdingen met hoefdieren te voorkomen op de Zeeweg (N200) : Een literatuuronderzoek",
+   "publication_year": 2022,
+   "type": "report"
+  },
+  {
+   "id": "https://openalex.org/W4313322248",
+   "doi": "https://doi.org/10.7287/peerj.14371v0.1/reviews/2",
+   "title": "Peer Review #2 of \"Wildlife overpass structure size, distribution, effectiveness, and adherence to expert design recommendations (v0.1)\"",
+   "publication_year": 2022,
+   "type": "peer-review"
+  },
+  {
+   "id": "https://openalex.org/W4313322307",
+   "doi": "https://doi.org/10.7287/peerj.14371v0.1/reviews/1",
+   "title": "Peer Review #1 of \"Wildlife overpass structure size, distribution, effectiveness, and adherence to expert design recommendations (v0.1)\"",
+   "publication_year": 2022,
+   "type": "peer-review"
+  },
+  {
+   "id": "https://openalex.org/W4316034950",
+   "doi": "https://doi.org/10.7287/peerj.14553v0.1/reviews/1",
+   "title": "Peer Review #1 of \"Assessing factors influencing students’ perceptions towards animal species conservation (v0.1)\"",
+   "publication_year": 2023,
+   "type": "peer-review"
+  },
+  {
+   "id": "https://openalex.org/W4316034970",
+   "doi": "https://doi.org/10.7287/peerj.14553v0.1/reviews/2",
+   "title": "Peer Review #2 of \"Assessing factors influencing students’ perceptions towards animal species conservation (v0.1)\"",
+   "publication_year": 2023,
+   "type": "peer-review"
+  },
+  {
+   "id": "https://openalex.org/W4379515409",
+   "doi": "https://doi.org/10.53847/qvys3181",
+   "title": "West-Wide Study to Identify Important Highway Locations for Wildlife Crossings",
+   "publication_year": 2023,
+   "type": "report"
+  },
+  {
+   "id": "https://openalex.org/W4387698656",
+   "doi": "https://doi.org/10.21203/rs.3.rs-3444134/v1",
+   "title": "Influence of sub-urban highway underpasses on animals in Chongming Island, Shanghai",
+   "publication_year": 2023,
+   "type": "preprint"
+  },
+  {
+   "id": "https://openalex.org/W4389350510",
+   "doi": "https://doi.org/10.14295/remea.v40i2.14522",
+   "title": "Educação Ambiental e Ecologia de Estradas, um diálogo possível para o ensino de biologia",
+   "publication_year": 2023,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4390241235",
+   "doi": "https://doi.org/10.2139/ssrn.4676234",
+   "title": "Patterns of Wildlife-Vehicle Collisions in Poland: A Cross-Taxonomic Analysis of a Nationwide Citizen Science Dataset",
+   "publication_year": 2023,
+   "type": "preprint"
+  },
+  {
+   "id": "https://openalex.org/W4391267749",
+   "doi": "https://doi.org/10.15788/1706214520",
+   "title": "West-Wide Study to Identify Important Highway Locations for Wildlife Crossings",
+   "publication_year": 2023,
+   "type": "report"
+  },
+  {
+   "id": "https://openalex.org/W4394013429",
+   "doi": "https://doi.org/10.11160/bah.283",
+   "title": "Reduction of amphibian roadkill by one-side barriers",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4399374913",
+   "doi": "https://doi.org/10.1109/icit58233.2024.10541031",
+   "title": "Construction of Traffic Control Scenarios for Energy-Saving Trucks Driving",
+   "publication_year": 2024,
+   "type": "conference-paper"
+  },
+  {
+   "id": "https://openalex.org/W4401870528",
+   "doi": "https://doi.org/10.11606/t.91.2024.tde-05082024-153758",
+   "title": "Efeitos das estradas nos mamíferos de médio e grande porte do Cerrado",
+   "publication_year": 2024,
+   "type": "dissertation"
+  },
+  {
+   "id": "https://openalex.org/W4404116925",
+   "doi": "https://doi.org/10.1177/10806032241291771",
+   "title": "Identification of Factors Associated with Both Frequency and Severity of Deer-Related Motorcycle Crashes",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4404677949",
+   "doi": "https://doi.org/10.1556/112.2024.00168",
+   "title": "Ember és vadvilág közötti konflikushelyezetek: állat-gépjármű ütközések helyzete és társadalmi megítélése Magyarországon",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4404982294",
+   "doi": "https://doi.org/10.1007/978-3-031-65311-7_10",
+   "title": "The Impact of Roads and Traffic on Tapir Species",
+   "publication_year": 2024,
+   "type": "book-chapter"
+  },
+  {
+   "id": "https://openalex.org/W4405098768",
+   "doi": "https://doi.org/10.22215/etd/2024-16278",
+   "title": "Are roadkill hotspots the best places to mitigate for road mortality?",
+   "publication_year": 2024,
+   "type": "dissertation"
+  },
+  {
+   "id": "https://openalex.org/W4405337304",
+   "doi": "https://doi.org/10.4274/tjod.galenos.2024.22623",
+   "title": "Comparison of the effect of general anesthesia and combined epidural anesthesia on the anesthetic management of gynecological oncological surgery",
+   "publication_year": 2024,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4407182733",
+   "doi": "https://doi.org/10.1080/14615517.2025.2459979",
+   "title": "Co-production of public policy to mitigate animal-vehicle collisions on roads in Brazil",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4409697417",
+   "doi": "https://doi.org/10.7202/1117577ar",
+   "title": "Efficacité limitée des ponts et ponceaux non aménagés pour la connectivité des mammifères dans les Laurentides",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4411237640",
+   "doi": "https://doi.org/10.1111/aec.70086",
+   "title": "Mitigating Road Barrier Effects for Small Mammals: Evidence From Wildlife Passages in the Brazilian Atlantic Forest",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4411393250",
+   "doi": "https://doi.org/10.1002/wsb.1602",
+   "title": "Wildlife underpass use with gaps in exclusion fences along a 4‐lane highway 15 years post‐construction",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4413317970",
+   "doi": "https://doi.org/10.2208/journalofjsce.24-00259",
+   "title": "POTENTIAL ROADKILL RISK OF THE RED FOX IN A RURAL AGRICULTURAL LANDSCAPE IN JAPAN: THE RELATION TO WINDBREAK FORESTS",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4413512777",
+   "doi": "https://doi.org/10.64628/aap.xud49yke9",
+   "title": "Des millions d’animaux se font tuer sur les routes. Voici comment stopper l’hécatombe",
+   "publication_year": 2020,
+   "type": "other"
+  },
+  {
+   "id": "https://openalex.org/W4413565399",
+   "doi": "https://doi.org/10.64628/aam.5jasj9edk",
+   "title": "Wildlife can be saved from becoming roadkill with a new tool that finds the best locations for fences",
+   "publication_year": 2020,
+   "type": "other"
+  },
+  {
+   "id": "https://openalex.org/W4414817247",
+   "doi": "https://doi.org/10.1139/cjz-2024-0118",
+   "title": "Effects of life stages on the occurrence of two frog species on paved roads in northeastern Japan",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4414955471",
+   "doi": "https://doi.org/10.21203/rs.3.rs-7348868/v1",
+   "title": "Managing Human-animal Conflict in India: Insights From a Meta-analysis",
+   "publication_year": 2025,
+   "type": "preprint"
+  },
+  {
+   "id": "https://openalex.org/W4414972562",
+   "doi": "https://doi.org/10.3389/fcosc.2025.1656280",
+   "title": "Roadkill on islands: where road and island ecology meet",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4415448429",
+   "doi": "https://doi.org/10.2139/ssrn.5644681",
+   "title": "Planning ecological and population connectivity of endangered, rewilded wildlife in a hyper-arid desert landscape in northwestern Saudi Arabia",
+   "publication_year": 2025,
+   "type": "preprint"
+  },
+  {
+   "id": "https://openalex.org/W4415671379",
+   "doi": "https://doi.org/10.1002/2688-8319.70099",
+   "title": "Changes in utilization of canal crossing structures by desert mammal communities during the COVID ‐19 lockdown",
+   "publication_year": 2025,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W4415769845",
+   "doi": "https://doi.org/10.1101/2025.07.15.664867",
+   "title": "Experimental and Simulated Approaches to Roadkill Persistence: Implications for Road Mortality Assessment",
+   "publication_year": 2025,
+   "type": "preprint"
+  },
+  {
+   "id": "https://openalex.org/W7125636199",
+   "doi": "https://doi.org/10.64898/2026.01.23.701409",
+   "title": "Using bobcat ( Lynx rufus ) movement patterns to inform strategies for road mitigation",
+   "publication_year": 2026,
+   "type": "preprint"
+  },
+  {
+   "id": "https://openalex.org/W7125770013",
+   "doi": "https://doi.org/10.1007/978-3-032-15101-8_4",
+   "title": "Resource Selection, Movement Patterns, and Habitat Linkages for Moose on the Kenai Peninsula, Alaska, USA",
+   "publication_year": 2026,
+   "type": "book-chapter"
+  },
+  {
+   "id": "https://openalex.org/W7125817037",
+   "doi": "https://doi.org/10.1007/978-3-032-15101-8_11",
+   "title": "Case Study: Integrating Wildlife Movement Ecology into Infrastructure Development",
+   "publication_year": 2026,
+   "type": "book-chapter"
+  },
+  {
+   "id": "https://openalex.org/W7125897056",
+   "doi": "https://doi.org/10.1098/rsbl.2025.0471",
+   "title": "Roadkill reimagined: a review of innovative scientific use and value of animals killed by vehicular traffic",
+   "publication_year": 2026,
+   "type": "review"
+  },
+  {
+   "id": "https://openalex.org/W7131069658",
+   "doi": "https://doi.org/10.1007/s10531-026-03255-6",
+   "title": "Optimal placement of wildlife crossing structures along roads in an open natural ecosystem",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7132857799",
+   "doi": "https://doi.org/10.1016/j.pecon.2026.02.012",
+   "title": "Increase in the use of crossing structures does not mean a decrease in roadkill numbers",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7133531163",
+   "doi": "https://doi.org/10.1071/am25044",
+   "title": "Does a highway through a conservation reserve disrupt populations of medium-sized mammals in eastern Australia?",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7138308237",
+   "doi": "https://doi.org/10.1093/ornithapp/duag031",
+   "title": "Temporarily closing roads to motorized vehicles may benefit some sensitive bird species in a peri-urban park",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7142848258",
+   "doi": "https://doi.org/10.1016/j.ecolmodel.2026.111579",
+   "title": "Wildlife road crossings: a mechanistic trait- and landscape-based model",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7143391548",
+   "doi": "https://doi.org/10.3897/natureconservation.63.170760",
+   "title": "On the road chasing the elusive solution: Evaluating combined deterrents for safer wildlife road crossings",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7143421096",
+   "doi": "https://doi.org/10.1007/s10344-026-02086-8",
+   "title": "More than movement routes: the role of biocorridors for feeding, shelter, and niche partitioning of wild ungulates",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7151542841",
+   "doi": "https://doi.org/10.1007/s10531-026-03342-8",
+   "title": "On the road from deserts to forests: spatiotemporal modelling of owl road mortality in Israel",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7151624498",
+   "doi": "https://doi.org/10.1111/csp2.70261",
+   "title": "Improving connectivity is key for restoring large mammals and human safety. A response to “Introducing European bison in Iberia: Road safety concerns. A comment to Nores et al., 2024”",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7151916434",
+   "doi": "https://doi.org/10.70675/f9169eedz4db2z4805za361zd859847612fa",
+   "title": "Road ecology : toward a predictive model of wildlife-vehicle collisions",
+   "publication_year": 2023,
+   "type": "dissertation"
+  },
+  {
+   "id": "https://openalex.org/W7155493805",
+   "doi": "https://doi.org/10.21203/rs.3.rs-9118126/v1",
+   "title": "Cross or bounce? Locational and video data reveal high road encounter and altered movement in a common ungulate",
+   "publication_year": 2026,
+   "type": "preprint"
+  },
+  {
+   "id": "https://openalex.org/W7160032105",
+   "doi": "https://doi.org/10.1007/978-3-032-16641-8_34",
+   "title": "Wildlife Road-Crossing Structures",
+   "publication_year": 2026,
+   "type": "book-chapter"
+  },
+  {
+   "id": "https://openalex.org/W7160104510",
+   "doi": "https://doi.org/10.1007/978-3-032-16641-8_22",
+   "title": "Road Ecology in Europe",
+   "publication_year": 2026,
+   "type": "book-chapter"
+  },
+  {
+   "id": "https://openalex.org/W7160108610",
+   "doi": "https://doi.org/10.1007/978-3-032-16641-8_20",
+   "title": "Road Ecology in Africa: Applying the Discipline for Sustainable Outcomes",
+   "publication_year": 2026,
+   "type": "book-chapter"
+  },
+  {
+   "id": "https://openalex.org/W7160136879",
+   "doi": "https://doi.org/10.1007/978-3-032-16641-8_19",
+   "title": "Neutral and Positive Effects of Roads on Animals",
+   "publication_year": 2026,
+   "type": "book-chapter"
+  },
+  {
+   "id": "https://openalex.org/W7160149112",
+   "doi": "https://doi.org/10.1007/978-3-032-16641-8_33",
+   "title": "Mitigation Effectiveness in Road Ecology",
+   "publication_year": 2026,
+   "type": "book-chapter"
+  },
+  {
+   "id": "https://openalex.org/W7160208993",
+   "doi": "https://doi.org/10.1007/978-3-032-16641-8_35",
+   "title": "Ecological-Economic Optimization in Road Ecology",
+   "publication_year": 2026,
+   "type": "book-chapter"
+  },
+  {
+   "id": "https://openalex.org/W7161115357",
+   "doi": "https://doi.org/10.1002/wlb3.01686",
+   "title": "Quantification of human‐caused mortality in an imperiled turtle",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7161287271",
+   "doi": "https://doi.org/10.64898/2026.05.13.724937",
+   "title": "Beyond connectivity: dispersal mortality and Allee effects prevent bobcat recolonisation despite habitat availability",
+   "publication_year": 2026,
+   "type": "preprint"
+  },
+  {
+   "id": "https://openalex.org/W7162645066",
+   "doi": "https://doi.org/10.1111/acv.70074",
+   "title": "The Use of Arboreal Wildlife Bridges by Neotropical Mammals Increases Markedly With Time Since Deployment and Varies by Design",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7162755888",
+   "doi": "https://doi.org/10.3390/buildings16112179",
+   "title": "Neural Network-Based Peri-Urban Zone Delineation and Resilience-Oriented Ecological Security Membrane Planning: A Case Study of Zhengzhou, China",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7164011730",
+   "doi": "https://doi.org/10.1071/zo25031",
+   "title": "Assessing genetic connectivity of eastern pygmy possums across a periurban landscape: insights for conservation planning",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7165136336",
+   "doi": "https://doi.org/10.2139/ssrn.6964250",
+   "title": "A systematic approach to classifying and selecting measures to mitigate wildlife-vehicle collision",
+   "publication_year": 2026,
+   "type": "preprint"
+  },
+  {
+   "id": "https://openalex.org/W7165762504",
+   "doi": "https://doi.org/10.2139/ssrn.6993259",
+   "title": "SafeRoads: A GIS-Based Mobile Platform for Wildlife-Aware Routing and Real-Time Risk Alerts",
+   "publication_year": 2026,
+   "type": "preprint"
+  },
+  {
+   "id": "https://openalex.org/W7167264953",
+   "doi": "https://doi.org/10.1002/ece3.73931",
+   "title": "Conflicts and Collisions With an Endangered Carnivore: Landscape Drivers and Spatial Risk Pattern",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7168177642",
+   "doi": "https://doi.org/10.3390/ani16142174",
+   "title": "Bella and Charlie Are Not the Problem—It’s Us: The Real Causes of Wildlife Rescue in NSW",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7169797635",
+   "doi": "https://doi.org/10.1016/j.gecco.2026.e04347",
+   "title": "From roadkill monitoring to evidence-based wildlife mitigation in the Brazilian Pantanal",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7170040665",
+   "doi": "https://doi.org/10.1007/s10344-026-02123-6",
+   "title": "No evidence of wildlife-vehicle collision displacement to unfenced roads after fencing the Czech D10 motorway: A baci study",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7171973442",
+   "doi": "https://doi.org/10.1016/j.scijus.2026.101496",
+   "title": "Wildlife forensic DNA evidence links a suspected vehicle to a fatal lowland tapir (Tapirus terrestris) collision in Misiones, Argentina",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7172444422",
+   "doi": "https://doi.org/10.1371/journal.pone.0341107",
+   "title": "Animal-vehicle collisions, roadkilled animals, and human health: A scoping review protocol",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7172485112",
+   "doi": "https://doi.org/10.3897/natureconservation.64.202089",
+   "title": "Demography and terrestrial seasonal dynamics of a threatened fossorial toad (Pelobates cultripes) across climatic and landscape gradients: Implications for conservation",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7203647357",
+   "doi": "https://doi.org/10.1007/s00267-026-02564-4",
+   "title": "Bridging the Gap Between Theory and Practice: Assessing Two Decades of Methodological Procedures and Reporting Omissions in Roadkill Studies of The Brazilian Cerrado",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7203712636",
+   "doi": "https://doi.org/10.1002/wlb3.01671",
+   "title": "Road mortality mitigation for red wolves requires a landscape approach",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7204493837",
+   "doi": "https://doi.org/10.1007/s10980-026-02449-1",
+   "title": "Cumulative spatial assessment of observed wildlife-vehicle collisions based on indicator species thresholds",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7205586691",
+   "doi": "https://doi.org/10.21203/rs.3.rs-9705180/v1",
+   "title": "High human-caused mortality in GPS-tracked red kites across Europe",
+   "publication_year": 2026,
+   "type": "preprint"
+  },
+  {
+   "id": "https://openalex.org/W7213907675",
+   "doi": "https://doi.org/10.7717/peerj.21636",
+   "title": "A versatile survey method for repeatedly monitoring individual road-kill",
+   "publication_year": 2026,
+   "type": "article"
+  },
+  {
+   "id": "https://openalex.org/W7220685581",
+   "doi": "https://doi.org/10.1111/cobi.70394",
+   "title": "Global transportation impacts on wildlife mortality and emerging pathways for mitigation",
+   "publication_year": 2026,
+   "type": "article"
+  }
+ ]
+}

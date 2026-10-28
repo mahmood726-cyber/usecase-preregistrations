@@ -1,0 +1,344 @@
+[
+ {
+  "paper": "P02",
+  "role": "primary",
+  "doi": "10.1186/s13643-025-02800-8",
+  "openalex": "https://openalex.org/W4408117690",
+  "cited_by_count": 32,
+  "retrieved": 32,
+  "complete": true,
+  "error": null,
+  "flagged": []
+ },
+ {
+  "paper": "P02",
+  "role": "fallback",
+  "doi": "10.1016/j.envint.2020.105739",
+  "openalex": "https://openalex.org/W3032972760",
+  "cited_by_count": 183,
+  "retrieved": 176,
+  "complete": true,
+  "error": null,
+  "flagged": [
+   {
+    "id": "https://openalex.org/W4308151495",
+    "doi": "https://doi.org/10.1016/j.jad.2022.10.043",
+    "title": "Physical activity (PA) influences the risk of depression associated with long working hours",
+    "publication_year": 2022,
+    "type": "article"
+   },
+   {
+    "id": "https://openalex.org/W4224276963",
+    "doi": "https://doi.org/10.1093/annweh/wxac026",
+    "title": "Comments to Moretti Anfossiet al.’s (2022) ‘Work Exposures and Development of Cardiovascular Diseases: A Systematic Review’: What Is Current Scientific Consensus?",
+    "publication_year": 2022,
+    "type": "review"
+   },
+   {
+    "id": "https://openalex.org/W4386171774",
+    "doi": "https://doi.org/10.1016/j.envint.2023.108165",
+    "title": "Response to Letter to the Editor regarding “The prevalences and levels of occupational exposure to dusts and/or fibres (silica, asbestos and coal): A systematic review and meta-analysis from the WHO/ILO Joint Estimates of the Work-related Burden of Disease and Injury”",
+    "publication_year": 2023,
+    "type": "letter"
+   },
+   {
+    "id": "https://openalex.org/W4210966829",
+    "doi": "https://doi.org/10.1016/j.envint.2022.107105",
+    "title": "Response to Letter to the Editor Regarding “The effect of occupational exposure to noise on ischaemic heart disease, stroke and hypertension: A systematic review and meta-analysis From the WHO/ILO Joint Estimates of the Work-Related Burden of Disease and Injury”",
+    "publication_year": 2022,
+    "type": "letter"
+   },
+   {
+    "id": "https://openalex.org/W7116967955",
+    "doi": "https://doi.org/10.1016/j.ssci.2025.107093",
+    "title": "The dose-response relationship between work hours and mental health in healthcare workers: a cross-sectional study in a Chinese medical consortium",
+    "publication_year": 2025,
+    "type": "article"
+   }
+  ]
+ },
+ {
+  "paper": "P04",
+  "role": "primary",
+  "doi": "10.1111/dom.15725",
+  "openalex": "https://openalex.org/W4400056948",
+  "cited_by_count": 8,
+  "retrieved": 8,
+  "complete": true,
+  "error": null,
+  "flagged": []
+ },
+ {
+  "paper": "P04",
+  "role": "fallback",
+  "doi": "10.1186/s12933-023-02035-8",
+  "openalex": "https://openalex.org/W4387969870",
+  "cited_by_count": 41,
+  "retrieved": 39,
+  "complete": true,
+  "error": null,
+  "flagged": [
+   {
+    "id": "https://openalex.org/W4393085390",
+    "doi": "https://doi.org/10.1097/xcs.0000000000001085",
+    "title": "Invited Commentary",
+    "publication_year": 2024,
+    "type": "article"
+   },
+   {
+    "id": "https://openalex.org/W7128533915",
+    "doi": "https://doi.org/10.1016/j.ijcrp.2026.200597",
+    "title": "Comment on “Dose-dependent effects of SGLT2 inhibitors on circadian blood pressure in hypertensive patients with diabetes: A systematic review and Bayesian network meta-analysis”",
+    "publication_year": 2026,
+    "type": "letter"
+   }
+  ]
+ },
+ {
+  "paper": "P08",
+  "role": "primary",
+  "doi": "10.1093/ndt/gfaf093",
+  "openalex": "https://openalex.org/W4410765724",
+  "cited_by_count": 45,
+  "retrieved": 45,
+  "complete": true,
+  "error": null,
+  "flagged": [
+   {
+    "id": "https://openalex.org/W7127111770",
+    "doi": "https://doi.org/10.1016/j.bbrc.2026.153391",
+    "title": "RIPK3 exhibits a U-shaped dose-response in AKI-to-CKD progression: Optimal therapeutic window and the TGF-β1-HMGB1 feedback loop",
+    "publication_year": 2026,
+    "type": "article"
+   },
+   {
+    "id": "https://openalex.org/W7221515842",
+    "doi": "https://doi.org/10.1001/jamapediatrics.2026.3700",
+    "title": "Precision Management After Childhood Acute Kidney Injury—Reply",
+    "publication_year": 2026,
+    "type": "article"
+   }
+  ]
+ },
+ {
+  "paper": "P08",
+  "role": "fallback",
+  "doi": "10.3389/fnut.2024.1434613",
+  "openalex": "https://openalex.org/W4401368310",
+  "cited_by_count": 46,
+  "retrieved": 46,
+  "complete": true,
+  "error": null,
+  "flagged": [
+   {
+    "id": "https://openalex.org/W4405654446",
+    "doi": "https://doi.org/10.3389/fnut.2024.1510662",
+    "title": "Commentary: Efficacy of probiotics/synbiotics supplementation in patients with chronic kidney disease: a systematic review and meta-analysis of randomized controlled trials",
+    "publication_year": 2024,
+    "type": "editorial"
+   }
+  ]
+ },
+ {
+  "paper": "P11",
+  "role": "primary",
+  "doi": "10.1007/s10916-024-02059-x",
+  "openalex": "https://openalex.org/W4394686921",
+  "cited_by_count": 34,
+  "retrieved": 34,
+  "complete": true,
+  "error": null,
+  "flagged": []
+ },
+ {
+  "paper": "P11",
+  "role": "fallback",
+  "doi": "10.1007/s10741-019-09801-5",
+  "openalex": "https://openalex.org/W2952943844",
+  "cited_by_count": 171,
+  "retrieved": 171,
+  "complete": true,
+  "error": null,
+  "flagged": []
+ },
+ {
+  "paper": "P12",
+  "role": "primary",
+  "doi": "10.3390/nu14081600",
+  "openalex": "https://openalex.org/W4223940454",
+  "cited_by_count": 45,
+  "retrieved": 44,
+  "complete": true,
+  "error": null,
+  "flagged": []
+ },
+ {
+  "paper": "P12",
+  "role": "fallback",
+  "doi": "10.1097/CCE.0000000000001140",
+  "openalex": "https://openalex.org/W4401716073",
+  "cited_by_count": 3,
+  "retrieved": 3,
+  "complete": true,
+  "error": null,
+  "flagged": []
+ },
+ {
+  "paper": "P13",
+  "role": "primary",
+  "doi": "10.1093/rap/rkag034",
+  "openalex": "https://openalex.org/W7138950171",
+  "cited_by_count": 1,
+  "retrieved": 1,
+  "complete": true,
+  "error": null,
+  "flagged": []
+ },
+ {
+  "paper": "P13",
+  "role": "fallback",
+  "doi": "10.1093/rap/rkad084",
+  "openalex": "https://openalex.org/W4387524331",
+  "cited_by_count": 18,
+  "retrieved": 18,
+  "complete": true,
+  "error": null,
+  "flagged": []
+ },
+ {
+  "paper": "P15",
+  "role": "primary",
+  "doi": "10.1371/journal.pone.0166941",
+  "openalex": "https://openalex.org/W2556258011",
+  "cited_by_count": 343,
+  "retrieved": 200,
+  "complete": false,
+  "error": "9vcGVuYWxleC5vcmcvVzMwODI4NjcxNzUnXSI%3D&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype: HTTP Error 401: Unauthorized",
+  "flagged": [
+   {
+    "id": "https://openalex.org/W2912135339",
+    "doi": "https://doi.org/10.1016/j.jenvman.2018.10.093",
+    "title": "How do landscape context and fences influence roadkill locations of small and medium-sized mammals?",
+    "publication_year": 2019,
+    "type": "article"
+   },
+   {
+    "id": "https://openalex.org/W3207077308",
+    "doi": "https://doi.org/10.1016/j.scitotenv.2021.151106",
+    "title": "Links in a sink: Interplay between habitat structure, ecological constraints and interactions with humans can influence connectivity conservation for tigers in forest corridors",
+    "publication_year": 2021,
+    "type": "article"
+   },
+   {
+    "id": "https://openalex.org/W3152963019",
+    "doi": "https://doi.org/10.1016/j.gecco.2021.e01584",
+    "title": "The road less traveled: Addressing reproducibility and conservation priorities of wildlife-vehicle collision studies in tropical and subtropical regions",
+    "publication_year": 2021,
+    "type": "article"
+   },
+   {
+    "id": "https://openalex.org/W4281287862",
+    "doi": "https://doi.org/10.3390/ani12101323",
+    "title": "Wombat Roadkill Was Not Reduced by a Virtual Fence. Comment on Stannard et al. Can Virtual Fences Reduce Wombat Road Mortalities? Ecol. Eng. 2021, 172, 106414",
+    "publication_year": 2022,
+    "type": "article"
+   },
+   {
+    "id": "https://openalex.org/W4400776433",
+    "doi": "https://doi.org/10.1016/j.ecolmodel.2024.110784",
+    "title": "Predicting the effectiveness of wildlife fencing along roads using an individual-based model: How do fence-following distances influence the fence-end effect?",
+    "publication_year": 2024,
+    "type": "article"
+   },
+   {
+    "id": "https://openalex.org/W3154290918",
+    "doi": "https://doi.org/10.1071/wr20090",
+    "title": "Developing a correction factor to apply to animal–vehicle collision data for improved road mitigation measures",
+    "publication_year": 2021,
+    "type": "article"
+   },
+   {
+    "id": "https://openalex.org/W4287854512",
+    "doi": "https://doi.org/10.1071/wr21183",
+    "title": "Mammal use of undercrossings is influenced by openness and proximity to riparian corridors",
+    "publication_year": 2022,
+    "type": "article"
+   },
+   {
+    "id": "https://openalex.org/W4415424539",
+    "doi": "https://doi.org/10.1111/1365-2664.70190",
+    "title": "Mammals with large home ranges, low reproductive rates and small body sizes are most vulnerable to roads: A meta‐analysis",
+    "publication_year": 2025,
+    "type": "article"
+   }
+  ]
+ },
+ {
+  "paper": "P15",
+  "role": "fallback",
+  "doi": "10.1371/journal.pone.0216566",
+  "openalex": "https://openalex.org/W2943919874",
+  "cited_by_count": 74,
+  "retrieved": 74,
+  "complete": true,
+  "error": null,
+  "flagged": [
+   {
+    "id": "https://openalex.org/W4380853791",
+    "doi": "https://doi.org/10.1080/00049530.2023.2220414",
+    "title": "The influence of social comparison on risk decision-making for self and groups in intergroup contexts",
+    "publication_year": 2023,
+    "type": "article"
+   },
+   {
+    "id": "https://openalex.org/W3033371280",
+    "doi": "https://doi.org/10.1002/bdm.2194",
+    "title": "What if I am the one? Measuring individual differences in emotional sensitivity to probability and emotional reactivity to possibility",
+    "publication_year": 2020,
+    "type": "article"
+   },
+   {
+    "id": "https://openalex.org/W3112014652",
+    "doi": "https://doi.org/10.1162/99608f92.f2823096",
+    "title": "Science Communication in the Context of Reproducibility and Replicability: How Nonscientists Navigate Scientific Uncertainty",
+    "publication_year": 2020,
+    "type": "article"
+   },
+   {
+    "id": "https://openalex.org/W3112402699",
+    "doi": "https://doi.org/10.1017/bca.2020.23",
+    "title": "The Influence of Individual Characteristics and Institutional Norms on Bureaucrats’ Use of Cost–Benefit Analysis: A Choice Experiment",
+    "publication_year": 2020,
+    "type": "article"
+   },
+   {
+    "id": "https://openalex.org/W4200403504",
+    "doi": "https://doi.org/10.1002/jgc4.1534",
+    "title": "The role of emotional sensitivity to probability in the decision to choose genetic testing",
+    "publication_year": 2021,
+    "type": "article"
+   },
+   {
+    "id": "https://openalex.org/W4398762542",
+    "doi": "https://doi.org/10.1016/j.heliyon.2024.e31801",
+    "title": "The influence of COVID-19 on intertemporal choices in the health and economy domains",
+    "publication_year": 2024,
+    "type": "article"
+   },
+   {
+    "id": "https://openalex.org/W4283361098",
+    "doi": "https://doi.org/10.31234/osf.io/7dpmb",
+    "title": "Social Expected Utility: Indifference to Others Can Influence Risk Preferences",
+    "publication_year": 2022,
+    "type": "preprint"
+   },
+   {
+    "id": "https://openalex.org/W7163878354",
+    "doi": "https://doi.org/10.12677/ap.2026.166295",
+    "title": "The Influence of Decision Role on Risk Decision-Making: The Moderating Role of Temporal Distance",
+    "publication_year": 2026,
+    "type": "article"
+   }
+  ]
+ }
+]
