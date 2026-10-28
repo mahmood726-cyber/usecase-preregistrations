@@ -1,0 +1,16 @@
+{
+ "paper": "P02",
+ "kind": "screening preregistration",
+ "frozen_utc": "2026-10-28T21:54:04+00:00",
+ "prereg_sha256": "2ef781586f0c3bcd153e96316a633e544a122b0943693c94e9d173421d6c7ec4",
+ "script_sha256": "fbb9fd412238f300d2194471afb832fa4f423c120ade2995a6a4e763cfdd78e5",
+ "files_sha256": {
+  "PREREG_P02_screen.md": "2ef781586f0c3bcd153e96316a633e544a122b0943693c94e9d173421d6c7ec4",
+  "screen_P02.py": "fbb9fd412238f300d2194471afb832fa4f423c120ade2995a6a4e763cfdd78e5",
+  "supporting/MAHMOOD_DECISIONS.md": "571469f9c90265398f479ac322ea426977674ee14806ee14fd9f90abeac8028f",
+  "supporting/synthetic_screen_P02_checks.md": "6740e13689a6cb83256413215d53bd3055dd094d61680041dbcd60da7dd6d272",
+  "supporting/synthetic_test_screen_P02.py": "34717afe59ef4e6b162177cf05d3181f84e012449e820834cb3b27056ff95803"
+ },
+ "redacted_files": 0,
+ "note": "Frozen before any new candidate was screened. The public GitHub release is the screening precondition; the Zenodo DOI is recorded when minted."
+}
