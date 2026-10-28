@@ -1,0 +1,592 @@
+{
+  "audit_date": "2026-10-28",
+  "method": "Python static reads and SHA-256; no browser or R execution",
+  "app_root": "allmeta@14dc545/",
+  "job_commit": "14dc545bcba87a02158b2f445c28450e7eaf6b89",
+  "embedded_build_commits": [
+    "42a94da2110a02200d0b5bff4c56f636b9cbffa9"
+  ],
+  "git_metadata_present": false,
+  "direct_resource_count": 32,
+  "direct_resources_all_present": true,
+  "direct_resources": [
+    {
+      "kind": "stylesheet",
+      "href": "../shared/forced-colors.css",
+      "path": "shared/forced-colors.css",
+      "exists": true,
+      "bytes": 2440,
+      "sha256": "a967581cb9dfe03bcd6158264353dd8c3fff386d2919143587aa507a24e0c39c"
+    },
+    {
+      "kind": "stylesheet",
+      "href": "../hub/app-style.css",
+      "path": "hub/app-style.css",
+      "exists": true,
+      "bytes": 16443,
+      "sha256": "475254903d40eebe241574975f1ddff13808c8ad478c17137fda449a3952361f"
+    },
+    {
+      "kind": "script",
+      "href": "../hub/shared/csv-upload.js",
+      "path": "hub/shared/csv-upload.js",
+      "exists": true,
+      "bytes": 10490,
+      "sha256": "6ce4702db911d2c193da4b775a10f8b748d4901ddcc98f0830bab7bd48db5384"
+    },
+    {
+      "kind": "script",
+      "href": "../hub/shared/plot-export.js",
+      "path": "hub/shared/plot-export.js",
+      "exists": true,
+      "bytes": 17798,
+      "sha256": "7533db659c89b328f20252fc2deaa1272d8473d00052d7b91a9732c24ee382cc"
+    },
+    {
+      "kind": "script",
+      "href": "../hub/shared/axis-controls.js",
+      "path": "hub/shared/axis-controls.js",
+      "exists": true,
+      "bytes": 3425,
+      "sha256": "1620bdc94620df10a41abe91c388de6a91f03367dd3719cb77ce2776ab553806"
+    },
+    {
+      "kind": "script",
+      "href": "../hub/shared/results-export.js",
+      "path": "hub/shared/results-export.js",
+      "exists": true,
+      "bytes": 7910,
+      "sha256": "16ffa76bc74275565214c2e142d7f0d0847a5a8eded2614efb04aa172acd71f4"
+    },
+    {
+      "kind": "script",
+      "href": "../hub/shared/url-state.js",
+      "path": "hub/shared/url-state.js",
+      "exists": true,
+      "bytes": 1584,
+      "sha256": "a704241f6c1faffaf33544d3c2059cc3d7d196c0dab39d91a3e006e315de1aa1"
+    },
+    {
+      "kind": "script",
+      "href": "../hub/shared/reset-undo.js",
+      "path": "hub/shared/reset-undo.js",
+      "exists": true,
+      "bytes": 3375,
+      "sha256": "0ef224c3e8a53dca6364cdbdfa8a0f24dc5e0e8805180651781106e0a2af1ee8"
+    },
+    {
+      "kind": "script",
+      "href": "../hub/shared/tooltips.js",
+      "path": "hub/shared/tooltips.js",
+      "exists": true,
+      "bytes": 8162,
+      "sha256": "cd9fd2d82a5d5402915737de9aaef7caa0f506ca0550e0f18f078c67b3078393"
+    },
+    {
+      "kind": "script",
+      "href": "../shared/build-info.js",
+      "path": "shared/build-info.js",
+      "exists": true,
+      "bytes": 1306,
+      "sha256": "44c8a7d1e2cdad4d4b1c4806cffdd4f9817dc39161cd0de5374761a71bd19177"
+    },
+    {
+      "kind": "script",
+      "href": "../shared/ma-studies-v1.js",
+      "path": "shared/ma-studies-v1.js",
+      "exists": true,
+      "bytes": 26838,
+      "sha256": "0710fcb7284e1c837810e4d388d5538836d55483d6b014c6e7f864c44bf26bf6"
+    },
+    {
+      "kind": "script",
+      "href": "../shared/truthcert-export.js",
+      "path": "shared/truthcert-export.js",
+      "exists": true,
+      "bytes": 9811,
+      "sha256": "d1cc2ff8584d2915bb0414e78e03ab22eccb68e4867a34193fe30ecfe6fdfefc"
+    },
+    {
+      "kind": "script",
+      "href": "../shared/truthcert-ui.js",
+      "path": "shared/truthcert-ui.js",
+      "exists": true,
+      "bytes": 9438,
+      "sha256": "4326f44530fd523e183a24c5b8bf993b9594d10250ab24a3debc13f4bf251468"
+    },
+    {
+      "kind": "script",
+      "href": "../shared/app-flow.js",
+      "path": "shared/app-flow.js",
+      "exists": true,
+      "bytes": 16214,
+      "sha256": "2b8e366dbdbf5aebffc70f0b25b1ac7a49d65cc4ecfd7c0807113b3b5556162e"
+    },
+    {
+      "kind": "script",
+      "href": "../shared/canonical-datasets.js",
+      "path": "shared/canonical-datasets.js",
+      "exists": true,
+      "bytes": 14757,
+      "sha256": "32f5b35faff14429602f95a72d79ddc8b6864098e94c652a81cd537579770aca"
+    },
+    {
+      "kind": "script",
+      "href": "../shared/hero-examples.js",
+      "path": "shared/hero-examples.js",
+      "exists": true,
+      "bytes": 5430,
+      "sha256": "7b091e4f08184b069b9c649a2cf04f19f440c37bd2de86d49d453f16791307f3"
+    },
+    {
+      "kind": "script",
+      "href": "../shared/citation.js",
+      "path": "shared/citation.js",
+      "exists": true,
+      "bytes": 21281,
+      "sha256": "0160370671813e2995ff37f68d9b7e7b650f613012fb4208f31e52637cdd3961"
+    },
+    {
+      "kind": "script",
+      "href": "../shared/autosave.js",
+      "path": "shared/autosave.js",
+      "exists": true,
+      "bytes": 9440,
+      "sha256": "18bcc6c10f6177482b2f8453bede3f92887d7e6729413862cc903891405d23e8"
+    },
+    {
+      "kind": "script",
+      "href": "../hub/shared/analysis-lifecycle.js",
+      "path": "hub/shared/analysis-lifecycle.js",
+      "exists": true,
+      "bytes": 1686,
+      "sha256": "bdae7a0d966e9093b4234e697a8474e3e1757cde804f5893a880a0f9b2b4d9f7"
+    },
+    {
+      "kind": "script",
+      "href": "../hub/shared/a11y-landmarks.js",
+      "path": "hub/shared/a11y-landmarks.js",
+      "exists": true,
+      "bytes": 1954,
+      "sha256": "a9b35c71c500b0fe4e5a080f23c9dbb11c5462663a0d44e4557f782149e5f8ea"
+    },
+    {
+      "kind": "script",
+      "href": "../shared/alm-validate.js",
+      "path": "shared/alm-validate.js",
+      "exists": true,
+      "bytes": 17721,
+      "sha256": "b451c1377164842466aa0d7ad4cb6dd7a1340456a61e891a01646b4375c4ed87"
+    },
+    {
+      "kind": "script",
+      "href": "validate/adapter.js",
+      "path": "limit-ma/validate/adapter.js",
+      "exists": true,
+      "bytes": 10755,
+      "sha256": "104f49470b6de052cb9cb0fb495443b979f3b759b8ff38293b9bd663d903b71b",
+      "PIN_txt_sha256": "104f49470b6de052cb9cb0fb495443b979f3b759b8ff38293b9bd663d903b71b",
+      "matches_PIN_txt": true
+    },
+    {
+      "kind": "script",
+      "href": "../shared/ma-core.js",
+      "path": "shared/ma-core.js",
+      "exists": true,
+      "bytes": 28889,
+      "sha256": "fef6ab267ec7fd5582e3431381f090daee11267010effc0858834d9e5fc44bc8"
+    },
+    {
+      "kind": "script",
+      "href": "../shared/trimfill.js",
+      "path": "shared/trimfill.js",
+      "exists": true,
+      "bytes": 5765,
+      "sha256": "2f41711149e4898c57f67fe89d6226df797be882678deab4ff40f93f8c103f88"
+    },
+    {
+      "kind": "script",
+      "href": "../shared/selmodel.js",
+      "path": "shared/selmodel.js",
+      "exists": true,
+      "bytes": 12375,
+      "sha256": "83296ff2b9391b32d0ffda2c3af3848d52a9ac669710bbb10f3490f11c3520e4"
+    },
+    {
+      "kind": "script",
+      "href": "plus-opt.js",
+      "path": "limit-ma/plus-opt.js",
+      "exists": true,
+      "bytes": 3138,
+      "sha256": "869e65ce474846c4d483d9451f3b7e41478f7e7b36fd17cba4ebad2d7c765b8e",
+      "PIN_txt_sha256": "869e65ce474846c4d483d9451f3b7e41478f7e7b36fd17cba4ebad2d7c765b8e",
+      "matches_PIN_txt": true
+    },
+    {
+      "kind": "script",
+      "href": "loo-limit.js",
+      "path": "limit-ma/loo-limit.js",
+      "exists": true,
+      "bytes": 7757,
+      "sha256": "27c45750a00443e059a1ca01af51e1be99512a13e659ea4eb8951c9ac9032c98",
+      "PIN_txt_sha256": "27c45750a00443e059a1ca01af51e1be99512a13e659ea4eb8951c9ac9032c98",
+      "matches_PIN_txt": true
+    },
+    {
+      "kind": "script",
+      "href": "plus-selmodel.js",
+      "path": "limit-ma/plus-selmodel.js",
+      "exists": true,
+      "bytes": 13279,
+      "sha256": "22838f426e34ed71a6a8002ad0fd73eb34e5e199fa8ffb4fb941a2fc1c1d1ffa",
+      "PIN_txt_sha256": "22838f426e34ed71a6a8002ad0fd73eb34e5e199fa8ffb4fb941a2fc1c1d1ffa",
+      "matches_PIN_txt": true
+    },
+    {
+      "kind": "script",
+      "href": "plus.js",
+      "path": "limit-ma/plus.js",
+      "exists": true,
+      "bytes": 7929,
+      "sha256": "91097a304ac7e82dcbcc7b57fb4659cb87b5abb8ac2fe796f15580d65968975e",
+      "PIN_txt_sha256": "91097a304ac7e82dcbcc7b57fb4659cb87b5abb8ac2fe796f15580d65968975e",
+      "matches_PIN_txt": true
+    },
+    {
+      "kind": "script",
+      "href": "plus-ui.js",
+      "path": "limit-ma/plus-ui.js",
+      "exists": true,
+      "bytes": 8670,
+      "sha256": "7576d7b450257e1d37d908265bc7150c1f39d756551ba4803dcf78217ad14f26",
+      "PIN_txt_sha256": "7576d7b450257e1d37d908265bc7150c1f39d756551ba4803dcf78217ad14f26",
+      "matches_PIN_txt": true
+    },
+    {
+      "kind": "script",
+      "href": "validate/plus-pins.js",
+      "path": "limit-ma/validate/plus-pins.js",
+      "exists": true,
+      "bytes": 513,
+      "sha256": "ae4b4066dddf8df70550b96e3a003b1c4be28a8f04615eec1c700d2e3dea26fa",
+      "PIN_txt_sha256": "ae4b4066dddf8df70550b96e3a003b1c4be28a8f04615eec1c700d2e3dea26fa",
+      "matches_PIN_txt": true
+    },
+    {
+      "kind": "script",
+      "href": "validate/plus-adapter.js",
+      "path": "limit-ma/validate/plus-adapter.js",
+      "exists": true,
+      "bytes": 28399,
+      "sha256": "4df8f8b05c0a4faf3d4776f8b9da2477cc964913e2ff5bdae973f0eecc32a188",
+      "PIN_txt_sha256": "4df8f8b05c0a4faf3d4776f8b9da2477cc964913e2ff5bdae973f0eecc32a188",
+      "matches_PIN_txt": true
+    }
+  ],
+  "dynamic_and_excluded_resources": [
+    {
+      "path": "hub/shared/glossary.json",
+      "scope": "English tooltips; index.html:782; tooltips.js:_loadAndRefresh",
+      "exists": true,
+      "bytes": 12569,
+      "sha256": "16e134407092859538b7c1215b8f40ae5c6ce8c4bae49c4cf953cf7260a228ce"
+    },
+    {
+      "path": "hub/shared/vendor/jspdf.min.js",
+      "scope": "Optional PDF export; plot-export.js:loadPdf; script-relative",
+      "exists": true,
+      "bytes": 364463,
+      "sha256": "98ccf17aa10c20bb1301762618fcc9b6ab3a4e7f26b6071d64d0b41154df3875"
+    },
+    {
+      "path": "shared/webr-runner.js",
+      "scope": "Optional browser R; alm-validate.js:runner; script-relative",
+      "exists": true,
+      "bytes": 21533,
+      "sha256": "89972c80b2565a13b94f9ed7b9fbf61bec6797203a7e75e63b789dd02c645827"
+    },
+    {
+      "path": "r-shiny/shinylive/webr/webr.mjs",
+      "scope": "Optional browser R runtime; webr-runner.js:_ensureWebR",
+      "exists": false,
+      "bytes": null,
+      "sha256": null
+    },
+    {
+      "path": "r-shiny/shinylive/webr/repo/manifest.json",
+      "scope": "Optional browser R package manifest; webr-runner.js",
+      "exists": false,
+      "bytes": null,
+      "sha256": null
+    },
+    {
+      "path": "limit-ma/validate/corpus/corpus.json",
+      "scope": "Excluded archived replay; adapter.js:files; bytes only",
+      "exists": true,
+      "bytes": 638350,
+      "sha256": "a9232d92c3b777c09033b327e8b7df5e332e8b68aadb130d8e164fa4cc437744",
+      "PIN_txt_sha256": "a9232d92c3b777c09033b327e8b7df5e332e8b68aadb130d8e164fa4cc437744",
+      "matches_PIN_txt": true
+    },
+    {
+      "path": "limit-ma/validate/corpus/reference.json",
+      "scope": "Excluded archived replay; adapter.js:files; bytes only",
+      "exists": true,
+      "bytes": 1609819,
+      "sha256": "5efb8a571a600db2c117d57413b745104089bdef34e7a8410d096883f4081237",
+      "PIN_txt_sha256": "5efb8a571a600db2c117d57413b745104089bdef34e7a8410d096883f4081237",
+      "matches_PIN_txt": true
+    },
+    {
+      "path": "limit-ma/validate/plus/corpus.json",
+      "scope": "Excluded archived replay; plus-pins.js; bytes only",
+      "exists": true,
+      "bytes": 644751,
+      "sha256": "bf68cae8b7f7ae93ed6d5621851858346908c47bc7d1480111bb7485af4f03ca",
+      "PIN_txt_sha256": "bf68cae8b7f7ae93ed6d5621851858346908c47bc7d1480111bb7485af4f03ca",
+      "matches_PIN_txt": true
+    },
+    {
+      "path": "limit-ma/validate/plus/reference.json",
+      "scope": "Excluded archived replay; plus-pins.js; bytes only",
+      "exists": true,
+      "bytes": 636047,
+      "sha256": "e4caaee58963a1fe4535c1f7ae681aa6d2277018a28dcfdb90ee7eeaec999df7",
+      "PIN_txt_sha256": "e4caaee58963a1fe4535c1f7ae681aa6d2277018a28dcfdb90ee7eeaec999df7",
+      "matches_PIN_txt": true
+    }
+  ],
+  "entry_and_R_reference_code": [
+    {
+      "path": "limit-ma/index.html",
+      "exists": true,
+      "bytes": 48205,
+      "sha256": "5d5f1a705d5228014f684dd77eb98a950ed582a8175321835a8bed90792866d3",
+      "PIN_txt_sha256": "5d5f1a705d5228014f684dd77eb98a950ed582a8175321835a8bed90792866d3",
+      "matches_PIN_txt": true
+    },
+    {
+      "path": "limit-ma/validate/generate-plus.R",
+      "exists": true,
+      "bytes": 3836,
+      "sha256": "07f9174d428ba0b8d7af3f95997e5283b0ead8044ecdfd29606e8688d2bc680d",
+      "PIN_txt_sha256": "07f9174d428ba0b8d7af3f95997e5283b0ead8044ecdfd29606e8688d2bc680d",
+      "matches_PIN_txt": true
+    },
+    {
+      "path": "limit-ma/validate/loo/generate.R",
+      "exists": true,
+      "bytes": 2139,
+      "sha256": "5597fd7d2a6837f553622d8be833613a0c50b1e82762c031449f5fcd895ea2ac",
+      "PIN_txt_sha256": "5597fd7d2a6837f553622d8be833613a0c50b1e82762c031449f5fcd895ea2ac",
+      "matches_PIN_txt": true
+    }
+  ],
+  "source_hash_checks": [
+    {
+      "path": "P12_primary/fulltext.xml",
+      "v3_sha256": "3786bd746ba8bc01fda37f2119a6c0ef57550d3e5d0e6116321993cfe5f6c3ad",
+      "exists": true,
+      "bytes": 162457,
+      "sha256": "3786bd746ba8bc01fda37f2119a6c0ef57550d3e5d0e6116321993cfe5f6c3ad",
+      "matches_v3": true
+    },
+    {
+      "path": "P12_primary/supplementary.zip",
+      "v3_sha256": "952c094067f4e273624a8656642eb9a1c3a6f83377e1e135960478bfa00c06f0",
+      "exists": true,
+      "bytes": 1132185,
+      "sha256": "952c094067f4e273624a8656642eb9a1c3a6f83377e1e135960478bfa00c06f0",
+      "matches_v3": true
+    },
+    {
+      "path": "P12_primary/supp/nutrients-14-01600-g003.jpg",
+      "v3_sha256": "b0e03517d09e80a12e11aa98a116bd069338ae5cbe96a7087536219c47fba07c",
+      "exists": true,
+      "bytes": 85142,
+      "sha256": "b0e03517d09e80a12e11aa98a116bd069338ae5cbe96a7087536219c47fba07c",
+      "matches_v3": true
+    },
+    {
+      "path": "P12_fallback/fulltext.xml",
+      "v3_sha256": "08c3846719737d3253d086b3a5175ff73ecf737576c7f54a1432eeace86ed148",
+      "exists": true,
+      "bytes": 136101,
+      "sha256": "08c3846719737d3253d086b3a5175ff73ecf737576c7f54a1432eeace86ed148",
+      "matches_v3": true
+    },
+    {
+      "path": "P12_fallback/supplementary.zip",
+      "v3_sha256": "81b8af8341d6d567f33a568f3f9ad4f26ed447911d4cc268a32e604fb5fccf44",
+      "exists": true,
+      "bytes": 2761536,
+      "sha256": "81b8af8341d6d567f33a568f3f9ad4f26ed447911d4cc268a32e604fb5fccf44",
+      "matches_v3": true
+    },
+    {
+      "path": "P12_fallback/supp/cc9-6-e1140-s001.pdf",
+      "v3_sha256": "ade2ff6ed53fec6ee10cd2fb42fa2745618de863ebe069f4b6eadb751e709098",
+      "exists": true,
+      "bytes": 3088264,
+      "sha256": "ade2ff6ed53fec6ee10cd2fb42fa2745618de863ebe069f4b6eadb751e709098",
+      "matches_v3": true
+    }
+  ],
+  "input_files": [
+    {
+      "path": "JOB.md",
+      "exists": true,
+      "bytes": 373,
+      "sha256": "3ec7d1df15c057bba8368332795f05ce42eff473f478aa1937bec6d2229b290c"
+    },
+    {
+      "path": "JOB_RULES.md",
+      "exists": true,
+      "bytes": 1554,
+      "sha256": "85c7c32f23782eacc2ea77e0f66a10e4836050f2729804e85954f2969e00655c"
+    },
+    {
+      "path": "V4.md",
+      "exists": true,
+      "bytes": 1312,
+      "sha256": "bf495c1b6b492c0425f68e97bfa7fbab5c8427c2c16c866377215178f01df8c2"
+    },
+    {
+      "path": "FREEZE_CRITERIA.md",
+      "exists": true,
+      "bytes": 2672,
+      "sha256": "5fd9d4707c7074f578367c944bc7d3c1d80681882bf315d333588431c8f152fb"
+    },
+    {
+      "path": "MAHMOOD_DECISIONS.md",
+      "exists": true,
+      "bytes": 1579,
+      "sha256": "3746d092b564deff140214d7386efe7543ff6557314fbcdd4c51e516f1679761"
+    },
+    {
+      "path": "COAUTHOR_LOAD.md",
+      "exists": true,
+      "bytes": 2921,
+      "sha256": "5f75de98175f4f5461bb7aaf303bc7e20159d9cab9c4ba5dceebe98c4abdf829"
+    },
+    {
+      "path": "PIN.txt",
+      "exists": true,
+      "bytes": 6667,
+      "sha256": "1f0c0b2f4c20dfc39484c62f4bb8641ab8e055ebeadcc352244fd87ec074bd09"
+    },
+    {
+      "path": "R_ENV.txt",
+      "exists": true,
+      "bytes": 273,
+      "sha256": "28d91df43696c4378ec0b96d1463088f46a3d1d5e1358ed1edbda0e459e54b3d"
+    },
+    {
+      "path": "NOVELTY_pc2_2026-10-28.json",
+      "exists": true,
+      "bytes": 14793,
+      "sha256": "54c69ad0ec27c6f16aec5e880266650c04bf62c2ca107276a474db97f94324d7"
+    },
+    {
+      "path": "NOVELTY_openalex_2026-10-28.json",
+      "exists": true,
+      "bytes": 11823,
+      "sha256": "05c3de75c25a627907fda403c1a671d4a363bcabec57b4ef58d375784e8140e2"
+    },
+    {
+      "path": "B_P12_V3/out/PREREG_P12_usecase.md",
+      "exists": true,
+      "bytes": 22327,
+      "sha256": "505e01583c1cc9b916d8678eda8a9f60c4d346ce7d1a9b120500371ad8ba8409"
+    },
+    {
+      "path": "B_P12_V3/out/SOURCE_CHECK_P12.md",
+      "exists": true,
+      "bytes": 12525,
+      "sha256": "5bf8d58a9cce7a385078261e6f31f0f87b51f2f9c895dabbb9bde27d35e76876"
+    },
+    {
+      "path": "B_P12_V3/out/CHANGELOG_P12.md",
+      "exists": true,
+      "bytes": 15457,
+      "sha256": "5140bc15484bcce0b38368dfe11beb90a74930bf1b40722d05b93fc854b8a4c8"
+    },
+    {
+      "path": "B_P12_V3/out/BLOCKERS_P12.md",
+      "exists": true,
+      "bytes": 4980,
+      "sha256": "e35238da95e78dd3fa69dbe8650bfe995ffe93a6df9b1ae2ad10f86e918c5ee9"
+    }
+  ],
+  "novelty_P12": {
+    "NOVELTY_pc2_2026-10-28.json": [
+      {
+        "paper": "P12",
+        "role": "primary",
+        "doi": "10.3390/nu14081600",
+        "date": "2026-10-28",
+        "src": "MED",
+        "id": "35458162",
+        "pmid": "35458162",
+        "title": "Probiotics for the Prevention of Ventilator-Associated Pneumonia: An Updated Systematic Review and Meta-Analysis of Randomised Controlled Trials.",
+        "cited_by": 28,
+        "citations_retrieved": 31,
+        "citations_hitcount": 31,
+        "flagged_citing_titles": [],
+        "pubmed_query": "(limit meta-analysis OR small-study OR publication bias OR reanalysis OR re-analysis) AND (\"Probiotics for the Prevention of Ventilator-Associated Pneum\")",
+        "pubmed_count": 7,
+        "pubmed_ids": [
+          "40469413",
+          "35155520",
+          "27885969",
+          "27538711",
+          "25344083",
+          "22797719",
+          "22343306"
+        ]
+      },
+      {
+        "paper": "P12",
+        "role": "fallback",
+        "doi": "10.1097/CCE.0000000000001140",
+        "date": "2026-10-28",
+        "src": "MED",
+        "id": "39162653",
+        "pmid": "39162653",
+        "title": "Impact of Rounding Checklists on the Outcomes of Patients Admitted to ICUs: A Systematic Review and Meta-Analysis.",
+        "cited_by": 4,
+        "citations_retrieved": 4,
+        "citations_hitcount": 4,
+        "flagged_citing_titles": [],
+        "pubmed_query": "(limit meta-analysis OR small-study OR publication bias OR reanalysis OR re-analysis) AND (\"Impact of Rounding Checklists on the Outcomes of Patients Ad\")",
+        "pubmed_count": 0,
+        "pubmed_ids": []
+      }
+    ],
+    "NOVELTY_openalex_2026-10-28.json": [
+      {
+        "paper": "P12",
+        "role": "primary",
+        "doi": "10.3390/nu14081600",
+        "openalex": "https://openalex.org/W4223940454",
+        "cited_by_count": 45,
+        "retrieved": 44,
+        "complete": true,
+        "error": null,
+        "flagged": []
+      },
+      {
+        "paper": "P12",
+        "role": "fallback",
+        "doi": "10.1097/CCE.0000000000001140",
+        "openalex": "https://openalex.org/W4401716073",
+        "cited_by_count": 3,
+        "retrieved": 3,
+        "complete": true,
+        "error": null,
+        "flagged": []
+      }
+    ]
+  },
+  "closure_limit": "Direct links and named loader targets inspected. Runtime closure, optional translations, browser requests, exports and synthetic parity remain untested. No archived corpus executed."
+}
