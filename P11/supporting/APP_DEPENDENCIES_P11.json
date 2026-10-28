@@ -1,0 +1,527 @@
+{
+  "checked_date": "2026-10-28",
+  "root": "allmeta@14dc545/",
+  "supplied_commit": "14dc545bcba87a02158b2f445c28450e7eaf6b89",
+  "commit_provenance": "JOB_RULES.md and PIN.txt; Git not executed",
+  "scope": "Static direct script/stylesheet references plus identified lazy resources. Not runtime/dependency-closure certification; no app or R execution. Existing validation corpora hashed only, never analyzed.",
+  "direct_reference_count": 26,
+  "files": [
+    {
+      "path": "influence/index.html",
+      "kind": "entry",
+      "parent": null,
+      "reference": null,
+      "exists": true,
+      "bytes": 61038,
+      "sha256": "48c65317a4090a7e72ea3b70cf177a1e77dbf2620a2eed1d1c5e9805c0773d25"
+    },
+    {
+      "path": "shared/forced-colors.css",
+      "kind": "stylesheet",
+      "parent": "influence/index.html",
+      "reference": "../shared/forced-colors.css",
+      "exists": true,
+      "bytes": 2440,
+      "sha256": "a967581cb9dfe03bcd6158264353dd8c3fff386d2919143587aa507a24e0c39c"
+    },
+    {
+      "path": "hub/app-style.css",
+      "kind": "stylesheet",
+      "parent": "influence/index.html",
+      "reference": "../hub/app-style.css",
+      "exists": true,
+      "bytes": 16443,
+      "sha256": "475254903d40eebe241574975f1ddff13808c8ad478c17137fda449a3952361f"
+    },
+    {
+      "path": "hub/shared/csv-upload.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "../hub/shared/csv-upload.js",
+      "exists": true,
+      "bytes": 10490,
+      "sha256": "6ce4702db911d2c193da4b775a10f8b748d4901ddcc98f0830bab7bd48db5384"
+    },
+    {
+      "path": "hub/shared/axis-controls.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "../hub/shared/axis-controls.js",
+      "exists": true,
+      "bytes": 3425,
+      "sha256": "1620bdc94620df10a41abe91c388de6a91f03367dd3719cb77ce2776ab553806"
+    },
+    {
+      "path": "hub/shared/results-export.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "../hub/shared/results-export.js",
+      "exists": true,
+      "bytes": 7910,
+      "sha256": "16ffa76bc74275565214c2e142d7f0d0847a5a8eded2614efb04aa172acd71f4"
+    },
+    {
+      "path": "hub/shared/url-state.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "../hub/shared/url-state.js",
+      "exists": true,
+      "bytes": 1584,
+      "sha256": "a704241f6c1faffaf33544d3c2059cc3d7d196c0dab39d91a3e006e315de1aa1"
+    },
+    {
+      "path": "hub/shared/reset-undo.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "../hub/shared/reset-undo.js",
+      "exists": true,
+      "bytes": 3375,
+      "sha256": "0ef224c3e8a53dca6364cdbdfa8a0f24dc5e0e8805180651781106e0a2af1ee8"
+    },
+    {
+      "path": "hub/shared/tooltips.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "../hub/shared/tooltips.js",
+      "exists": true,
+      "bytes": 8162,
+      "sha256": "cd9fd2d82a5d5402915737de9aaef7caa0f506ca0550e0f18f078c67b3078393"
+    },
+    {
+      "path": "shared/ma-core.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "../shared/ma-core.js",
+      "exists": true,
+      "bytes": 28889,
+      "sha256": "fef6ab267ec7fd5582e3431381f090daee11267010effc0858834d9e5fc44bc8"
+    },
+    {
+      "path": "shared/diagnostic-plots.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "../shared/diagnostic-plots.js",
+      "exists": true,
+      "bytes": 5290,
+      "sha256": "7d60231dca92b9db2486a197650fe0e8e0525e242b236482174865468fa2886c"
+    },
+    {
+      "path": "shared/build-info.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "../shared/build-info.js",
+      "exists": true,
+      "bytes": 1306,
+      "sha256": "44c8a7d1e2cdad4d4b1c4806cffdd4f9817dc39161cd0de5374761a71bd19177"
+    },
+    {
+      "path": "shared/ma-studies-v1.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "../shared/ma-studies-v1.js",
+      "exists": true,
+      "bytes": 26838,
+      "sha256": "0710fcb7284e1c837810e4d388d5538836d55483d6b014c6e7f864c44bf26bf6"
+    },
+    {
+      "path": "shared/truthcert-export.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "../shared/truthcert-export.js",
+      "exists": true,
+      "bytes": 9811,
+      "sha256": "d1cc2ff8584d2915bb0414e78e03ab22eccb68e4867a34193fe30ecfe6fdfefc"
+    },
+    {
+      "path": "shared/truthcert-ui.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "../shared/truthcert-ui.js",
+      "exists": true,
+      "bytes": 9438,
+      "sha256": "4326f44530fd523e183a24c5b8bf993b9594d10250ab24a3debc13f4bf251468"
+    },
+    {
+      "path": "shared/app-flow.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "../shared/app-flow.js",
+      "exists": true,
+      "bytes": 16214,
+      "sha256": "2b8e366dbdbf5aebffc70f0b25b1ac7a49d65cc4ecfd7c0807113b3b5556162e"
+    },
+    {
+      "path": "shared/canonical-datasets.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "../shared/canonical-datasets.js",
+      "exists": true,
+      "bytes": 14757,
+      "sha256": "32f5b35faff14429602f95a72d79ddc8b6864098e94c652a81cd537579770aca"
+    },
+    {
+      "path": "shared/hero-examples.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "../shared/hero-examples.js",
+      "exists": true,
+      "bytes": 5430,
+      "sha256": "7b091e4f08184b069b9c649a2cf04f19f440c37bd2de86d49d453f16791307f3"
+    },
+    {
+      "path": "shared/citation.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "../shared/citation.js",
+      "exists": true,
+      "bytes": 21281,
+      "sha256": "0160370671813e2995ff37f68d9b7e7b650f613012fb4208f31e52637cdd3961"
+    },
+    {
+      "path": "shared/autosave.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "../shared/autosave.js",
+      "exists": true,
+      "bytes": 9440,
+      "sha256": "18bcc6c10f6177482b2f8453bede3f92887d7e6729413862cc903891405d23e8"
+    },
+    {
+      "path": "hub/shared/plot-export.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "../hub/shared/plot-export.js",
+      "exists": true,
+      "bytes": 17798,
+      "sha256": "7533db659c89b328f20252fc2deaa1272d8473d00052d7b91a9732c24ee382cc"
+    },
+    {
+      "path": "influence/influence-extra.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "influence-extra.js",
+      "exists": true,
+      "bytes": 3405,
+      "sha256": "54a7c60ff2919a8a2a3b7e00738e3ada8c4fbabf84100210c925902aaddfa67c"
+    },
+    {
+      "path": "influence/r-script.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "r-script.js",
+      "exists": true,
+      "bytes": 8370,
+      "sha256": "f1b6a5cbeb7e490925696496e0ac3be2a083b563ca55422f7bc63197fae0e677"
+    },
+    {
+      "path": "hub/shared/analysis-lifecycle.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "../hub/shared/analysis-lifecycle.js",
+      "exists": true,
+      "bytes": 1686,
+      "sha256": "bdae7a0d966e9093b4234e697a8474e3e1757cde804f5893a880a0f9b2b4d9f7"
+    },
+    {
+      "path": "hub/shared/a11y-landmarks.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "../hub/shared/a11y-landmarks.js",
+      "exists": true,
+      "bytes": 1954,
+      "sha256": "a9b35c71c500b0fe4e5a080f23c9dbb11c5462663a0d44e4557f782149e5f8ea"
+    },
+    {
+      "path": "shared/alm-validate.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "../shared/alm-validate.js",
+      "exists": true,
+      "bytes": 17721,
+      "sha256": "b451c1377164842466aa0d7ad4cb6dd7a1340456a61e891a01646b4375c4ed87"
+    },
+    {
+      "path": "influence/validate/adapter.js",
+      "kind": "script",
+      "parent": "influence/index.html",
+      "reference": "validate/adapter.js",
+      "exists": true,
+      "bytes": 11640,
+      "sha256": "93e6ecb84ee41ee172f3b9e19cc5ae6c17a9f5af03d7bd92534869501ccb7fb3"
+    },
+    {
+      "path": "hub/shared/glossary.json",
+      "kind": "lazy English glossary",
+      "parent": "influence/index.html:874",
+      "reference": null,
+      "exists": true,
+      "bytes": 12569,
+      "sha256": "16e134407092859538b7c1215b8f40ae5c6ce8c4bae49c4cf953cf7260a228ce"
+    },
+    {
+      "path": "hub/shared/glossary.es.json",
+      "kind": "optional glossary",
+      "parent": "hub/shared/tooltips.js:_variantSrc",
+      "reference": null,
+      "exists": true,
+      "bytes": 14664,
+      "sha256": "d529dd603967580e038d5b272c794822de934bacb2363a36e3ad7d6b36df82d1"
+    },
+    {
+      "path": "hub/shared/glossary.ar.json",
+      "kind": "optional glossary",
+      "parent": "hub/shared/tooltips.js:_variantSrc",
+      "reference": null,
+      "exists": true,
+      "bytes": 17478,
+      "sha256": "0efb4eb408dc876da85c836b46d4fc6a92a43220027e1daf9cb5e18eddfff676"
+    },
+    {
+      "path": "hub/shared/glossary.zh.json",
+      "kind": "optional glossary",
+      "parent": "hub/shared/tooltips.js:_variantSrc",
+      "reference": null,
+      "exists": true,
+      "bytes": 11673,
+      "sha256": "896ec12cd34bfd7d2a37ec45b5318e716328d9a614b71aec25638515f0457034"
+    },
+    {
+      "path": "hub/shared/vendor/jspdf.min.js",
+      "kind": "lazy PDF export",
+      "parent": "hub/shared/plot-export.js:loadPdf",
+      "reference": null,
+      "exists": true,
+      "bytes": 364463,
+      "sha256": "98ccf17aa10c20bb1301762618fcc9b6ab3a4e7f26b6071d64d0b41154df3875"
+    },
+    {
+      "path": "shared/webr-runner.js",
+      "kind": "optional browser R runner",
+      "parent": "shared/alm-validate.js:runner",
+      "reference": null,
+      "exists": true,
+      "bytes": 21533,
+      "sha256": "89972c80b2565a13b94f9ed7b9fbf61bec6797203a7e75e63b789dd02c645827"
+    },
+    {
+      "path": "influence/validate/corpus/corpus.json",
+      "kind": "optional existing validation corpus; hash only",
+      "parent": "influence/validate/adapter.js:files",
+      "reference": null,
+      "exists": true,
+      "bytes": 377061,
+      "sha256": "9e911db8f01aa2d0df045dcb81f5bf20ba35364b66f2c96414d7ca1ddb048dfa"
+    },
+    {
+      "path": "influence/validate/corpus/reference.json",
+      "kind": "optional existing validation reference; hash only",
+      "parent": "influence/validate/adapter.js:files",
+      "reference": null,
+      "exists": true,
+      "bytes": 5461541,
+      "sha256": "5c9ca912fc04ff5375fb32b25f6c8fbf6cb114c77c53e2c903ef66cb6d423fca"
+    },
+    {
+      "path": "r-shiny/shinylive/webr/webr.mjs",
+      "kind": "optional browser R bundle entry",
+      "parent": "shared/webr-runner.js:_ensureWebR",
+      "reference": null,
+      "exists": false,
+      "bytes": null,
+      "sha256": null
+    },
+    {
+      "path": "r-shiny/shinylive/webr/repo/manifest.json",
+      "kind": "optional browser R package manifest",
+      "parent": "shared/webr-runner.js:_ensurePackages",
+      "reference": null,
+      "exists": false,
+      "bytes": null,
+      "sha256": null
+    }
+  ],
+  "PIN_checks": [
+    {
+      "path": "influence/README.md",
+      "expected_sha256": "e49e5e3029a54b7b0ab0e204ed0013e4316ae9ba0f6eec966d0b12b0da7d76e8",
+      "actual_sha256": "e49e5e3029a54b7b0ab0e204ed0013e4316ae9ba0f6eec966d0b12b0da7d76e8",
+      "matches": true
+    },
+    {
+      "path": "influence/RETROFIT_AUDIT.md",
+      "expected_sha256": "0b804254cebac0b425083784ba55dc44bb89f8826ed929cce0883a45ec8cfbf7",
+      "actual_sha256": "0b804254cebac0b425083784ba55dc44bb89f8826ed929cce0883a45ec8cfbf7",
+      "matches": true
+    },
+    {
+      "path": "influence/index.html",
+      "expected_sha256": "48c65317a4090a7e72ea3b70cf177a1e77dbf2620a2eed1d1c5e9805c0773d25",
+      "actual_sha256": "48c65317a4090a7e72ea3b70cf177a1e77dbf2620a2eed1d1c5e9805c0773d25",
+      "matches": true
+    },
+    {
+      "path": "influence/influence-extra.js",
+      "expected_sha256": "54a7c60ff2919a8a2a3b7e00738e3ada8c4fbabf84100210c925902aaddfa67c",
+      "actual_sha256": "54a7c60ff2919a8a2a3b7e00738e3ada8c4fbabf84100210c925902aaddfa67c",
+      "matches": true
+    },
+    {
+      "path": "influence/r-script.js",
+      "expected_sha256": "f1b6a5cbeb7e490925696496e0ac3be2a083b563ca55422f7bc63197fae0e677",
+      "actual_sha256": "f1b6a5cbeb7e490925696496e0ac3be2a083b563ca55422f7bc63197fae0e677",
+      "matches": true
+    },
+    {
+      "path": "influence/tests/sanity.spec.mjs",
+      "expected_sha256": "ae954b635fa9b684a9ea01a8424e39719c9b38cbbad374a0ff618b598625a96e",
+      "actual_sha256": "ae954b635fa9b684a9ea01a8424e39719c9b38cbbad374a0ff618b598625a96e",
+      "matches": true
+    },
+    {
+      "path": "influence/tests/test_against_metafor.py",
+      "expected_sha256": "39a9cecb981ec46a2bf5d0e0e85c5e8679ba9dc9bc1cfdce5a6f7958b22c2eb5",
+      "actual_sha256": "39a9cecb981ec46a2bf5d0e0e85c5e8679ba9dc9bc1cfdce5a6f7958b22c2eb5",
+      "matches": true
+    },
+    {
+      "path": "influence/tests/test_csv_upload.py",
+      "expected_sha256": "aad8dd6df0b58e27b32add8440da8c23ee4a5bf68d6e4907326ae30510e8bb1a",
+      "actual_sha256": "aad8dd6df0b58e27b32add8440da8c23ee4a5bf68d6e4907326ae30510e8bb1a",
+      "matches": true
+    },
+    {
+      "path": "influence/tests/test_export.py",
+      "expected_sha256": "d5ab1b8af1b345f0f7d1b35c795596f41fd6a26b04bdd37ec8db35aa2df9cf69",
+      "actual_sha256": "d5ab1b8af1b345f0f7d1b35c795596f41fd6a26b04bdd37ec8db35aa2df9cf69",
+      "matches": true
+    },
+    {
+      "path": "influence/tests/fixtures/inf-tiny.R",
+      "expected_sha256": "102810038ac78814ef2cdde4f6a900f7bca9b30ba064a0fbef91dac8c6c9de2e",
+      "actual_sha256": "102810038ac78814ef2cdde4f6a900f7bca9b30ba064a0fbef91dac8c6c9de2e",
+      "matches": true
+    },
+    {
+      "path": "influence/tests/fixtures/inf-tiny.csv",
+      "expected_sha256": "a8c56ff1dead8eb21d6f530b50d7590e6f21c87b5ed071587841804aedd03910",
+      "actual_sha256": "a8c56ff1dead8eb21d6f530b50d7590e6f21c87b5ed071587841804aedd03910",
+      "matches": true
+    },
+    {
+      "path": "influence/validate/MANIFEST.json",
+      "expected_sha256": "b8160b9488d3c91905c835de9293bc7e4f0d0137047a62577c896366b567adfc",
+      "actual_sha256": "b8160b9488d3c91905c835de9293bc7e4f0d0137047a62577c896366b567adfc",
+      "matches": true
+    },
+    {
+      "path": "influence/validate/README.md",
+      "expected_sha256": "99115b3ef434351a6148b376a890f888c73a4d1eed76865dcf8bb5bd1dffed14",
+      "actual_sha256": "99115b3ef434351a6148b376a890f888c73a4d1eed76865dcf8bb5bd1dffed14",
+      "matches": true
+    },
+    {
+      "path": "influence/validate/adapter.js",
+      "expected_sha256": "93e6ecb84ee41ee172f3b9e19cc5ae6c17a9f5af03d7bd92534869501ccb7fb3",
+      "actual_sha256": "93e6ecb84ee41ee172f3b9e19cc5ae6c17a9f5af03d7bd92534869501ccb7fb3",
+      "matches": true
+    },
+    {
+      "path": "influence/validate/corpus/corpus.json",
+      "expected_sha256": "9e911db8f01aa2d0df045dcb81f5bf20ba35364b66f2c96414d7ca1ddb048dfa",
+      "actual_sha256": "9e911db8f01aa2d0df045dcb81f5bf20ba35364b66f2c96414d7ca1ddb048dfa",
+      "matches": true
+    },
+    {
+      "path": "influence/validate/corpus/reference.json",
+      "expected_sha256": "5c9ca912fc04ff5375fb32b25f6c8fbf6cb114c77c53e2c903ef66cb6d423fca",
+      "actual_sha256": "5c9ca912fc04ff5375fb32b25f6c8fbf6cb114c77c53e2c903ef66cb6d423fca",
+      "matches": true
+    }
+  ],
+  "source_checks": [
+    {
+      "candidate": "Primary",
+      "path": "fulltext.xml",
+      "sha256": "ba6e2b2a7cfc00de298c4260ba19dcc55a5888352abb46ef0934edea240ad769",
+      "matches_v3": true
+    },
+    {
+      "candidate": "Primary",
+      "path": "supplementary.zip",
+      "sha256": "f60abf9630e95f12d470f52c4fca7271c1d830f9d02a9e8686bfb11bd9b8f70a",
+      "matches_v3": true
+    },
+    {
+      "candidate": "Primary",
+      "path": "supp/10916_2024_2059_MOESM1_ESM.docx",
+      "sha256": "3ea5aa4529fd4a489741ba153fc013b2b0bdb4b9a70e2519bdbf813ddfd8e2f9",
+      "matches_v3": true
+    },
+    {
+      "candidate": "Primary",
+      "path": "supp/10916_2024_2059_Fig2_HTML.jpg",
+      "sha256": "4d7f2afbf6806c3baa9ae3f461e2389c0e7a40a5a04727f435c8aa8a77483c57",
+      "matches_v3": true
+    },
+    {
+      "candidate": "Fallback",
+      "path": "fulltext.xml",
+      "sha256": "3adac89f564031af95750fdfaeda96f6f84f432b7dd8993169c91a566db2a651",
+      "matches_v3": true
+    },
+    {
+      "candidate": "Fallback",
+      "path": "supplementary.zip",
+      "sha256": "40e478d965cf1bc4c73ce9b70b17025d82005939a8c9b8dcfef14bb5535572b6",
+      "matches_v3": true
+    },
+    {
+      "candidate": "Fallback",
+      "path": "supp/10741_2019_9801_Fig2b_HTML.jpg",
+      "sha256": "98889289037b2c2d5a41756518d5510e4d1998f0635970e89caa7a89a5beae71",
+      "matches_v3": true
+    }
+  ],
+  "input_hashes": [
+    {
+      "path": "JOB.md",
+      "sha256": "575152746f8103bee3da229ad7f7c4e4fb40edc7b0c822a26a27e697a357204b"
+    },
+    {
+      "path": "JOB_RULES.md",
+      "sha256": "85c7c32f23782eacc2ea77e0f66a10e4836050f2729804e85954f2969e00655c"
+    },
+    {
+      "path": "V4.md",
+      "sha256": "bf495c1b6b492c0425f68e97bfa7fbab5c8427c2c16c866377215178f01df8c2"
+    },
+    {
+      "path": "FREEZE_CRITERIA.md",
+      "sha256": "5fd9d4707c7074f578367c944bc7d3c1d80681882bf315d333588431c8f152fb"
+    },
+    {
+      "path": "MAHMOOD_DECISIONS.md",
+      "sha256": "3746d092b564deff140214d7386efe7543ff6557314fbcdd4c51e516f1679761"
+    },
+    {
+      "path": "COAUTHOR_LOAD.md",
+      "sha256": "5f75de98175f4f5461bb7aaf303bc7e20159d9cab9c4ba5dceebe98c4abdf829"
+    },
+    {
+      "path": "B_P11_V3/out/PREREG_P11_usecase.md",
+      "sha256": "63d0cf0309c500353c896e535ac8abd9c5e1938953353c0aa17aedf78f2bd8c7"
+    },
+    {
+      "path": "B_P11_V3/out/BLOCKERS_P11.md",
+      "sha256": "2733400bb6388048113fd6b5e96060c1da8365c0aca5e858e947621bb2572882"
+    },
+    {
+      "path": "B_P11_V3/out/SOURCE_CHECK_P11.md",
+      "sha256": "ba698e2a4837d04c4a73ff773373bf02284dc4af44740e1e684ca4fd5eb7a2ba"
+    },
+    {
+      "path": "B_P11_V3/out/CHANGELOG_P11.md",
+      "sha256": "f0898bfdc18bb8de1e05052e6ab49507faba8225976f5c476068e2451a665c7e"
+    }
+  ]
+}

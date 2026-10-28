@@ -1,0 +1,23 @@
+{
+ "paper": "P11",
+ "frozen_utc": "2026-10-28T16:04:22+00:00",
+ "prereg_file": "PREREG_P11_usecase.md",
+ "prereg_sha256": "0ba88b74da4d151199254670405b4bff960b5ad5aef629bd028c222232c0457e",
+ "files_sha256": {
+  "PREREG_P11_usecase.md": "0ba88b74da4d151199254670405b4bff960b5ad5aef629bd028c222232c0457e",
+  "supporting/APP_DEPENDENCIES_P11.json": "64c31734fbbb61f80beabc600e8f0d2c619ac1b8c8c46604c6fe560b0a34c907",
+  "supporting/APP_EVIDENCE_P11.md": "4c71163808035ca68061d37c00abc1daa1e10d37e6a54ae4795395bc1d73411b",
+  "supporting/FREEZE_CRITERIA.md": "5fd9d4707c7074f578367c944bc7d3c1d80681882bf315d333588431c8f152fb",
+  "supporting/MAHMOOD_DECISIONS.md": "3746d092b564deff140214d7386efe7543ff6557314fbcdd4c51e516f1679761",
+  "supporting/NOVELTY_P11.json": "9068260f68a6e94a693c20bc1e6839221047554b4447d2c5204dee37d129ca59",
+  "supporting/NOVELTY_openalex_2026-10-28.json": "05c3de75c25a627907fda403c1a671d4a363bcabec57b4ef58d375784e8140e2",
+  "supporting/NOVELTY_pc2_2026-10-28.json": "54c69ad0ec27c6f16aec5e880266650c04bf62c2ca107276a474db97f94324d7",
+  "supporting/REDTEAM2_P11.md": "8b9a346a0d205aa6c65d4abdaf538d2697df490ad1b19b26b9a226f7ff7f04fe",
+  "supporting/SOURCE_CHECK_P11.md": "6b603158ba8720d9db839d6ad96e57d52842a6da101776da5885ba6779c08a86",
+  "supporting/V4_NOTES_P11.md": "f5c8d12b8f49165b5407d18efca6e0609c7ec938e109e81dcfcc325bdc50ffcb"
+ },
+ "app_pin": "allmeta 14dc545bcba87a02158b2f445c28450e7eaf6b89",
+ "r_env": "R 4.6.0; metafor 5.2.1; meta 8.5.0; metasens 1.5.3; dosresmeta 2.2.0; netmeta 3.7.0; clubSandwich 0.7.0; robumeta 2.1",
+ "redacted_files": 1,
+ "note": "Frozen before any data extraction or analysis. Extraction may start only after a GitHub release containing this FREEZE.json exists."
+}

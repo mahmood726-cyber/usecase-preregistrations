@@ -1,0 +1,107 @@
+{
+  "status": "Supplied 2026-10-28 screening records; P11-only verbatim record subsets, not a new search",
+  "logs": {
+    "NOVELTY_pc2_2026-10-28.json": {
+      "source_sha256": "54c69ad0ec27c6f16aec5e880266650c04bf62c2ca107276a474db97f94324d7",
+      "P11_records": [
+        {
+          "paper": "P11",
+          "role": "primary",
+          "doi": "10.1007/s10916-024-02059-x",
+          "date": "2026-10-28",
+          "src": "MED",
+          "id": "38594411",
+          "pmid": "38594411",
+          "title": "Patient Engagement with Conversational Agents in Health Applications 2016-2022: A Systematic Review and Meta-Analysis.",
+          "cited_by": 16,
+          "citations_retrieved": 18,
+          "citations_hitcount": 18,
+          "flagged_citing_titles": [],
+          "pubmed_query": "(influence OR leave-one-out OR reanalysis OR re-analysis) AND (\"Patient Engagement with Conversational Agents in Health Appl\")",
+          "pubmed_count": 0,
+          "pubmed_ids": []
+        },
+        {
+          "paper": "P11",
+          "role": "fallback",
+          "doi": "10.1007/s10741-019-09801-5",
+          "date": "2026-10-28",
+          "src": "MED",
+          "id": "31197564",
+          "pmid": "31197564",
+          "title": "Effectiveness of telemedicine systems for adults with heart failure: a meta-analysis of randomized controlled trials.",
+          "cited_by": 108,
+          "citations_retrieved": 108,
+          "citations_hitcount": 108,
+          "flagged_citing_titles": [],
+          "pubmed_query": "(influence OR leave-one-out OR reanalysis OR re-analysis) AND (\"Effectiveness of telemedicine systems for adults with heart \")",
+          "pubmed_count": 35,
+          "pubmed_ids": [
+            "42492086",
+            "42302267",
+            "42025450",
+            "41546594",
+            "41343488",
+            "41339988",
+            "40914701",
+            "40866121",
+            "40795329",
+            "40700468",
+            "40425261",
+            "40375424",
+            "40305086",
+            "40252361",
+            "40146698",
+            "39352400",
+            "38941600",
+            "38886688",
+            "41941558",
+            "37156577",
+            "36824014",
+            "35126625",
+            "34135043",
+            "32522097",
+            "30806625",
+            "30566211",
+            "27257094",
+            "26524699",
+            "25980711",
+            "24309587",
+            "23444424",
+            "22723612",
+            "21131605",
+            "20615815",
+            "20078015"
+          ]
+        }
+      ]
+    },
+    "NOVELTY_openalex_2026-10-28.json": {
+      "source_sha256": "05c3de75c25a627907fda403c1a671d4a363bcabec57b4ef58d375784e8140e2",
+      "P11_records": [
+        {
+          "paper": "P11",
+          "role": "primary",
+          "doi": "10.1007/s10916-024-02059-x",
+          "openalex": "https://openalex.org/W4394686921",
+          "cited_by_count": 34,
+          "retrieved": 34,
+          "complete": true,
+          "error": null,
+          "flagged": []
+        },
+        {
+          "paper": "P11",
+          "role": "fallback",
+          "doi": "10.1007/s10741-019-09801-5",
+          "openalex": "https://openalex.org/W2952943844",
+          "cited_by_count": 171,
+          "retrieved": 171,
+          "complete": true,
+          "error": null,
+          "flagged": []
+        }
+      ]
+    }
+  }
+}
