@@ -1,0 +1,26 @@
+{
+ "paper": "P08",
+ "frozen_utc": "2026-10-28T18:41:01+00:00",
+ "prereg_file": "PREREG_P08_usecase.md",
+ "prereg_sha256": "d281d0b7ebd6aa314ff21c2569dce185013157dc6b0c0b90b0d3c6b5bcc63d9f",
+ "files_sha256": {
+  "PREREG_P08_usecase.md": "d281d0b7ebd6aa314ff21c2569dce185013157dc6b0c0b90b0d3c6b5bcc63d9f",
+  "supporting/APP_CHECK_P08.md": "5a2c0215a7e09c01170e6ce669ae71afda8c69e777f26b28959b7c53cdb068c6",
+  "supporting/FILE_HASHES_P08.json": "04000998fabdb09ab7c097fd57ffa9a5a433aa1ca22573dc014b2e00f0618b03",
+  "supporting/FREEZE_CRITERIA.md": "5fd9d4707c7074f578367c944bc7d3c1d80681882bf315d333588431c8f152fb",
+  "supporting/MAHMOOD_DECISIONS.md": "6d400ca1963b4df8d3d6b0c1e10c9a28485e051f6f0f0beca07185451fc945a5",
+  "supporting/NOVELTY_openalex_2026-10-28.json": "05c3de75c25a627907fda403c1a671d4a363bcabec57b4ef58d375784e8140e2",
+  "supporting/NOVELTY_pc2_2026-10-28.json": "54c69ad0ec27c6f16aec5e880266650c04bf62c2ca107276a474db97f94324d7",
+  "supporting/REDTEAM2_P08.md": "ada40afc3fba3c2a1f41fef0bc787119809f07b796442deda525be48df8b3221",
+  "supporting/SOURCE_CHECK_P08.md": "d93a7a22cd0f1f4b6e53f199ae7b98c811c125e66f0f8bdcb05ec76418ef17ac",
+  "supporting/V4_NOTES_P08.md": "165612461043e82232063231db18fb21280f2319bad54f32f62c2a4362bc2a32",
+  "supporting/VERIFICATION_P08.md": "6537ddfd5ddd37f938c3d30e16a9419e6045e6eaa620d685e7a3d7dacfa6ab1b",
+  "supporting/audit_v4.py": "f037083f1abc7a33168db5014debaca115687e8f4c1c81fe99f78faabf5d47d7",
+  "supporting/capture_app_P08.js": "1c5260351cbfca0d3984e40e884a965c99e78a4edc7571bc21493f010d5c33fc",
+  "supporting/reference_P08.R": "098ea74ed641ff325ab4d759eaff6234196c4add90c2474e52f3cf10cecb754c"
+ },
+ "app_pin": "allmeta 14dc545bcba87a02158b2f445c28450e7eaf6b89",
+ "r_env": "R 4.6.0; metafor 5.2.1; meta 8.5.0; metasens 1.5.3; dosresmeta 2.2.0; netmeta 3.7.0; clubSandwich 0.7.0; robumeta 2.1",
+ "redacted_files": 2,
+ "note": "Frozen before any data extraction or analysis. Extraction may start only after a GitHub release containing this FREEZE.json exists."
+}
