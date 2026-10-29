@@ -1,10 +1,10 @@
 {
  "pilot": "P14",
- "frozen_utc": "2026-10-28T09:11:00+00:00",
+ "frozen_utc": "2026-10-29T07:37:26+00:00",
  "prereg_file": "PREREG_P14_usecase.md",
- "prereg_sha256": "31f51d8b431a0355df216a355891bdb76f2a7f34880aee916c27f52ecc0d7aa9",
+ "prereg_sha256": "e317653650f28c300ee475e7b19e2f4a2c94075db728bff1e4f79e5548aaf05d",
  "files_sha256": {
-  "PREREG_P14_usecase.md": "31f51d8b431a0355df216a355891bdb76f2a7f34880aee916c27f52ecc0d7aa9",
+  "PREREG_P14_usecase.md": "e317653650f28c300ee475e7b19e2f4a2c94075db728bff1e4f79e5548aaf05d",
   "supporting/RULES_TA.md": "b3e793e6084326ead826889cdabf9082a5f8b8799e5a322349c8474f45072b2d",
   "supporting/RULES_FT.md": "7336408c5c56f4d00179d36d2ffd3c68e454de142f081eff3ca84107787b9844",
   "supporting/RULES_D.md": "64593bc05a3fe795b363d4473e2c69ab5279e0719ec86e893f9040ab8a78721c",
