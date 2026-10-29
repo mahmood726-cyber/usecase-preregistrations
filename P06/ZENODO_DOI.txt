@@ -1,0 +1,6 @@
+Zenodo DOI: 10.5281/zenodo.23757726
+Release: https://github.com/mahmood726-cyber/usecase-preregistrations/releases/tag/p14-p06-v1.0
+Release published: 2026-10-29T07:40:22Z (GitHub server time)
+Zenodo record created: 2026-10-29T07:40:27Z
+Archived commit: e79e6d4ffed5c621b017ad915466c53ee71f05a2
+Frozen: 2026-10-29T07:37:26Z (see FREEZE.json)
