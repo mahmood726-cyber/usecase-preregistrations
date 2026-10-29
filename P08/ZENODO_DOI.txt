@@ -1,0 +1,3 @@
+10.5281/zenodo.23756758
+https://doi.org/10.5281/zenodo.23756758
+Minted by Zenodo for GitHub release P08-usecase-v1.1 (published 2026-10-29T06:52:30Z), an archival re-release of P08-usecase-v1 (2026-10-28T18:41:06Z) from the same frozen commit 4e8a0036. Added after the release; not part of FREEZE.json.
