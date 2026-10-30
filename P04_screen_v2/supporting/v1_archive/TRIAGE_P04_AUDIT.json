@@ -1,0 +1,98 @@
+{
+  "paper": "P04",
+  "job_type": "TRIAGE",
+  "completed_utc": "2026-10-28T22:02:14.273179+00:00",
+  "source": "frame_P04.jsonl only; no internet, full text, trial data, results or other extractor output used",
+  "frame_sha256": "fef70cafb5a84c329c62b8b8122d2c634e5a43301455c1c5065a7bbe4053063f",
+  "frame_count": 561,
+  "frozen_files_sha256": {
+    "PREREG_P04_screen.md": "7681079c5ad884f301f1403a60d68109477978754c44dbac3b6df2e27c02c3a9",
+    "screen_P04.py": "38edd6e943daf2f5bc7dfb1eb12ccf719bfdd34e3056baa5e344c1a146e846d7",
+    "supporting/MAHMOOD_DECISIONS.md": "571469f9c90265398f479ac322ea426977674ee14806ee14fd9f90abeac8028f",
+    "supporting/synthetic_test_screen_P04.py": "32bf6613e6903d98f4c5a258612ba9f3d4e03a53333760ea2558423b0de0521e",
+    "supporting/synthetic_validation_P04_screen.md": "f83e969bc65212d28d9d7e83d279cb00eee34827a6a824646962a28d3b2ade14"
+  },
+  "all_frozen_hashes_match": true,
+  "ordering": {
+    "seed": "2026102804",
+    "input_template": "2026102804|P04|screen|<canonical_doi>",
+    "digest": "SHA-256 of UTF-8, lowercase hexadecimal",
+    "sort": [
+      "digest ascending",
+      "canonical DOI ascending"
+    ],
+    "all_561_hashes_ranks_physical_order_and_unique_dois_verified": true,
+    "offline_frozen_ordered_frame_reconstruction_exact_match": true
+  },
+  "visited_count": 21,
+  "visited_ranks": [
+    1,
+    21
+  ],
+  "disposition_counts": {
+    "EXCLUDED_TA": 9,
+    "TO_FULL_TEXT": 12
+  },
+  "to_full_text_ranks": [
+    2,
+    5,
+    6,
+    7,
+    9,
+    11,
+    14,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "stop_reason": "Twelfth TO_FULL_TEXT reached at rank 21; the preceding 20 records contain 11 referrals.",
+  "unvisited_count": 540,
+  "unvisited_rank_range": [
+    22,
+    561
+  ],
+  "all_original_frame_statuses_preserved": "UNSCREENED",
+  "stopping_authority": "TRIAGE.md step 3 explicitly requests 12 Stage-A referrals. PREREG_P04_screen.md section 3 states a five completed candidate-screening disposition cap. This job followed the explicit Stage-A instruction; no full-screen gate sheets or candidate selection were completed.",
+  "title_policy": "Preserve source titles verbatim, including HTML entities. Exclude explicit title-level design/scope failures; refer uncertain records for full-text resolution. No journal, citation, effect-size or treatment-ranking filter applied.",
+  "metadata_checks": "Frozen canonical DOI, date window, positive OA flag and prior-DOI exclusion rules all verified using the frozen script offline. OA indexing was not treated as licence clearance.",
+  "source_ambiguities": [
+    {
+      "location": "frame_P04.jsonl lines 1-21, records[*]; confirmed frame-wide in lines 1-561",
+      "issue": "No abstracts are present in the supplied metadata. Stage A therefore used titles and available bibliographic metadata only. No abstract or outcome-specific k was retrieved or inferred."
+    },
+    {
+      "location": "frame_P04.jsonl lines 2, 5 and 21, records[0].title",
+      "issue": "Pharmacological intervention content or regimen composition is not established by the title; referred for full-text confirmation."
+    },
+    {
+      "location": "frame_P04.jsonl lines 6, 18 and 19, records[0].title",
+      "issue": "Original NMA design is not established unambiguously by the title. Line 19 may describe an assessment of existing reviews; line 18 also leaves the diabetes-specific population/network uncertain. Referred for full-text confirmation."
+    },
+    {
+      "location": "frame_P04.jsonl line 9, records[0].title",
+      "issue": "The title includes diabetic macular edema and age-related macular degeneration; a separable diabetes-specific network requires confirmation."
+    },
+    {
+      "location": "frame_P04.jsonl line 18, records[0].title",
+      "issue": "A title-wide trial count does not establish the required outcome-specific k and was not used for k eligibility."
+    }
+  ],
+  "data_rows_extracted": 0,
+  "not_reported_extraction_values": 0,
+  "not_reported_count_definition": "No data extraction or extraction fields were created. Absent abstracts and outcome-specific k are screening evidence gaps, documented in reasons; no codebook NR values were instantiated.",
+  "outputs_sha256": {
+    "TRIAGE_P04.jsonl": "6741b0afd2a02a42b4fce44d47e791131bdfc4c24bdc9d6f7cd9f7d93d197e15",
+    "TO_FULL_TEXT_P04.json": "7c85a5f8d26a43d48391141a15134c0d879bec4d08dc3a3bebd9dc97ae9cedc8"
+  },
+  "output_checks": [
+    "21 contiguous ranks in seeded order",
+    "9 EXCLUDED_TA and 12 TO_FULL_TEXT",
+    "exact six-field triage schema",
+    "DOIs and titles equal frame values",
+    "every reason has a frame line and field locator",
+    "ordered 12-entry DOI/PMCID queue equals referred rows",
+    "stopping point checked"
+  ]
+}
