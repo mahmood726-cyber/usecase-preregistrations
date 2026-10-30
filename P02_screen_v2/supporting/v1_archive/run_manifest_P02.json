@@ -1,0 +1,47 @@
+{
+  "paper": "P02",
+  "seed": "2026102802",
+  "started_at_utc": "2026-10-28T21:54:48.541104Z",
+  "status": "COMPLETE",
+  "candidate_screening_performed": false,
+  "discovery_sources": [
+    "europe_pmc"
+  ],
+  "release_receipt": {
+    "script_sha256": "fbb9fd412238f300d2194471afb832fa4f423c120ade2995a6a4e763cfdd78e5",
+    "prereg_sha256": "2ef781586f0c3bcd153e96316a633e544a122b0943693c94e9d173421d6c7ec4",
+    "github_release_url": "https://github.com/mahmood726-cyber/usecase-preregistrations/releases/tag/P02-screen-v1",
+    "zenodo_doi": "PENDING",
+    "released_at_utc": "2026-10-28T21:54:09Z"
+  },
+  "queries": [
+    {
+      "query_id": "EPMC-1",
+      "reported_count": 1838,
+      "retrieved_count": 1838,
+      "pages": 2,
+      "complete": true
+    }
+  ],
+  "date_window": [
+    "2016-10-28",
+    "2026-10-28"
+  ],
+  "excluded_dois": [
+    "10.1016/j.envint.2020.105739",
+    "10.1016/j.envint.2020.105746",
+    "10.1136/bmj.j5855",
+    "10.1186/s13643-025-02800-8",
+    "10.3390/nu14010174"
+  ],
+  "raw_record_count": 1838,
+  "frame_count": 1798,
+  "metadata_exclusion_count": 40,
+  "full_screens_planned": 5,
+  "ended_at_utc": "2026-10-28T21:55:01.719343Z",
+  "output_hashes": {
+    "query_log_P02.jsonl": "e24b153b77b0c8d4b05bc641fe5f78a87ab70b11cdf0820ad45a43cdd086eda7",
+    "frame_P02.jsonl": "c2aad90cf12b746b9de40dd5a88113ab43eccddb23c406f33008e53a7eff1a04",
+    "metadata_exclusions_P02.jsonl": "dbcef6bae96f86fbdb7aa108d5393bb06f288c45ffe0245229a8c33d81973c2d"
+  }
+}
