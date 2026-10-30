@@ -34,6 +34,10 @@ V1_INVENTORY = [{'rank': 1, 'doi': '10.1136/bmjopen-2026-117508', 'disposition':
 V1_FULLSCREEN = frozenset(['10.1016/j.eclinm.2023.102308', '10.7717/peerj.20570', '10.1038/s41598-019-38723-3', '10.1093/ajcn/nqz178', '10.1038/s41598-020-76306-9'])
 V1_DEFERRED = ['10.1186/s12889-018-5041-5', '10.1186/s12884-020-03036-1', '10.3389/fphys.2022.955702', '10.1002/fsn3.72357', '10.1016/j.eclinm.2026.103847', '10.1186/s40795-025-01152-9', '10.1161/jaha.124.038714']
 V1_TERMINAL_TA = frozenset(x["doi"] for x in V1_INVENTORY if x["disposition"] == "EXCLUDED_TA")
+# Pre-release correction B2-S (2026-10-30): the archive is the COMPLETE original v1 frame
+# (SHA-256 c2aad90cf12b746b9de40dd5a88113ab43eccddb23c406f33008e53a7eff1a04). Ranks 1-16
+# are the triaged inventory; ranks 17-1,798 were never triaged and are not in Option A's queue.
+V1_FRAME_RECORD_COUNT = 1798
 EXCLUDED = HISTORICAL_EXCLUDED | V1_FULLSCREEN | V1_TERMINAL_TA
 
 EPMC_QUERY = (
@@ -288,19 +292,25 @@ def write_jsonl(path, rows):
 
 
 def validate_v1_rows(rows):
-    """Reconcile archived metadata, not candidate eligibility."""
-    expected = {x["doi"]: x for x in V1_INVENTORY}
-    if len(rows) != len(expected):
-        raise FrameError("Archived v1 frame is not the documented 16-record inventory; reconcile before release")
+    """Reconcile archived metadata, not candidate eligibility.
+
+    The input is the complete original v1 frame. A reconstructed 16-row cut is refused."""
+    if len(rows) != V1_FRAME_RECORD_COUNT:
+        raise FrameError("Archived v1 frame is not the complete original frame "
+                         f"({V1_FRAME_RECORD_COUNT} records); a cut or rebuilt frame is refused")
+    if len(V1_INVENTORY) > len(rows):
+        raise FrameError("Archived v1 frame is shorter than the triaged inventory")
     seen = set()
     prior = None
     for rank, row in enumerate(rows, 1):
         doi = row.get("doi")
-        if normalize_doi(doi) != doi or doi not in expected or doi in seen:
-            raise FrameError("Unexpected, invalid or duplicate v1 DOI; reconcile before release")
+        if normalize_doi(doi) != doi or doi in seen:
+            raise FrameError("Invalid or duplicate v1 DOI; reconcile before release")
+        if rank <= len(V1_INVENTORY) and V1_INVENTORY[rank - 1]["doi"] != doi:
+            raise FrameError("Unexpected v1 DOI in the triaged inventory ranks; reconcile before release")
         seen.add(doi)
         digest = order_hash(doi, V1_SEED)
-        if row.get("frame_rank") != rank or expected[doi]["rank"] != rank:
+        if row.get("frame_rank") != rank:
             raise FrameError("v1 archived rank differs from retained triage evidence")
         if row.get("order_sha256") != digest:
             raise FrameError("v1 archived ordering digest mismatch")
@@ -424,9 +434,12 @@ def execute(out_dir, receipt, option, v1_rows, fetch=fetch_json, pace=True):
                 stream.flush()
             if option == "A":
                 frame = continuation_frame(v1_rows)
+                triaged = {x["doi"] for x in V1_INVENTORY}
                 exclusions = [
                     {"doi": r["doi"], "v1_frame_rank": r["frame_rank"],
-                     "reason": "v1_terminal_screen", "metadata": r.get("metadata", [])}
+                     "reason": ("v1_terminal_screen" if r["doi"] in triaged
+                                else "v1_never_triaged_outside_option_A_queue"),
+                     "metadata": r.get("metadata", [])}
                     for r in v1_rows if r["doi"] not in V1_DEFERRED
                 ]
                 emit({"event": "archived_v1_continuation", "network_requests": 0,

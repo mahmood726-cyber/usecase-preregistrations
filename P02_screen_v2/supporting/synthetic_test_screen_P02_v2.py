@@ -35,8 +35,10 @@ def fake_fetch(pages):
     return lambda url: (next(queue), {"fixture_label": LABEL})
 
 
-def synthetic_archive():
-    dois = sorted((f"10.9999/synthetic-archive-{i}" for i in range(16)),
+def synthetic_archive(extra=0):
+    # extra > 0 gives a complete-frame-shaped archive: 16 triaged rows followed by
+    # `extra` never-triaged rows, like the real 1,798-row v1 frame (B2-S).
+    dois = sorted((f"10.9999/synthetic-archive-{i}" for i in range(16 + extra)),
                   key=lambda d: (m.order_hash(d, m.V1_SEED), d))
     rows = [dict(fixture_label=LABEL, doi=d, frame_rank=i,
                  order_sha256=m.order_hash(d, m.V1_SEED),
@@ -44,9 +46,10 @@ def synthetic_archive():
             for i, d in enumerate(dois, 1)]
     inventory = [dict(rank=i, doi=d,
                       disposition="EXCLUDED_TA" if 6 <= i <= 9 else "TO_FULL_TEXT")
-                 for i, d in enumerate(dois, 1)]
+                 for i, d in enumerate(dois[:16], 1)]
     return rows, dict(V1_INVENTORY=inventory, V1_FULLSCREEN=frozenset(dois[:5]),
-                      V1_TERMINAL_TA=frozenset(dois[5:9]), V1_DEFERRED=dois[9:],
+                      V1_TERMINAL_TA=frozenset(dois[5:9]), V1_DEFERRED=dois[9:16],
+                      V1_FRAME_RECORD_COUNT=16 + extra,
                       HISTORICAL_EXCLUDED=frozenset(), EXCLUDED=frozenset(dois[:9]))
 
 
@@ -137,7 +140,7 @@ class SyntheticTests(unittest.TestCase):
 
     def test_original_archive_validation_and_option_A(self):
         rows, overrides = synthetic_archive()
-        with patch.multiple(m, **overrides):
+        with patch.multiple(m, create=True, **overrides):
             self.assertEqual(m.validate_v1_rows(rows), rows)
             continued = m.continuation_frame(rows)
             self.assertEqual([r["doi"] for r in continued], overrides["V1_DEFERRED"])
@@ -152,10 +155,52 @@ class SyntheticTests(unittest.TestCase):
                      [{**r, "order_sha256": "0"*64} if i == 0 else r for i,r in enumerate(rows)],
                      [{**r, "frame_rank": 2} if i == 0 else r for i,r in enumerate(rows)],
                      [rows[1], rows[0]] + rows[2:]]
-        with patch.multiple(m, **overrides):
+        with patch.multiple(m, create=True, **overrides):
             for bad in bad_cases:
                 with self.assertRaises(m.FrameError):
                     m.validate_v1_rows(bad)
+
+    def test_complete_frame_shaped_archive_is_accepted_for_option_A(self):
+        # B2-S: the protocol's required input is the complete original v1 frame
+        # (1,798 rows), not a 16-row file. Its 16 triaged rows lead the archive.
+        rows, overrides = synthetic_archive(extra=8)
+        self.assertEqual(len(rows), 24)
+        with patch.multiple(m, create=True, **overrides):
+            self.assertEqual(m.validate_v1_rows(rows), rows)
+            continued = m.continuation_frame(rows)
+            self.assertEqual([r["doi"] for r in continued], overrides["V1_DEFERRED"])
+            self.assertEqual([r["v1_frame_rank"] for r in continued], list(range(10, 17)))
+            self.assertEqual(sum(r["within_five_screen_limit"] for r in continued), 5)
+
+    def test_sixteen_row_cut_and_bad_untriaged_rows_are_refused(self):
+        rows, overrides = synthetic_archive(extra=8)
+        bad_cases = [rows[:16],  # a reconstructed 16-row cut of the complete frame
+                     rows[:-1],
+                     [{**r, "order_sha256": "0"*64} if i == 20 else r for i, r in enumerate(rows)],
+                     [{**r, "frame_rank": 99} if i == 20 else r for i, r in enumerate(rows)],
+                     rows[:20] + [rows[21], rows[20]] + rows[22:],
+                     rows[:20] + [rows[3]] + rows[21:]]
+        with patch.multiple(m, create=True, **overrides):
+            for bad in bad_cases:
+                with self.assertRaises(m.FrameError):
+                    m.validate_v1_rows(bad)
+
+    def test_option_A_never_labels_untriaged_rows_as_terminal_screens(self):
+        result, streams, rows, overrides = self.run_memory(
+            "A", lambda url: self.fail("Option A must not fetch"), extra=8)
+        self.assertEqual(result["status"], "COMPLETE")
+        self.assertEqual(result["frame_count"], 7)
+        exclusions = [json.loads(s) for s in
+                      streams["metadata_exclusions_P02_v2.jsonl"].getvalue().splitlines()]
+        reasons = {x["doi"]: x["reason"] for x in exclusions}
+        triaged = {x["doi"] for x in overrides["V1_INVENTORY"]}
+        for row in rows:
+            if row["doi"] in overrides["V1_DEFERRED"]:
+                self.assertNotIn(row["doi"], reasons)
+            elif row["doi"] in triaged:
+                self.assertEqual(reasons[row["doi"]], "v1_terminal_screen")
+            else:
+                self.assertEqual(reasons[row["doi"]], "v1_never_triaged_outside_option_A_queue")
 
     def test_archive_byte_hash_mismatch(self):
         body = b'{"fixture_label":"SYNTHETIC - not data"}\n'
@@ -211,8 +256,8 @@ class SyntheticTests(unittest.TestCase):
                 with self.assertRaises(m.FrameError):
                     m.check_release("synthetic_receipt.json", "A")
 
-    def run_memory(self, option, fetch):
-        rows, overrides = synthetic_archive()
+    def run_memory(self, option, fetch, extra=0):
+        rows, overrides = synthetic_archive(extra)
         streams = {}
         def memory_open(path, mode="r", *args, **kwargs):
             self.assertEqual(mode, "x")
@@ -220,7 +265,7 @@ class SyntheticTests(unittest.TestCase):
             streams[path.name] = stream
             return stream
         receipt = self.synthetic_receipt(option)
-        with patch.multiple(m, **overrides), \
+        with patch.multiple(m, create=True, **overrides), \
              patch.object(Path, "open", memory_open), \
              patch.object(Path, "exists", return_value=False), \
              patch.object(Path, "mkdir", return_value=None):
@@ -261,7 +306,7 @@ class SyntheticTests(unittest.TestCase):
 
     def test_output_containment_and_overwrite_refusal(self):
         rows, overrides = synthetic_archive()
-        with patch.multiple(m, **overrides):
+        with patch.multiple(m, create=True, **overrides):
             with self.assertRaises(m.FrameError):
                 m.execute(ROOT.parent, self.synthetic_receipt("A"), "A", rows)
             with patch.object(Path, "exists", return_value=True):
