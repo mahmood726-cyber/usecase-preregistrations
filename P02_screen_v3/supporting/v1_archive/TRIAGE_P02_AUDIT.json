@@ -1,0 +1,67 @@
+{
+  "paper": "P02",
+  "stage": "TRIAGE stage A only",
+  "frame_sha256": "c2aad90cf12b746b9de40dd5a88113ab43eccddb23c406f33008e53a7eff1a04",
+  "frame_records": 1798,
+  "freeze_hashes_verified": {
+    "PREREG_P02_screen.md": "2ef781586f0c3bcd153e96316a633e544a122b0943693c94e9d173421d6c7ec4",
+    "screen_P02.py": "fbb9fd412238f300d2194471afb832fa4f423c120ade2995a6a4e763cfdd78e5",
+    "supporting/MAHMOOD_DECISIONS.md": "571469f9c90265398f479ac322ea426977674ee14806ee14fd9f90abeac8028f",
+    "supporting/synthetic_screen_P02_checks.md": "6740e13689a6cb83256413215d53bd3055dd094d61680041dbcd60da7dd6d272",
+    "supporting/synthetic_test_screen_P02.py": "34717afe59ef4e6b162177cf05d3181f84e012449e820834cb3b27056ff95803"
+  },
+  "seed": "2026102802",
+  "order": "Ascending SHA-256 of UTF-8 2026102802|P02|screen|<normalized doi>, then normalized DOI",
+  "all_order_hashes_ranks_file_sequence_and_five_screen_flags_match": true,
+  "visited_records": 16,
+  "disposition_counts": {
+    "EXCLUDED_TA": 4,
+    "TO_FULL_TEXT": 12
+  },
+  "stop_rank": 16,
+  "stop_reason": "Twelfth TO_FULL_TEXT referral reached (TRIAGE.md step 3)",
+  "unscreened_records": 1782,
+  "full_screen_dispositions_completed": 0,
+  "extraction_rows": 0,
+  "not_reported_extraction_values": 0,
+  "not_reported_scope": "No extraction fields were created. Missing abstracts/k are screening limitations, not imputed extraction values.",
+  "internet_used": false,
+  "candidate_full_text_or_results_inspected": false,
+  "stage_scope": "TRIAGE.md authorizes up to 12 stage-A referrals. The preregistration five-full-screen ceiling and within_five_screen_limit flags are not a five-row stage-A stop. No full screens, selection, extraction, novelty checks or analyses were performed.",
+  "source_ambiguities": [
+    {
+      "location": "frame_P02.jsonl lines 1-16, metadata; P02_screen/screen_P02.py lines 81-98",
+      "issue": "No abstracts or synthesis-specific k; publication types often do not specify observational versus trial design.",
+      "handling": "Retain unresolved eligibility for full-text confirmation. Treatment, exercise or supplementation wording alone is not proof of trial-only design. A referral is not a G1 pass."
+    },
+    {
+      "location": "frame_P02.jsonl line 6, metadata[0].title",
+      "issue": "Randomized trials and prospective cohorts both named; separability unknown.",
+      "handling": "TO_FULL_TEXT; do not assume an inseparable mixture or switch designated targets."
+    },
+    {
+      "location": "frame_P02.jsonl line 10, metadata[0].title/type",
+      "issue": "Primary-only versus aggregate meta-analysis design unresolved.",
+      "handling": "TO_FULL_TEXT; absence of meta-analysis wording is not proof of primary-only design."
+    },
+    {
+      "location": "frame_P02.jsonl line 15, metadata[0].title/type",
+      "issue": "Declared umbrella review of systematic reviews, with no own qualifying study/cohort input set identified in the supplied metadata.",
+      "handling": "EXCLUDED_TA on declared umbrella-summary design; no full-text input inspection claimed."
+    },
+    {
+      "location": "P02_screen/screen_P02.py line 97; frame_P02.jsonl lines 1-16, metadata[0].is_retracted",
+      "issue": "Frozen script supplies is_retracted=false by default.",
+      "handling": "Do not infer independent retraction clearance; later G1 check required."
+    },
+    {
+      "location": "P02_screen/PREREG_P02_screen.md line 3; JOB.md final paragraph; P02_screen/FREEZE.json",
+      "issue": "Historical draft wording remains although JOB.md states release P02-screen-v1 exists.",
+      "handling": "Rely on explicit job authorization and matching frozen hashes; no network release check."
+    }
+  ],
+  "output_sha256": {
+    "TRIAGE_P02.jsonl": "8b77a09e754bee56f58e0ce4f49a865715077f3055f92a624e1f69e4ebf38c6f",
+    "TO_FULL_TEXT_P02.json": "8638f258b64e43d0dc34dfb2d8bbb4e6419f62fbd124999833b4a2c8a9edfc2e"
+  }
+}

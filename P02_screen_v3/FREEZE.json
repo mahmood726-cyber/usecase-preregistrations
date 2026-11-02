@@ -1,0 +1,27 @@
+{
+ "paper": "P02",
+ "kind": "screening preregistration v3 (two-stage: Stage F feasibility, Stage S full gates)",
+ "frozen_utc": "2026-11-02T18:58:37+00:00",
+ "prereg_sha256": "277a986665650a3d048f8de3686e06c5fcb641e974ee6a547d9578005d320f49",
+ "script_sha256": "5bceae31930531727ce84230d376eaed4c205ff05493be8de82eb0874790b004",
+ "v1_frame_sha256": "c2aad90cf12b746b9de40dd5a88113ab43eccddb23c406f33008e53a7eff1a04",
+ "field_protocol_sha256": "4f6e05206d46059cdbb9bcc6c8a34ac47ebad6e7bb7483e5a5398b6037ce9bac",
+ "expected_stage_f_queue_sha256": "d5dba663e5247cf834ef3a3978b49db5d4406642d546410e6f06a5756d98fd58",
+ "files_sha256": {
+  "PREREG_P02_screen_v3_DRAFT.md": "277a986665650a3d048f8de3686e06c5fcb641e974ee6a547d9578005d320f49",
+  "screen_P02_v3.py": "5bceae31930531727ce84230d376eaed4c205ff05493be8de82eb0874790b004",
+  "supporting/CHANGES_v2_to_v3.md": "62656fd9c0c300a74cd5d5ac1f4fa564e470ed3088e90f1db0659b8b94abb2d5",
+  "supporting/DECISION_v3_2026-11-02.md": "dacbc413a54114d254243eebb86b7d3416096bfa23ac4295a419c6fcb9c7fe7a",
+  "supporting/FIELD_USE_CASE_PROTOCOL.md": "4f6e05206d46059cdbb9bcc6c8a34ac47ebad6e7bb7483e5a5398b6037ce9bac",
+  "supporting/MAHMOOD_DECISIONS.md": "571469f9c90265398f479ac322ea426977674ee14806ee14fd9f90abeac8028f",
+  "supporting/synthetic_screen_P02_v3_checks.md": "0f860fb69a1e1b49d31725d3c48f784682b8295872a4253dcf55e37c2e651415",
+  "supporting/synthetic_test_screen_P02_v3.py": "dfa0c86571ebe7e12a86bf349c51b8afee0c6261e36ab28996e802172e321da1",
+  "supporting/v1_archive/TO_FULL_TEXT_P02.json": "8638f258b64e43d0dc34dfb2d8bbb4e6419f62fbd124999833b4a2c8a9edfc2e",
+  "supporting/v1_archive/TRIAGE_P02.jsonl": "8b77a09e754bee56f58e0ce4f49a865715077f3055f92a624e1f69e4ebf38c6f",
+  "supporting/v1_archive/TRIAGE_P02_AUDIT.json": "70c0ff0d2af6093c0b5a467dbbac49ef75fd55c1e541ee19d83891d795fa48ed",
+  "supporting/v1_archive/frame_P02.jsonl": "c2aad90cf12b746b9de40dd5a88113ab43eccddb23c406f33008e53a7eff1a04",
+  "supporting/v1_archive/run_manifest_P02.json": "63cb8b9bb51f16b7538d0bec042c39d4ff7f21f584473603f4285b61fe94298c"
+ },
+ "redacted_files": 0,
+ "note": "Frozen locally before any v3 candidate was screened, after the decisions of 2026-11-02 (dispatch, under Mahmood's delegation; supporting/DECISION_v3_2026-11-02.md). Not released. The public GitHub release P02-screen-v3 is the screening precondition; the Zenodo DOI is recorded when minted."
+}

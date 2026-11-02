@@ -1,0 +1,15 @@
+{
+ "paper": "P04",
+ "version": "v2",
+ "option": "A",
+ "dispositions_completed": 5,
+ "frame_exhausted": false,
+ "last_v2_screen_order_visited": 5,
+ "passers": [],
+ "primary": null,
+ "fallback": null,
+ "result": "V2 FEASIBILITY FAILURE: 5/5 dispositions FAIL, zero complete passers, no primary and no fallback.",
+ "rule_applied": "Section 6: If nothing passes, stop and report the v2 feasibility failure. No v3 without a new explicit decision by Mahmood and a new prospective registration/release. No Option B, new seed, query, endpoint or sixth candidate is automatic.",
+ "unvisited": "v2_screen_order 6..540 remain UNSCREENED (not assessed).",
+ "decided_utc": "2026-11-02T11:08:39.321501+00:00"
+}
