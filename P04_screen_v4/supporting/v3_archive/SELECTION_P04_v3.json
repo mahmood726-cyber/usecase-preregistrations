@@ -1,0 +1,100 @@
+{
+ "paper": "P04",
+ "registration": "P04-screen-v3",
+ "release": {
+  "url": "https://github.com/mahmood726-cyber/usecase-preregistrations/releases/tag/P04-screen-v3",
+  "commit": "c6a3c938d9c914b43ba030ed3866d47f71703a7a",
+  "published_at_utc": "2026-11-02T19:03:10Z",
+  "zenodo_doi": "PENDING",
+  "prereg_sha256": "5e2f5f039e53aeffaed8b28a25ecaaa0947e5b8dfbdc22de03cb3e4e04b825e2",
+  "script_sha256": "91161f79715e7eb337d761fb1a5714c6c47e0305f5b5c8df5d065845b7d1c6e5"
+ },
+ "queue_sha256": "2a88570287edd5f180861075f7c7833bed8017163be75ff22f213c0b8ce6b03f",
+ "stage_f": {
+  "n_dispositions": 40,
+  "f_pass": 9,
+  "f_fail": 31,
+  "f_unresolved": 0,
+  "f_fail_by_terminal_step": {
+   "F2_article_type_non_original": 5,
+   "F4_licence": 10,
+   "F5_population": 4,
+   "F6_drug_nodes": 8,
+   "F7_design_rct_only": 2,
+   "F8_outcome_lock": 1,
+   "F9_k_precheck": 1
+  },
+  "f_pass_queue_orders": [
+   4,
+   9,
+   12,
+   22,
+   24,
+   25,
+   32,
+   37,
+   40
+  ],
+  "log": "STAGE_F_LOG_P04_v3.jsonl",
+  "log_sha256": "547574a44d3542c46facc5c39dc511df662cc845b94cc81e1650c6b683f34807",
+  "validator": "validate_stage_f_log(queue, log, final=True) -> []"
+ },
+ "stage_s": {
+  "stage_s_queue": [
+   4,
+   9,
+   12,
+   22,
+   24
+  ],
+  "results": [
+   {
+    "v3_queue_order": 4,
+    "doi": "10.3389/fendo.2026.1843370",
+    "disposition": "FAIL",
+    "terminal_gate": "S4_follow_up",
+    "k": 48
+   },
+   {
+    "v3_queue_order": 9,
+    "doi": "10.1186/s40199-017-0189-6",
+    "disposition": "FAIL",
+    "terminal_gate": "S4_follow_up",
+    "k": 32
+   },
+   {
+    "v3_queue_order": 12,
+    "doi": "10.3389/fphar.2025.1613610",
+    "disposition": "FAIL",
+    "terminal_gate": "S3_k",
+    "k": null
+   },
+   {
+    "v3_queue_order": 22,
+    "doi": "10.3389/fendo.2023.1096105",
+    "disposition": "FAIL",
+    "terminal_gate": "S6_complete_inputs",
+    "k": 12
+   },
+   {
+    "v3_queue_order": 24,
+    "doi": "10.3389/fendo.2020.00553",
+    "disposition": "UNRESOLVED",
+    "terminal_gate": "S3_k",
+    "k": null
+   }
+  ],
+  "log": "STAGE_S_LOG_P04_v3.jsonl",
+  "log_sha256": "b0f430c2aed97be0cb5d011711956fc58b2808bb4e738ef4361e7ef5da7b8c0b",
+  "validator": "validate_stage_s_log(stage_s_queue, log, final=True) -> []"
+ },
+ "selection": {
+  "function": "select_passers(s_log)",
+  "provisional_primary": null,
+  "fallback": null,
+  "pre_selection_retraction_check": "not run: no Stage S passer"
+ },
+ "outcome": "P04-screen-v3 FEASIBILITY FAILURE: no Stage S passer among the first five F-PASS records.",
+ "stop_rule": "Protocol section 6: no v4, new seed, new query, re-retrieval, 41st F visit, 6th S screen or endpoint switch without a new explicit decision by Mahmood and a new registration and release. The 6th-9th F-passers (queue 25, 32, 37, 40) are NOT screened.",
+ "written_utc": "2026-11-02T19:38:01+00:00"
+}
